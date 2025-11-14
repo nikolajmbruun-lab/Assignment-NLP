@@ -1,0 +1,3800 @@
+István Ujhelyi Juan Fernando López Aguilar 1
+István Ujhelyi Stanislav Polčák 1
+István Ujhelyi Katarina Barley 1
+István Ujhelyi Gilles Lebreton 1
+István Ujhelyi Iratxe García Pérez 1
+István Ujhelyi Clara Ponsatí Obiols 1
+István Ujhelyi Francesca Donato 1
+István Ujhelyi Maite Pagazaurtundúa 1
+István Ujhelyi Angel Dzhambazki 1
+István Ujhelyi Vladimír Bilčík 1
+István Ujhelyi Marc Botenga 1
+István Ujhelyi Mick Wallace 1
+István Ujhelyi Luisa Regimenti 1
+István Ujhelyi Billy Kelleher 1
+István Ujhelyi Guy Verhofstadt 1
+István Ujhelyi Ska Keller 1
+István Ujhelyi Beata Szydło 1
+István Ujhelyi Leszek Miller 1
+István Ujhelyi Siegfried Mureşan 1
+István Ujhelyi Tamás Deutsch 1
+István Ujhelyi Karin Karlsbro 1
+István Ujhelyi Tomislav Sokol 1
+István Ujhelyi Łukasz Kohut 1
+István Ujhelyi Robert Biedroń 1
+István Ujhelyi Salima Yenbou 1
+István Ujhelyi Georgios Kyrtsos 1
+István Ujhelyi Urmas Paet 1
+István Ujhelyi Vilija Blinkevičiūtė 1
+István Ujhelyi Dragoș Pîslaru 1
+István Ujhelyi Cyrus Engerer 1
+István Ujhelyi Sara Cerdas 1
+István Ujhelyi Udo Bullmann 1
+István Ujhelyi Tomáš Zdechovský 1
+István Ujhelyi Markus Ferber 1
+István Ujhelyi Costas Mavrides 1
+István Ujhelyi Mislav Kolakušić 1
+István Ujhelyi Dominique Bilde 1
+István Ujhelyi Pierfrancesco Majorino 1
+István Ujhelyi Tanja Fajon 2
+István Ujhelyi Zbigniew Kuźmiuk 1
+István Ujhelyi Dacian Cioloş 1
+István Ujhelyi Robert Hajšel 1
+István Ujhelyi Andżelika Anna Możdżanowska 1
+István Ujhelyi Gabriele Bischoff 1
+István Ujhelyi Kathleen Van Brempt 1
+István Ujhelyi Jonás Fernández 1
+István Ujhelyi Corina Crețu 1
+István Ujhelyi Jens Geier 1
+István Ujhelyi Rovana Plumb 1
+Katarina Barley Alexandra Geese 1
+Katarina Barley Loránt Vincze 1
+Katarina Barley Pernando Barrena Arza 1
+Katarina Barley Stanislav Polčák 1
+Katarina Barley Gilles Lebreton 1
+Katarina Barley Witold Jan Waszczykowski 1
+Katarina Barley Francesca Donato 1
+Katarina Barley Nicolaus Fest 1
+Katarina Barley Angel Dzhambazki 1
+Katarina Barley Vladimír Bilčík 2
+Katarina Barley Marc Botenga 1
+Katarina Barley Billy Kelleher 1
+Katarina Barley Ska Keller 1
+Katarina Barley Leszek Miller 2
+Katarina Barley Siegfried Mureşan 3
+Katarina Barley Juozas Olekas 1
+Katarina Barley Karin Karlsbro 2
+Katarina Barley José Ramón Bauzá Díaz 1
+Katarina Barley Michaela Šojdrová 1
+Katarina Barley Robert Biedroń 1
+Katarina Barley Georgios Kyrtsos 1
+Katarina Barley Dragoș Pîslaru 1
+Katarina Barley Cyrus Engerer 2
+Katarina Barley Tomáš Zdechovský 1
+Katarina Barley Markus Ferber 1
+Katarina Barley Costas Mavrides 1
+Katarina Barley Mislav Kolakušić 1
+Katarina Barley Robert Hajšel 1
+Katarina Barley Balázs Hidvéghi 1
+Katarina Barley Gabriele Bischoff 2
+Katarina Barley Kathleen Van Brempt 1
+Katarina Barley Sergey Lagodinsky 1
+Katarina Barley Ilhan Kyuchyuk 1
+Katarina Barley Terry Reintke 1
+Katarina Barley Jonás Fernández 1
+Katarina Barley Rovana Plumb 1
+Katarina Barley Juan Fernando López Aguilar 1
+Katarina Barley Ibán García Del Blanco 1
+Katarina Barley Katalin Cseh 1
+Katarina Barley Ivan Vilibor Sinčić 1
+Katarina Barley Iratxe García Pérez 1
+Katarina Barley Clara Ponsatí Obiols 1
+Katarina Barley Maite Pagazaurtundúa 1
+Katarina Barley Andrus Ansip 1
+Katarina Barley François-Xavier Bellamy 1
+Katarina Barley Guy Verhofstadt 1
+Katarina Barley Laura Ferrara 1
+Katarina Barley Beata Szydło 1
+Katarina Barley Tamás Deutsch 1
+Katarina Barley Tom Vandendriessche 1
+Katarina Barley Salima Yenbou 1
+Katarina Barley Urmas Paet 1
+Katarina Barley Vilija Blinkevičiūtė 1
+Katarina Barley Sara Cerdas 1
+Katarina Barley Rasa Juknevičienė 1
+Katarina Barley Helmut Scholz 1
+Katarina Barley Mara Bizzotto 1
+Katarina Barley Dominique Bilde 1
+Katarina Barley Pierfrancesco Majorino 2
+Katarina Barley Tanja Fajon 1
+Katarina Barley Zbigniew Kuźmiuk 1
+Katarina Barley Andżelika Anna Możdżanowska 1
+Katarina Barley Sunčana Glavak 1
+Katarina Barley Bernhard Zimniok 1
+Katarina Barley Jens Geier 1
+Katarina Barley Vlad-Marius Botoş 1
+Witold Jan Waszczykowski Alexandra Geese 1
+Witold Jan Waszczykowski Loránt Vincze 1
+Witold Jan Waszczykowski Pernando Barrena Arza 1
+Witold Jan Waszczykowski Ibán García Del Blanco 1
+Witold Jan Waszczykowski Katalin Cseh 1
+Witold Jan Waszczykowski Gilles Lebreton 1
+Witold Jan Waszczykowski Ivan Vilibor Sinčić 1
+Witold Jan Waszczykowski Francesca Donato 2
+Witold Jan Waszczykowski Angel Dzhambazki 1
+Witold Jan Waszczykowski Andrus Ansip 1
+Witold Jan Waszczykowski Mick Wallace 2
+Witold Jan Waszczykowski Vladimír Bilčík 2
+Witold Jan Waszczykowski Joachim Stanisław Brudziński 1
+Witold Jan Waszczykowski Susanna Ceccardi 1
+Witold Jan Waszczykowski Anna Fotyga 2
+Witold Jan Waszczykowski Róża Thun und Hohenstein 1
+Witold Jan Waszczykowski Beata Szydło 1
+Witold Jan Waszczykowski Leszek Miller 2
+Witold Jan Waszczykowski Laura Ferrara 1
+Witold Jan Waszczykowski Siegfried Mureşan 2
+Witold Jan Waszczykowski Charlie Weimers 1
+Witold Jan Waszczykowski Tom Vandendriessche 1
+Witold Jan Waszczykowski Rosanna Conte 1
+Witold Jan Waszczykowski Juozas Olekas 1
+Witold Jan Waszczykowski Karin Karlsbro 3
+Witold Jan Waszczykowski María Soraya Rodríguez Ramos 1
+Witold Jan Waszczykowski José Ramón Bauzá Díaz 1
+Witold Jan Waszczykowski Michaela Šojdrová 1
+Witold Jan Waszczykowski Georgios Kyrtsos 1
+Witold Jan Waszczykowski Barry Andrews 1
+Witold Jan Waszczykowski Cyrus Engerer 1
+Witold Jan Waszczykowski Rasa Juknevičienė 1
+Witold Jan Waszczykowski Karen Melchior 2
+Witold Jan Waszczykowski Helmut Scholz 1
+Witold Jan Waszczykowski Karlo Ressler 1
+Witold Jan Waszczykowski Mara Bizzotto 1
+Witold Jan Waszczykowski Pierfrancesco Majorino 2
+Witold Jan Waszczykowski Zbigniew Kuźmiuk 1
+Witold Jan Waszczykowski Balázs Hidvéghi 1
+Witold Jan Waszczykowski Gabriele Bischoff 1
+Witold Jan Waszczykowski Sunčana Glavak 1
+Witold Jan Waszczykowski Bernhard Zimniok 1
+Witold Jan Waszczykowski Ilhan Kyuchyuk 1
+Witold Jan Waszczykowski Terry Reintke 1
+Witold Jan Waszczykowski Vlad-Marius Botoş 3
+Deirdre Clune Tomislav Sokol 1
+Deirdre Clune Alexandra Geese 1
+Deirdre Clune Loucas Fourlas 1
+Deirdre Clune Enikő Győri 1
+Deirdre Clune Evelyne Gebhardt 1
+Deirdre Clune Sylwia Spurek 1
+Deirdre Clune Caterina Chinnici 1
+Deirdre Clune Elżbieta Rafalska 1
+Deirdre Clune Krzysztof Hetman 1
+Deirdre Clune Josianne Cutajar 1
+Deirdre Clune Sara Cerdas 1
+Deirdre Clune Lefteris Nikolaou-Alavanos 1
+Deirdre Clune Dacian Cioloş 1
+Deirdre Clune Eugen Tomac 1
+Deirdre Clune Denis Nesci 1
+Deirdre Clune Sara Skyttedal 1
+Deirdre Clune Emmanuel Maurel 1
+Deirdre Clune Rosanna Conte 1
+László Trócsányi Łukasz Kohut 1
+László Trócsányi Loránt Vincze 1
+László Trócsányi Kim Van Sparrentak 1
+László Trócsányi Fabio Massimo Castaldo 1
+László Trócsányi Harald Vilimsky 3
+László Trócsányi Iratxe García Pérez 1
+László Trócsányi Chris MacManus 1
+László Trócsányi Paolo Borchia 1
+László Trócsányi Vilija Blinkevičiūtė 1
+László Trócsányi Hermann Tertsch 1
+László Trócsányi Jérôme Rivière 1
+László Trócsányi Helmut Scholz 1
+László Trócsányi Claudia Gamon 1
+László Trócsányi Maria Grapini 1
+László Trócsányi Tanja Fajon 1
+László Trócsányi Vladimír Bilčík 2
+László Trócsányi Christian Ehler 1
+László Trócsányi Ska Keller 1
+László Trócsányi Terry Reintke 1
+László Trócsányi Nicolas Bay 1
+László Trócsányi Jorge Buxadé Villalba 1
+Juozas Olekas Alexandra Geese 1
+Juozas Olekas Loránt Vincze 1
+Juozas Olekas Pernando Barrena Arza 1
+Juozas Olekas Stanislav Polčák 1
+Juozas Olekas Ibán García Del Blanco 1
+Juozas Olekas Katalin Cseh 1
+Juozas Olekas Ivan Vilibor Sinčić 1
+Juozas Olekas Tsvetelina Penkova 1
+Juozas Olekas Francesca Donato 1
+Juozas Olekas Angel Dzhambazki 1
+Juozas Olekas Andrus Ansip 1
+Juozas Olekas Vladimír Bilčík 1
+Juozas Olekas Christian Ehler 1
+Juozas Olekas Anna Fotyga 1
+Juozas Olekas Pedro Marques 1
+Juozas Olekas Patrizia Toia 1
+Juozas Olekas Laura Ferrara 1
+Juozas Olekas Leszek Miller 1
+Juozas Olekas Beata Szydło 2
+Juozas Olekas Siegfried Mureşan 1
+Juozas Olekas Yannick Jadot 1
+Juozas Olekas Tom Vandendriessche 1
+Juozas Olekas Karin Karlsbro 1
+Juozas Olekas Grzegorz Tobiszowski 1
+Juozas Olekas Marina Mesure 1
+Juozas Olekas José Ramón Bauzá Díaz 1
+Juozas Olekas Michaela Šojdrová 1
+Juozas Olekas Tiemo Wölken 1
+Juozas Olekas Cyrus Engerer 1
+Juozas Olekas Rasa Juknevičienė 1
+Juozas Olekas Helmut Scholz 1
+Juozas Olekas Mara Bizzotto 1
+Juozas Olekas Pierfrancesco Majorino 1
+Juozas Olekas Robert Hajšel 1
+Juozas Olekas Balázs Hidvéghi 1
+Juozas Olekas Gabriele Bischoff 1
+Juozas Olekas Sunčana Glavak 1
+Juozas Olekas Bernhard Zimniok 1
+Juozas Olekas Ilhan Kyuchyuk 1
+Juozas Olekas Terry Reintke 1
+Juozas Olekas Vlad-Marius Botoş 1
+Tomislav Sokol Alexandra Geese 1
+Tomislav Sokol Enikő Győri 1
+Tomislav Sokol Łukasz Kohut 1
+Tomislav Sokol Karima Delli 1
+Tomislav Sokol Josianne Cutajar 1
+Tomislav Sokol France Jamet 2
+Tomislav Sokol Jens Geier 1
+Tomislav Sokol Udo Bullmann 1
+Tomislav Sokol Lefteris Nikolaou-Alavanos 1
+Tomislav Sokol Tanja Fajon 1
+Tomislav Sokol Dacian Cioloş 2
+Tomislav Sokol Mick Wallace 1
+Tomislav Sokol Sara Skyttedal 1
+Tomislav Sokol Luisa Regimenti 1
+Tomislav Sokol Corina Crețu 1
+Sylvie Guillaume Juan Fernando López Aguilar 1
+Sylvie Guillaume Delara Burkhardt 1
+Sylvie Guillaume Ernest Urtasun 1
+Sylvie Guillaume Alice Kuhnke 1
+Sylvie Guillaume Laura Ferrara 1
+Sylvie Guillaume Helmut Scholz 1
+Clara Aguilera Sophia in 't Veld 1
+Clara Aguilera Marc Botenga 1
+Mislav Kolakušić Juan Fernando López Aguilar 1
+Mislav Kolakušić Stanislav Polčák 1
+Mislav Kolakušić Gilles Lebreton 1
+Mislav Kolakušić Iratxe García Pérez 1
+Mislav Kolakušić Viola von Cramon-Taubadel 1
+Mislav Kolakušić Clara Ponsatí Obiols 1
+Mislav Kolakušić Othmar Karas 1
+Mislav Kolakušić Francesca Donato 1
+Mislav Kolakušić Maite Pagazaurtundúa 1
+Mislav Kolakušić Angel Dzhambazki 1
+Mislav Kolakušić Vladimír Bilčík 1
+Mislav Kolakušić Marc Botenga 1
+Mislav Kolakušić Billy Kelleher 1
+Mislav Kolakušić Guy Verhofstadt 1
+Mislav Kolakušić Ska Keller 1
+Mislav Kolakušić Beata Szydło 1
+Mislav Kolakušić Leszek Miller 1
+Mislav Kolakušić Siegfried Mureşan 1
+Mislav Kolakušić Tamás Deutsch 1
+Mislav Kolakušić Nicolas Bay 1
+Mislav Kolakušić Karin Karlsbro 1
+Mislav Kolakušić Robert Biedroń 1
+Mislav Kolakušić Salima Yenbou 1
+Mislav Kolakušić Georgios Kyrtsos 1
+Mislav Kolakušić Urmas Paet 1
+Mislav Kolakušić Vilija Blinkevičiūtė 1
+Mislav Kolakušić Dragoș Pîslaru 1
+Mislav Kolakušić Cyrus Engerer 1
+Mislav Kolakušić Sara Cerdas 1
+Mislav Kolakušić Tomáš Zdechovský 1
+Mislav Kolakušić Markus Ferber 1
+Mislav Kolakušić Costas Mavrides 1
+Mislav Kolakušić Dominique Bilde 1
+Mislav Kolakušić Pierfrancesco Majorino 1
+Mislav Kolakušić Tanja Fajon 1
+Mislav Kolakušić Zbigniew Kuźmiuk 1
+Mislav Kolakušić Maria Grapini 1
+Mislav Kolakušić Robert Hajšel 1
+Mislav Kolakušić Andżelika Anna Możdżanowska 1
+Mislav Kolakušić Gabriele Bischoff 1
+Mislav Kolakušić Kathleen Van Brempt 1
+Mislav Kolakušić Jonás Fernández 1
+Mislav Kolakušić Jens Geier 1
+Mislav Kolakušić Rovana Plumb 1
+Dacian Cioloş Jessica Polfjärd 1
+Dacian Cioloş Alexandra Geese 1
+Dacian Cioloş Stanislav Polčák 1
+Dacian Cioloş Maxette Pirbakas 1
+Dacian Cioloş Vlad Gheorghe 1
+Dacian Cioloş Francesca Donato 1
+Dacian Cioloş Angel Dzhambazki 1
+Dacian Cioloş Veronika Vrecionová 1
+Dacian Cioloş Maria Arena 1
+Dacian Cioloş György Hölvényi 1
+Dacian Cioloş Bert-Jan Ruissen 1
+Dacian Cioloş Róża Thun und Hohenstein 1
+Dacian Cioloş Mazaly Aguilar 1
+Dacian Cioloş Rosanna Conte 1
+Dacian Cioloş Łukasz Kohut 1
+Dacian Cioloş María Soraya Rodríguez Ramos 1
+Dacian Cioloş Ivan Štefanec 1
+Dacian Cioloş Udo Bullmann 1
+Dacian Cioloş Tomáš Zdechovský 1
+Dacian Cioloş Markus Ferber 1
+Dacian Cioloş Tineke Strik 1
+Dacian Cioloş David Cormand 1
+Dacian Cioloş Robert Hajšel 1
+Dacian Cioloş Alviina Alametsä 1
+Dacian Cioloş Ciarán Cuffe 1
+Dacian Cioloş Sophia in 't Veld 1
+Dacian Cioloş Jonás Fernández 1
+Dacian Cioloş Roman Haider 1
+Dacian Cioloş Corina Crețu 1
+Dacian Cioloş Rovana Plumb 1
+Dacian Cioloş Izaskun Bilbao Barandica 1
+Dacian Cioloş Karima Delli 1
+Dacian Cioloş Lefteris Nikolaou-Alavanos 2
+Dacian Cioloş Malik Azmani 1
+Dacian Cioloş Jan Olbrycht 1
+Dacian Cioloş Ismail Ertug 1
+Dacian Cioloş Ville Niinistö 1
+Dacian Cioloş Mick Wallace 2
+Dacian Cioloş François-Xavier Bellamy 1
+Dacian Cioloş Sirpa Pietikäinen 1
+Dacian Cioloş Sara Skyttedal 1
+Dacian Cioloş Luisa Regimenti 1
+Dacian Cioloş Manuel Bompard 2
+Dacian Cioloş Erik Bergkvist 1
+Dacian Cioloş Hervé Juvin 1
+Dacian Cioloş Enikő Győri 1
+Dacian Cioloş Josianne Cutajar 1
+Dacian Cioloş Georg Mayer 1
+Dacian Cioloş Alex Agius Saliba 1
+Dacian Cioloş Vilija Blinkevičiūtė 1
+Dacian Cioloş Guido Reil 1
+Dacian Cioloş Karlo Ressler 2
+Dacian Cioloş Tanja Fajon 1
+Dacian Cioloş Margarida Marques 1
+Dacian Cioloş Nacho Sánchez Amor 2
+Dacian Cioloş Giorgos Georgiou 1
+Dacian Cioloş Elsi Katainen 1
+Dacian Cioloş Diana Riba i Giner 1
+Dacian Cioloş Ljudmila Novak 1
+Dacian Cioloş Kostas Papadakis 1
+Dacian Cioloş Rosa D'Amato 1
+Dacian Cioloş Vlad-Marius Botoş 1
+Jonás Fernández Juan Fernando López Aguilar 1
+Jonás Fernández Stanislav Polčák 1
+Jonás Fernández Gilles Lebreton 1
+Jonás Fernández Iratxe García Pérez 1
+Jonás Fernández Clara Ponsatí Obiols 1
+Jonás Fernández Lefteris Nikolaou-Alavanos 1
+Jonás Fernández Francesca Donato 2
+Jonás Fernández Maite Pagazaurtundúa 1
+Jonás Fernández Angel Dzhambazki 1
+Jonás Fernández Mick Wallace 1
+Jonás Fernández Marc Botenga 1
+Jonás Fernández Vladimír Bilčík 1
+Jonás Fernández Billy Kelleher 1
+Jonás Fernández Guy Verhofstadt 1
+Jonás Fernández Ska Keller 1
+Jonás Fernández Beata Szydło 1
+Jonás Fernández Leszek Miller 1
+Jonás Fernández Siegfried Mureşan 1
+Jonás Fernández Tamás Deutsch 1
+Jonás Fernández Karin Karlsbro 1
+Jonás Fernández Derk Jan Eppink 1
+Jonás Fernández Robert Biedroń 1
+Jonás Fernández Salima Yenbou 1
+Jonás Fernández Georgios Kyrtsos 1
+Jonás Fernández Urmas Paet 1
+Jonás Fernández Alex Agius Saliba 1
+Jonás Fernández Dragoș Pîslaru 1
+Jonás Fernández Vilija Blinkevičiūtė 1
+Jonás Fernández Cyrus Engerer 1
+Jonás Fernández Sara Cerdas 1
+Jonás Fernández Tomáš Zdechovský 1
+Jonás Fernández Markus Ferber 1
+Jonás Fernández Costas Mavrides 1
+Jonás Fernández Dominique Bilde 1
+Jonás Fernández Pierfrancesco Majorino 1
+Jonás Fernández Tanja Fajon 1
+Jonás Fernández Zbigniew Kuźmiuk 1
+Jonás Fernández Robert Hajšel 1
+Jonás Fernández Giorgos Georgiou 1
+Jonás Fernández Andżelika Anna Możdżanowska 1
+Jonás Fernández Gabriele Bischoff 1
+Jonás Fernández Kathleen Van Brempt 1
+Jonás Fernández Kostas Papadakis 1
+Jonás Fernández Jens Geier 1
+Jonás Fernández Rovana Plumb 1
+Milan Uhrík Angel Dzhambazki 1
+Milan Uhrík Caterina Chinnici 1
+Milan Uhrík Zbigniew Kuźmiuk 1
+Milan Uhrík Mick Wallace 1
+Milan Uhrík Joachim Stanisław Brudziński 1
+Milan Uhrík Christophe Hansen 1
+Milan Uhrík Mounir Satouri 1
+Milan Uhrík Kostas Papadakis 1
+Milan Uhrík Ilhan Kyuchyuk 1
+Milan Uhrík Ioan-Rareş Bogdan 1
+Milan Uhrík Charlie Weimers 1
+Milan Uhrík Isabel Santos 1
+Milan Uhrík Rosanna Conte 1
+Milan Uhrík Karin Karlsbro 1
+Ibán García Del Blanco Alexandra Geese 1
+Ibán García Del Blanco Loránt Vincze 1
+Ibán García Del Blanco Pernando Barrena Arza 1
+Ibán García Del Blanco José Ramón Bauzá Díaz 1
+Ibán García Del Blanco Michaela Šojdrová 1
+Ibán García Del Blanco Katalin Cseh 1
+Ibán García Del Blanco Ivan Vilibor Sinčić 1
+Ibán García Del Blanco Vlad-Marius Botoş 1
+Ibán García Del Blanco Cyrus Engerer 1
+Ibán García Del Blanco Rasa Juknevičienė 1
+Ibán García Del Blanco Helmut Scholz 1
+Ibán García Del Blanco Mara Bizzotto 1
+Ibán García Del Blanco Pierfrancesco Majorino 1
+Ibán García Del Blanco Andrus Ansip 1
+Ibán García Del Blanco Vladimír Bilčík 1
+Ibán García Del Blanco Balázs Hidvéghi 1
+Ibán García Del Blanco Gabriele Bischoff 1
+Ibán García Del Blanco Sunčana Glavak 1
+Ibán García Del Blanco Bernhard Zimniok 1
+Ibán García Del Blanco Laura Ferrara 1
+Ibán García Del Blanco Leszek Miller 1
+Ibán García Del Blanco Ilhan Kyuchyuk 1
+Ibán García Del Blanco Terry Reintke 1
+Ibán García Del Blanco Siegfried Mureşan 1
+Ibán García Del Blanco Eugenia Rodríguez Palop 1
+Ibán García Del Blanco Tom Vandendriessche 1
+Ibán García Del Blanco Karin Karlsbro 1
+Harald Vilimsky Łukasz Kohut 1
+Harald Vilimsky Loránt Vincze 1
+Harald Vilimsky Kim Van Sparrentak 1
+Harald Vilimsky Fabio Massimo Castaldo 1
+Harald Vilimsky Chris MacManus 1
+Harald Vilimsky Iratxe García Pérez 1
+Harald Vilimsky Paolo Borchia 1
+Harald Vilimsky Vilija Blinkevičiūtė 1
+Harald Vilimsky Hermann Tertsch 1
+Harald Vilimsky Guido Reil 1
+Harald Vilimsky Jérôme Rivière 1
+Harald Vilimsky Helmut Scholz 1
+Harald Vilimsky Claudia Gamon 1
+Harald Vilimsky Maria Grapini 1
+Harald Vilimsky Tanja Fajon 1
+Harald Vilimsky Vladimír Bilčík 2
+Harald Vilimsky Christian Ehler 1
+Harald Vilimsky Ska Keller 2
+Harald Vilimsky Terry Reintke 1
+Harald Vilimsky Nicolas Bay 1
+Harald Vilimsky Jorge Buxadé Villalba 1
+Marlene Mortler Karima Delli 1
+Marlene Mortler Chris MacManus 1
+Marlene Mortler Marie Toussaint 1
+Marlene Mortler Othmar Karas 1
+Marlene Mortler Vlad Gheorghe 1
+Marlene Mortler Caroline Roose 1
+Marlene Mortler Ville Niinistö 1
+Marlene Mortler Edina Tóth 1
+Marlene Mortler François-Xavier Bellamy 1
+Marlene Mortler Eider Gardiazabal Rubial 1
+Marlene Mortler Ernest Urtasun 1
+Marlene Mortler Isabel García Muñoz 1
+Marlene Mortler Pierre Larrouturou 1
+Marlene Mortler Manuel Bompard 1
+Marlene Mortler Yannick Jadot 1
+Marlene Mortler Maria Angela Danzì 1
+Marlene Mortler Erik Bergkvist 1
+Marlene Mortler Rosanna Conte 1
+Marlene Mortler Karin Karlsbro 1
+Marlene Mortler Marina Mesure 1
+Marlene Mortler Michaela Šojdrová 1
+Marlene Mortler Josianne Cutajar 1
+Marlene Mortler Alex Agius Saliba 1
+Marlene Mortler Christel Schaldemose 1
+Marlene Mortler Tiemo Wölken 1
+Marlene Mortler Sara Cerdas 1
+Marlene Mortler Alfred Sant 1
+Marlene Mortler Elsi Katainen 1
+Marlene Mortler Ellie Chowns 1
+Marlene Mortler Alice Kuhnke 1
+Marlene Mortler Rovana Plumb 1
+Malik Azmani Nacho Sánchez Amor 1
+Katrin Langensiepen György Hölvényi 1
+Katrin Langensiepen Rovana Plumb 1
+Katrin Langensiepen Ádám Kósa 1
+Katrin Langensiepen Assita Kanko 1
+Katrin Langensiepen Udo Bullmann 1
+Katrin Langensiepen Carlos Zorrinho 1
+Katrin Langensiepen Karlo Ressler 1
+Anja Hazekamp Janina Ochojska 1
+Anja Hazekamp Mazaly Aguilar 1
+Anja Hazekamp Sylvia Limmer 2
+Anja Hazekamp Róża Thun und Hohenstein 1
+Anja Hazekamp Marie Toussaint 1
+Anja Hazekamp Vlad Gheorghe 1
+Anja Hazekamp Caroline Roose 2
+Anja Hazekamp Erik Bergkvist 1
+Anja Hazekamp Hervé Juvin 1
+Andrus Ansip Alexandra Geese 1
+Andrus Ansip Loránt Vincze 1
+Andrus Ansip Pernando Barrena Arza 1
+Andrus Ansip José Ramón Bauzá Díaz 1
+Andrus Ansip Michaela Šojdrová 1
+Andrus Ansip Katalin Cseh 1
+Andrus Ansip Ivan Vilibor Sinčić 1
+Andrus Ansip Vlad-Marius Botoş 1
+Andrus Ansip Cyrus Engerer 1
+Andrus Ansip Rasa Juknevičienė 1
+Andrus Ansip Helmut Scholz 1
+Andrus Ansip Mara Bizzotto 1
+Andrus Ansip Pierfrancesco Majorino 1
+Andrus Ansip Vladimír Bilčík 1
+Andrus Ansip Balázs Hidvéghi 1
+Andrus Ansip Gabriele Bischoff 1
+Andrus Ansip Sunčana Glavak 1
+Andrus Ansip Bernhard Zimniok 1
+Andrus Ansip Christine Anderson 1
+Andrus Ansip Laura Ferrara 1
+Andrus Ansip Leszek Miller 1
+Andrus Ansip Ilhan Kyuchyuk 1
+Andrus Ansip Terry Reintke 1
+Andrus Ansip Siegfried Mureşan 1
+Andrus Ansip Tom Vandendriessche 1
+Andrus Ansip Karin Karlsbro 1
+Mick Wallace Martin Sonneborn 1
+Mick Wallace Lara Wolters 1
+Mick Wallace Virginie Joron 1
+Mick Wallace Francesca Donato 3
+Mick Wallace Angel Dzhambazki 2
+Mick Wallace György Hölvényi 1
+Mick Wallace Vladimír Bilčík 1
+Mick Wallace Marc Botenga 1
+Mick Wallace Joachim Stanisław Brudziński 1
+Mick Wallace Susanna Ceccardi 1
+Mick Wallace Anna Fotyga 1
+Mick Wallace Christine Anderson 1
+Mick Wallace Leszek Miller 1
+Mick Wallace Isabel Santos 2
+Mick Wallace Jorge Buxadé Villalba 1
+Mick Wallace Karin Karlsbro 2
+Mick Wallace María Soraya Rodríguez Ramos 1
+Mick Wallace Łukasz Kohut 1
+Mick Wallace Michaela Šojdrová 1
+Mick Wallace Miriam Lexmann 1
+Mick Wallace Georgios Kyrtsos 1
+Mick Wallace Miapetra Kumpula-Natri 1
+Mick Wallace Udo Bullmann 2
+Mick Wallace Karen Melchior 1
+Mick Wallace Tomáš Zdechovský 1
+Mick Wallace Eleonora Evi 1
+Mick Wallace Robert Hajšel 2
+Mick Wallace Bogdan Rzońca 1
+Mick Wallace Sophia in 't Veld 1
+Mick Wallace Elena Lizzi 2
+Mick Wallace Ilhan Kyuchyuk 2
+Mick Wallace Corina Crețu 1
+Mick Wallace Frances Fitzgerald 1
+Mick Wallace Karima Delli 1
+Mick Wallace Ivan Vilibor Sinčić 1
+Mick Wallace Jaak Madison 1
+Mick Wallace Lefteris Nikolaou-Alavanos 1
+Mick Wallace Luisa Regimenti 1
+Mick Wallace Tamás Deutsch 1
+Mick Wallace Enikő Győri 1
+Mick Wallace Salima Yenbou 1
+Mick Wallace Urmas Paet 1
+Mick Wallace Alex Agius Saliba 1
+Mick Wallace Christel Schaldemose 1
+Mick Wallace Sara Cerdas 1
+Mick Wallace Cristian Terheş 1
+Mick Wallace Karlo Ressler 1
+Mick Wallace Mara Bizzotto 1
+Mick Wallace Pierfrancesco Majorino 1
+Mick Wallace Tanja Fajon 2
+Mick Wallace Margarida Marques 1
+Mick Wallace Zbigniew Kuźmiuk 1
+Mick Wallace Giorgos Georgiou 1
+Mick Wallace Mounir Satouri 1
+Mick Wallace Kostas Papadakis 1
+Mick Wallace Carlos Zorrinho 1
+Mick Wallace Vlad-Marius Botoş 2
+Hervé Juvin Maxette Pirbakas 1
+Hervé Juvin François-Xavier Bellamy 1
+Hervé Juvin Elsi Katainen 1
+Hervé Juvin Bert-Jan Ruissen 1
+Hervé Juvin Róża Thun und Hohenstein 1
+Hervé Juvin Ljudmila Novak 1
+Hervé Juvin Manuel Bompard 1
+Hervé Juvin Mazaly Aguilar 1
+Hervé Juvin Vlad-Marius Botoş 1
+Grzegorz Tobiszowski Marina Mesure 1
+Grzegorz Tobiszowski Christian Ehler 1
+Grzegorz Tobiszowski Patrizia Toia 1
+Grzegorz Tobiszowski Tiemo Wölken 1
+Grzegorz Tobiszowski Tsvetelina Penkova 1
+Grzegorz Tobiszowski Beata Szydło 2
+Grzegorz Tobiszowski Yannick Jadot 1
+Salima Yenbou Juan Fernando López Aguilar 1
+Salima Yenbou Frances Fitzgerald 1
+Salima Yenbou Stanislav Polčák 1
+Salima Yenbou Gilles Lebreton 1
+Salima Yenbou Ivan Vilibor Sinčić 1
+Salima Yenbou Iratxe García Pérez 1
+Salima Yenbou Clara Ponsatí Obiols 1
+Salima Yenbou Virginie Joron 1
+Salima Yenbou Francesca Donato 1
+Salima Yenbou Maite Pagazaurtundúa 1
+Salima Yenbou Angel Dzhambazki 1
+Salima Yenbou Marc Botenga 1
+Salima Yenbou Vladimír Bilčík 1
+Salima Yenbou Billy Kelleher 1
+Salima Yenbou Guy Verhofstadt 1
+Salima Yenbou Ska Keller 1
+Salima Yenbou Beata Szydło 1
+Salima Yenbou Leszek Miller 1
+Salima Yenbou Siegfried Mureşan 1
+Salima Yenbou Tamás Deutsch 1
+Salima Yenbou Isabel Santos 1
+Salima Yenbou Karin Karlsbro 1
+Salima Yenbou Robert Biedroń 1
+Salima Yenbou Georgios Kyrtsos 1
+Salima Yenbou Urmas Paet 1
+Salima Yenbou Vilija Blinkevičiūtė 1
+Salima Yenbou Dragoș Pîslaru 2
+Salima Yenbou Cyrus Engerer 1
+Salima Yenbou Sara Cerdas 2
+Salima Yenbou Tomáš Zdechovský 1
+Salima Yenbou Markus Ferber 1
+Salima Yenbou Costas Mavrides 1
+Salima Yenbou Karlo Ressler 1
+Salima Yenbou Dominique Bilde 1
+Salima Yenbou Pierfrancesco Majorino 1
+Salima Yenbou Tanja Fajon 1
+Salima Yenbou Zbigniew Kuźmiuk 1
+Salima Yenbou Robert Hajšel 1
+Salima Yenbou Andżelika Anna Możdżanowska 1
+Salima Yenbou Mounir Satouri 1
+Salima Yenbou Gabriele Bischoff 1
+Salima Yenbou Özlem Demirel 1
+Salima Yenbou Sophia in 't Veld 1
+Salima Yenbou Kathleen Van Brempt 1
+Salima Yenbou Jens Geier 1
+Salima Yenbou Rovana Plumb 1
+Vilija Blinkevičiūtė Loránt Vincze 1
+Vilija Blinkevičiūtė Stanislav Polčák 2
+Vilija Blinkevičiūtė Gilles Lebreton 1
+Vilija Blinkevičiūtė Chris MacManus 1
+Vilija Blinkevičiūtė Virginie Joron 1
+Vilija Blinkevičiūtė Francesca Donato 1
+Vilija Blinkevičiūtė Angel Dzhambazki 1
+Vilija Blinkevičiūtė Veronika Vrecionová 1
+Vilija Blinkevičiūtė Maria Arena 2
+Vilija Blinkevičiūtė Joachim Stanisław Brudziński 1
+Vilija Blinkevičiūtė Vladimír Bilčík 2
+Vilija Blinkevičiūtė Marc Botenga 2
+Vilija Blinkevičiūtė Billy Kelleher 1
+Vilija Blinkevičiūtė Bert-Jan Ruissen 1
+Vilija Blinkevičiūtė Ska Keller 2
+Vilija Blinkevičiūtė Leszek Miller 1
+Vilija Blinkevičiūtė Siegfried Mureşan 1
+Vilija Blinkevičiūtė Isabel Santos 1
+Vilija Blinkevičiūtė Jorge Buxadé Villalba 1
+Vilija Blinkevičiūtė Karin Karlsbro 2
+Vilija Blinkevičiūtė María Soraya Rodríguez Ramos 1
+Vilija Blinkevičiūtė Kim Van Sparrentak 1
+Vilija Blinkevičiūtė Łukasz Kohut 1
+Vilija Blinkevičiūtė José Ramón Bauzá Díaz 1
+Vilija Blinkevičiūtė Michaela Šojdrová 1
+Vilija Blinkevičiūtė Robert Biedroń 1
+Vilija Blinkevičiūtė Georgios Kyrtsos 1
+Vilija Blinkevičiūtė Fabio Massimo Castaldo 1
+Vilija Blinkevičiūtė Dragoș Pîslaru 2
+Vilija Blinkevičiūtė Cyrus Engerer 1
+Vilija Blinkevičiūtė Ana Miranda 1
+Vilija Blinkevičiūtė Tomáš Zdechovský 2
+Vilija Blinkevičiūtė Tineke Strik 1
+Vilija Blinkevičiūtė Markus Ferber 1
+Vilija Blinkevičiūtė Costas Mavrides 1
+Vilija Blinkevičiūtė Maria Grapini 1
+Vilija Blinkevičiūtė Robert Hajšel 1
+Vilija Blinkevičiūtė Alviina Alametsä 1
+Vilija Blinkevičiūtė Gabriele Bischoff 1
+Vilija Blinkevičiūtė Sophia in 't Veld 1
+Vilija Blinkevičiūtė Kathleen Van Brempt 2
+Vilija Blinkevičiūtė Elena Lizzi 1
+Vilija Blinkevičiūtė Ilhan Kyuchyuk 1
+Vilija Blinkevičiūtė Jadwiga Wiśniewska 1
+Vilija Blinkevičiūtė Rovana Plumb 1
+Vilija Blinkevičiūtė Izaskun Bilbao Barandica 1
+Vilija Blinkevičiūtė Juan Fernando López Aguilar 2
+Vilija Blinkevičiūtė Sylwia Spurek 1
+Vilija Blinkevičiūtė Reinhard Bütikofer 1
+Vilija Blinkevičiūtė Ivan Vilibor Sinčić 1
+Vilija Blinkevičiūtė Iratxe García Pérez 2
+Vilija Blinkevičiūtė Clara Ponsatí Obiols 1
+Vilija Blinkevičiūtė Hermann Tertsch 1
+Vilija Blinkevičiūtė Idoia Villanueva Ruiz 1
+Vilija Blinkevičiūtė Jan Olbrycht 1
+Vilija Blinkevičiūtė Maite Pagazaurtundúa 1
+Vilija Blinkevičiūtė Claudia Gamon 1
+Vilija Blinkevičiūtė Christian Ehler 1
+Vilija Blinkevičiūtė Guy Verhofstadt 1
+Vilija Blinkevičiūtė Hannah Neumann 1
+Vilija Blinkevičiūtė Beata Szydło 1
+Vilija Blinkevičiūtė Manuel Bompard 1
+Vilija Blinkevičiūtė Tamás Deutsch 1
+Vilija Blinkevičiūtė Jan-Christoph Oetjen 1
+Vilija Blinkevičiūtė Nicolas Bay 1
+Vilija Blinkevičiūtė Damien Carême 1
+Vilija Blinkevičiūtė Caterina Chinnici 1
+Vilija Blinkevičiūtė Urmas Paet 1
+Vilija Blinkevičiūtė Paolo Borchia 1
+Vilija Blinkevičiūtė Sara Cerdas 1
+Vilija Blinkevičiūtė Cristian Terheş 1
+Vilija Blinkevičiūtė Jérôme Rivière 1
+Vilija Blinkevičiūtė Helmut Scholz 1
+Vilija Blinkevičiūtė Mara Bizzotto 1
+Vilija Blinkevičiūtė Dominique Bilde 1
+Vilija Blinkevičiūtė Pierfrancesco Majorino 2
+Vilija Blinkevičiūtė Tanja Fajon 2
+Vilija Blinkevičiūtė Zbigniew Kuźmiuk 1
+Vilija Blinkevičiūtė Margarida Marques 1
+Vilija Blinkevičiūtė Andżelika Anna Możdżanowska 1
+Vilija Blinkevičiūtė Diana Riba i Giner 1
+Vilija Blinkevičiūtė Jens Geier 1
+Vilija Blinkevičiūtė Vlad-Marius Botoş 1
+Guido Reil Manon Aubry 1
+Guido Reil Ska Keller 1
+Guido Reil Virginie Joron 1
+Guido Reil Hermann Tertsch 1
+Guido Reil Rosa D'Amato 1
+Guido Reil Roman Haider 1
+Guido Reil Markus Ferber 1
+Guido Reil Claudia Gamon 1
+Margarida Marques Enikő Győri 1
+Margarida Marques Frances Fitzgerald 1
+Margarida Marques Karima Delli 1
+Margarida Marques Miapetra Kumpula-Natri 1
+Margarida Marques Vlad-Marius Botoş 1
+Margarida Marques Christel Schaldemose 1
+Margarida Marques Udo Bullmann 1
+Margarida Marques Jan Olbrycht 1
+Margarida Marques Tomáš Zdechovský 1
+Margarida Marques Francesca Donato 1
+Margarida Marques Angel Dzhambazki 1
+Margarida Marques Veronika Vrecionová 1
+Margarida Marques Maria Arena 1
+Margarida Marques György Hölvényi 1
+Margarida Marques Marc Botenga 1
+Margarida Marques Robert Hajšel 2
+Margarida Marques Bogdan Rzońca 1
+Margarida Marques Mounir Satouri 1
+Margarida Marques Sophia in 't Veld 1
+Margarida Marques Elena Lizzi 1
+Margarida Marques Leszek Miller 1
+Margarida Marques Carlos Zorrinho 1
+Margarida Marques Manuel Bompard 1
+Margarida Marques Tamás Deutsch 1
+Margarida Marques Jorge Buxadé Villalba 1
+Özlem Demirel Margrete Auken 1
+Özlem Demirel Isabel Santos 1
+Maria Spyraki Cláudia Monteiro de Aguiar 1
+Maria Spyraki Urmas Paet 1
+Maria Spyraki Paolo Borchia 1
+Maria Spyraki Alfred Sant 1
+Maria Spyraki Leszek Miller 1
+Carlos Zorrinho Enikő Győri 1
+Carlos Zorrinho Karima Delli 1
+Carlos Zorrinho Christophe Hansen 1
+Carlos Zorrinho Miapetra Kumpula-Natri 2
+Carlos Zorrinho Urmas Paet 1
+Carlos Zorrinho Vlad-Marius Botoş 1
+Carlos Zorrinho Christel Schaldemose 1
+Carlos Zorrinho Udo Bullmann 2
+Carlos Zorrinho Ioan-Rareş Bogdan 1
+Carlos Zorrinho Nicola Beer 1
+Carlos Zorrinho Francesca Donato 1
+Carlos Zorrinho Karlo Ressler 2
+Carlos Zorrinho Angel Dzhambazki 1
+Carlos Zorrinho György Hölvényi 2
+Carlos Zorrinho Marc Botenga 1
+Carlos Zorrinho Robert Hajšel 1
+Carlos Zorrinho Bogdan Rzońca 2
+Carlos Zorrinho Ádám Kósa 1
+Carlos Zorrinho Bert-Jan Ruissen 1
+Carlos Zorrinho Guy Verhofstadt 1
+Carlos Zorrinho Elena Lizzi 1
+Carlos Zorrinho Paulo Rangel 1
+Carlos Zorrinho Leszek Miller 1
+Carlos Zorrinho Tamás Deutsch 2
+Carlos Zorrinho Erik Bergkvist 1
+Carlos Zorrinho Rovana Plumb 1
+Carlos Zorrinho Jorge Buxadé Villalba 1
+Marisa Matias Marina Mesure 1
+Marisa Matias Tsvetelina Penkova 1
+Marisa Matias Tiziana Beghin 1
+Marisa Matias Paulo Rangel 1
+Marisa Matias Mohammed Chahim 1
+Marisa Matias Karin Karlsbro 1
+Evelyne Gebhardt Nicolaus Fest 1
+Evelyne Gebhardt Eugen Tomac 1
+Evelyne Gebhardt Denis Nesci 1
+Evelyne Gebhardt Emmanuel Maurel 1
+Ramona Strugariu Alexandra Geese 1
+Ramona Strugariu Martin Sonneborn 1
+Ramona Strugariu Daniel Freund 1
+Ramona Strugariu Georg Mayer 1
+Ramona Strugariu Reinhard Bütikofer 1
+Ramona Strugariu Mounir Satouri 1
+Ramona Strugariu Jaak Madison 1
+Ramona Strugariu Beata Szydło 1
+Ramona Strugariu Laura Ferrara 1
+Ramona Strugariu Cristian Terheş 1
+Ramona Strugariu Ana Miranda 1
+Viola von Cramon-Taubadel Izaskun Bilbao Barandica 1
+Viola von Cramon-Taubadel Loránt Vincze 1
+Viola von Cramon-Taubadel Lara Wolters 1
+Viola von Cramon-Taubadel Cyrus Engerer 1
+Viola von Cramon-Taubadel Othmar Karas 1
+Viola von Cramon-Taubadel Cristian Terheş 2
+Viola von Cramon-Taubadel Francesca Donato 1
+Viola von Cramon-Taubadel Maria Grapini 2
+Viola von Cramon-Taubadel Vladimír Bilčík 2
+Viola von Cramon-Taubadel Sophia in 't Veld 1
+Viola von Cramon-Taubadel Guy Verhofstadt 1
+Viola von Cramon-Taubadel Mario Furore 1
+Viola von Cramon-Taubadel Laura Ferrara 1
+Viola von Cramon-Taubadel Leszek Miller 1
+Viola von Cramon-Taubadel Siegfried Mureşan 1
+Viola von Cramon-Taubadel Eugenia Rodríguez Palop 1
+Viola von Cramon-Taubadel Nicolas Bay 1
+Virginie Joron Izaskun Bilbao Barandica 1
+Virginie Joron Juan Fernando López Aguilar 1
+Virginie Joron Frances Fitzgerald 1
+Virginie Joron Martin Sonneborn 1
+Virginie Joron Stanislav Polčák 2
+Virginie Joron Sylwia Spurek 1
+Virginie Joron Reinhard Bütikofer 1
+Virginie Joron Chris MacManus 1
+Virginie Joron Ivan Vilibor Sinčić 2
+Virginie Joron Hermann Tertsch 1
+Virginie Joron Idoia Villanueva Ruiz 1
+Virginie Joron Claudia Gamon 1
+Virginie Joron Angel Dzhambazki 1
+Virginie Joron Maria Arena 1
+Virginie Joron Marc Botenga 1
+Virginie Joron Bert-Jan Ruissen 1
+Virginie Joron Hannah Neumann 1
+Virginie Joron Isabel Santos 1
+Virginie Joron Jan-Christoph Oetjen 1
+Virginie Joron Karin Karlsbro 1
+Virginie Joron María Soraya Rodríguez Ramos 2
+Virginie Joron Caterina Chinnici 1
+Virginie Joron Damien Carême 1
+Virginie Joron Elissavet Vozemberg-Vrionidi 1
+Virginie Joron José Ramón Bauzá Díaz 1
+Virginie Joron Michaela Šojdrová 1
+Virginie Joron Tiemo Wölken 1
+Virginie Joron Sara Cerdas 1
+Virginie Joron Cristian Terheş 1
+Virginie Joron Ana Miranda 1
+Virginie Joron Tineke Strik 1
+Virginie Joron Mara Bizzotto 1
+Virginie Joron Pierfrancesco Majorino 1
+Virginie Joron Manon Aubry 1
+Virginie Joron Alviina Alametsä 1
+Virginie Joron Ádám Kósa 1
+Virginie Joron Sophia in 't Veld 1
+Virginie Joron Kathleen Van Brempt 1
+Virginie Joron Sunčana Glavak 1
+Virginie Joron Ilhan Kyuchyuk 1
+Virginie Joron Jadwiga Wiśniewska 1
+Clare Daly Angel Dzhambazki 1
+Clare Daly Charlie Weimers 1
+Clare Daly Marc Botenga 1
+Bert-Jan Ruissen Izaskun Bilbao Barandica 1
+Bert-Jan Ruissen Juan Fernando López Aguilar 1
+Bert-Jan Ruissen Stanislav Polčák 1
+Bert-Jan Ruissen Sylwia Spurek 1
+Bert-Jan Ruissen Maxette Pirbakas 1
+Bert-Jan Ruissen Reinhard Bütikofer 1
+Bert-Jan Ruissen Christophe Hansen 1
+Bert-Jan Ruissen Chris MacManus 1
+Bert-Jan Ruissen Ivan Vilibor Sinčić 1
+Bert-Jan Ruissen Idoia Villanueva Ruiz 1
+Bert-Jan Ruissen Maria Arena 1
+Bert-Jan Ruissen Marc Botenga 1
+Bert-Jan Ruissen François-Xavier Bellamy 1
+Bert-Jan Ruissen Guy Verhofstadt 1
+Bert-Jan Ruissen Hannah Neumann 1
+Bert-Jan Ruissen Manuel Bompard 1
+Bert-Jan Ruissen Mazaly Aguilar 1
+Bert-Jan Ruissen Isabel Santos 1
+Bert-Jan Ruissen Jan-Christoph Oetjen 1
+Bert-Jan Ruissen Karin Karlsbro 1
+Bert-Jan Ruissen Erik Bergkvist 1
+Bert-Jan Ruissen Damien Carême 1
+Bert-Jan Ruissen Caterina Chinnici 1
+Bert-Jan Ruissen José Ramón Bauzá Díaz 1
+Bert-Jan Ruissen María Soraya Rodríguez Ramos 1
+Bert-Jan Ruissen Michaela Šojdrová 1
+Bert-Jan Ruissen Urmas Paet 1
+Bert-Jan Ruissen Ioan-Rareş Bogdan 1
+Bert-Jan Ruissen Cristian Terheş 1
+Bert-Jan Ruissen Ana Miranda 1
+Bert-Jan Ruissen Tineke Strik 1
+Bert-Jan Ruissen Nicola Beer 1
+Bert-Jan Ruissen Mara Bizzotto 1
+Bert-Jan Ruissen Pierfrancesco Majorino 1
+Bert-Jan Ruissen Alviina Alametsä 1
+Bert-Jan Ruissen Elsi Katainen 1
+Bert-Jan Ruissen Kathleen Van Brempt 1
+Bert-Jan Ruissen Ljudmila Novak 1
+Bert-Jan Ruissen Ilhan Kyuchyuk 1
+Bert-Jan Ruissen Paulo Rangel 1
+Bert-Jan Ruissen Jadwiga Wiśniewska 1
+Bert-Jan Ruissen Vlad-Marius Botoş 1
+Róża Thun und Hohenstein Stanislav Polčák 1
+Róża Thun und Hohenstein Georg Mayer 1
+Róża Thun und Hohenstein Gilles Lebreton 1
+Róża Thun und Hohenstein Barry Andrews 1
+Róża Thun und Hohenstein Vlad-Marius Botoş 1
+Róża Thun und Hohenstein Vlad Gheorghe 1
+Róża Thun und Hohenstein Karen Melchior 1
+Róża Thun und Hohenstein Francesca Donato 1
+Róża Thun und Hohenstein Karlo Ressler 1
+Róża Thun und Hohenstein Angel Dzhambazki 1
+Róża Thun und Hohenstein Zbigniew Kuźmiuk 1
+Róża Thun und Hohenstein György Hölvényi 1
+Róża Thun und Hohenstein Nacho Sánchez Amor 1
+Róża Thun und Hohenstein Anna Fotyga 1
+Róża Thun und Hohenstein Diana Riba i Giner 1
+Róża Thun und Hohenstein Beata Szydło 1
+Róża Thun und Hohenstein Leszek Miller 1
+Róża Thun und Hohenstein Siegfried Mureşan 1
+Róża Thun und Hohenstein Charlie Weimers 1
+Róża Thun und Hohenstein Karin Karlsbro 1
+Siegfried Mureşan Alexandra Geese 1
+Siegfried Mureşan Loránt Vincze 1
+Siegfried Mureşan Pernando Barrena Arza 1
+Siegfried Mureşan Stanislav Polčák 1
+Siegfried Mureşan Gilles Lebreton 2
+Siegfried Mureşan Lara Wolters 1
+Siegfried Mureşan Francesca Donato 2
+Siegfried Mureşan Angel Dzhambazki 3
+Siegfried Mureşan György Hölvényi 1
+Siegfried Mureşan Vladimír Bilčík 4
+Siegfried Mureşan Marc Botenga 1
+Siegfried Mureşan Joachim Stanisław Brudziński 1
+Siegfried Mureşan Billy Kelleher 1
+Siegfried Mureşan Anna Fotyga 1
+Siegfried Mureşan Ska Keller 1
+Siegfried Mureşan Leszek Miller 3
+Siegfried Mureşan Karin Karlsbro 3
+Siegfried Mureşan José Ramón Bauzá Díaz 1
+Siegfried Mureşan Michaela Šojdrová 2
+Siegfried Mureşan Robert Biedroń 2
+Siegfried Mureşan Georgios Kyrtsos 1
+Siegfried Mureşan Barry Andrews 1
+Siegfried Mureşan Dragoș Pîslaru 1
+Siegfried Mureşan Cyrus Engerer 3
+Siegfried Mureşan Karen Melchior 1
+Siegfried Mureşan Tomáš Zdechovský 1
+Siegfried Mureşan Markus Ferber 1
+Siegfried Mureşan Costas Mavrides 1
+Siegfried Mureşan Robert Hajšel 1
+Siegfried Mureşan Balázs Hidvéghi 1
+Siegfried Mureşan Gabriele Bischoff 2
+Siegfried Mureşan Sophia in 't Veld 1
+Siegfried Mureşan Kathleen Van Brempt 1
+Siegfried Mureşan Ilhan Kyuchyuk 1
+Siegfried Mureşan Terry Reintke 1
+Siegfried Mureşan Rovana Plumb 1
+Siegfried Mureşan Juan Fernando López Aguilar 2
+Siegfried Mureşan Katalin Cseh 1
+Siegfried Mureşan Ivan Vilibor Sinčić 1
+Siegfried Mureşan Iratxe García Pérez 1
+Siegfried Mureşan Clara Ponsatí Obiols 1
+Siegfried Mureşan Maite Pagazaurtundúa 1
+Siegfried Mureşan François-Xavier Bellamy 2
+Siegfried Mureşan Guy Verhofstadt 2
+Siegfried Mureşan Beata Szydło 3
+Siegfried Mureşan Laura Ferrara 1
+Siegfried Mureşan Tamás Deutsch 1
+Siegfried Mureşan Charlie Weimers 1
+Siegfried Mureşan Tom Vandendriessche 1
+Siegfried Mureşan Urmas Paet 2
+Siegfried Mureşan Sara Cerdas 1
+Siegfried Mureşan Rasa Juknevičienė 2
+Siegfried Mureşan Cristian Terheş 1
+Siegfried Mureşan Helmut Scholz 1
+Siegfried Mureşan Karlo Ressler 1
+Siegfried Mureşan Mara Bizzotto 1
+Siegfried Mureşan Dominique Bilde 1
+Siegfried Mureşan Pierfrancesco Majorino 2
+Siegfried Mureşan Tanja Fajon 2
+Siegfried Mureşan Zbigniew Kuźmiuk 2
+Siegfried Mureşan Andżelika Anna Możdżanowska 1
+Siegfried Mureşan Sunčana Glavak 1
+Siegfried Mureşan Bernhard Zimniok 1
+Siegfried Mureşan Jens Geier 1
+Siegfried Mureşan Vlad-Marius Botoş 2
+Barry Andrews María Soraya Rodríguez Ramos 1
+Barry Andrews Gilles Lebreton 1
+Barry Andrews Karen Melchior 1
+Barry Andrews Francesca Donato 1
+Barry Andrews Angel Dzhambazki 1
+Barry Andrews Zbigniew Kuźmiuk 1
+Barry Andrews Anna Fotyga 1
+Barry Andrews Beata Szydło 1
+Barry Andrews Leszek Miller 1
+Barry Andrews Karin Karlsbro 1
+Barry Andrews Charlie Weimers 1
+Barry Andrews Vlad-Marius Botoş 1
+Ivan Štefanec Izaskun Bilbao Barandica 1
+Ivan Štefanec Jessica Polfjärd 1
+Ivan Štefanec Karima Delli 1
+Ivan Štefanec Miapetra Kumpula-Natri 1
+Ivan Štefanec Ville Niinistö 1
+Ivan Štefanec Ismail Ertug 1
+Ivan Štefanec David Cormand 1
+Ivan Štefanec Robert Hajšel 1
+Ivan Štefanec Ciarán Cuffe 1
+Ivan Štefanec Sirpa Pietikäinen 1
+Ivan Štefanec Sophia in 't Veld 1
+Ivan Štefanec Leszek Miller 1
+Ivan Štefanec Erik Bergkvist 1
+Ivan Štefanec Rosanna Conte 1
+Ivan Štefanec Rovana Plumb 1
+Markus Ferber Juan Fernando López Aguilar 1
+Markus Ferber Stanislav Polčák 1
+Markus Ferber Gilles Lebreton 1
+Markus Ferber Iratxe García Pérez 1
+Markus Ferber Clara Ponsatí Obiols 1
+Markus Ferber Francesca Donato 2
+Markus Ferber Maite Pagazaurtundúa 1
+Markus Ferber Angel Dzhambazki 1
+Markus Ferber Vladimír Bilčík 1
+Markus Ferber Marc Botenga 1
+Markus Ferber Billy Kelleher 1
+Markus Ferber Lídia Pereira 1
+Markus Ferber Guy Verhofstadt 1
+Markus Ferber Ska Keller 1
+Markus Ferber Beata Szydło 1
+Markus Ferber Leszek Miller 1
+Markus Ferber Tamás Deutsch 1
+Markus Ferber Karin Karlsbro 1
+Markus Ferber Robert Biedroń 1
+Markus Ferber Georgios Kyrtsos 1
+Markus Ferber Urmas Paet 1
+Markus Ferber Dragoș Pîslaru 1
+Markus Ferber Cyrus Engerer 1
+Markus Ferber Sara Cerdas 1
+Markus Ferber Tomáš Zdechovský 1
+Markus Ferber Costas Mavrides 1
+Markus Ferber Dominique Bilde 1
+Markus Ferber Pierfrancesco Majorino 1
+Markus Ferber Tanja Fajon 1
+Markus Ferber Zbigniew Kuźmiuk 1
+Markus Ferber Robert Hajšel 1
+Markus Ferber Bogdan Rzońca 2
+Markus Ferber Andżelika Anna Możdżanowska 1
+Markus Ferber Gabriele Bischoff 1
+Markus Ferber Kathleen Van Brempt 1
+Markus Ferber Rosa D'Amato 1
+Markus Ferber Roman Haider 1
+Markus Ferber Jens Geier 1
+Markus Ferber Rovana Plumb 1
+Marco Dreosto Dominique Bilde 1
+Marco Dreosto Juan Fernando López Aguilar 1
+Marco Dreosto Michaela Šojdrová 1
+Marco Dreosto György Hölvényi 1
+Marco Dreosto Joachim Stanisław Brudziński 1
+Marco Dreosto Andor Deli 1
+Marco Dreosto François-Xavier Bellamy 1
+Marco Dreosto Diana Riba i Giner 1
+Marco Dreosto Sophia in 't Veld 1
+Marco Dreosto Guy Verhofstadt 1
+Marco Dreosto Maite Pagazaurtundúa 1
+Ciarán Cuffe Izaskun Bilbao Barandica 1
+Ciarán Cuffe Jessica Polfjärd 1
+Ciarán Cuffe David Cormand 1
+Ciarán Cuffe Karima Delli 1
+Ciarán Cuffe Robert Hajšel 1
+Ciarán Cuffe Ville Niinistö 1
+Ciarán Cuffe Sirpa Pietikäinen 1
+Ciarán Cuffe Rovana Plumb 1
+Ciarán Cuffe Erik Bergkvist 1
+Ciarán Cuffe Rosanna Conte 1
+Ciarán Cuffe Ismail Ertug 1
+Sophia in 't Veld Juan Fernando López Aguilar 1
+Sophia in 't Veld Frances Fitzgerald 1
+Sophia in 't Veld Andor Deli 1
+Sophia in 't Veld Ivan Vilibor Sinčić 1
+Sophia in 't Veld Lara Wolters 1
+Sophia in 't Veld Jan Olbrycht 1
+Sophia in 't Veld Maite Pagazaurtundúa 1
+Sophia in 't Veld Veronika Vrecionová 1
+Sophia in 't Veld Maria Arena 1
+Sophia in 't Veld György Hölvényi 1
+Sophia in 't Veld Joachim Stanisław Brudziński 1
+Sophia in 't Veld François-Xavier Bellamy 1
+Sophia in 't Veld Vladimír Bilčík 1
+Sophia in 't Veld Marc Botenga 1
+Sophia in 't Veld Guy Verhofstadt 2
+Sophia in 't Veld Manuel Bompard 1
+Sophia in 't Veld Michaela Šojdrová 1
+Sophia in 't Veld Cyrus Engerer 1
+Sophia in 't Veld Sara Cerdas 1
+Sophia in 't Veld Ioan-Rareş Bogdan 1
+Sophia in 't Veld Cristian Terheş 1
+Sophia in 't Veld Tomáš Zdechovský 1
+Sophia in 't Veld Dominique Bilde 1
+Sophia in 't Veld Zbigniew Kuźmiuk 1
+Sophia in 't Veld Giorgos Georgiou 1
+Sophia in 't Veld Delara Burkhardt 1
+Sophia in 't Veld Diana Riba i Giner 1
+Sophia in 't Veld Ilhan Kyuchyuk 1
+Ilhan Kyuchyuk Alexandra Geese 1
+Ilhan Kyuchyuk Loránt Vincze 1
+Ilhan Kyuchyuk Pernando Barrena Arza 1
+Ilhan Kyuchyuk Stanislav Polčák 1
+Ilhan Kyuchyuk Chris MacManus 1
+Ilhan Kyuchyuk Angel Dzhambazki 1
+Ilhan Kyuchyuk Maria Arena 1
+Ilhan Kyuchyuk Vladimír Bilčík 1
+Ilhan Kyuchyuk Marc Botenga 1
+Ilhan Kyuchyuk Christine Anderson 1
+Ilhan Kyuchyuk Leszek Miller 1
+Ilhan Kyuchyuk Isabel Santos 4
+Ilhan Kyuchyuk Karin Karlsbro 3
+Ilhan Kyuchyuk María Soraya Rodríguez Ramos 1
+Ilhan Kyuchyuk José Ramón Bauzá Díaz 2
+Ilhan Kyuchyuk Michaela Šojdrová 3
+Ilhan Kyuchyuk Cyrus Engerer 1
+Ilhan Kyuchyuk Alessandro Panza 1
+Ilhan Kyuchyuk Ana Miranda 1
+Ilhan Kyuchyuk Tineke Strik 1
+Ilhan Kyuchyuk Maria Grapini 1
+Ilhan Kyuchyuk Alviina Alametsä 1
+Ilhan Kyuchyuk Balázs Hidvéghi 1
+Ilhan Kyuchyuk Gabriele Bischoff 1
+Ilhan Kyuchyuk Kathleen Van Brempt 1
+Ilhan Kyuchyuk Terry Reintke 1
+Ilhan Kyuchyuk Jadwiga Wiśniewska 1
+Ilhan Kyuchyuk Izaskun Bilbao Barandica 1
+Ilhan Kyuchyuk Juan Fernando López Aguilar 1
+Ilhan Kyuchyuk Sylwia Spurek 1
+Ilhan Kyuchyuk Katalin Cseh 1
+Ilhan Kyuchyuk Reinhard Bütikofer 1
+Ilhan Kyuchyuk Ivan Vilibor Sinčić 2
+Ilhan Kyuchyuk Idoia Villanueva Ruiz 1
+Ilhan Kyuchyuk Hannah Neumann 1
+Ilhan Kyuchyuk Laura Ferrara 1
+Ilhan Kyuchyuk Tom Vandendriessche 1
+Ilhan Kyuchyuk Jan-Christoph Oetjen 1
+Ilhan Kyuchyuk Damien Carême 1
+Ilhan Kyuchyuk Caterina Chinnici 1
+Ilhan Kyuchyuk Urmas Paet 1
+Ilhan Kyuchyuk Ioan-Rareş Bogdan 1
+Ilhan Kyuchyuk Rasa Juknevičienė 1
+Ilhan Kyuchyuk Cristian Terheş 1
+Ilhan Kyuchyuk Helmut Scholz 1
+Ilhan Kyuchyuk Mara Bizzotto 3
+Ilhan Kyuchyuk Pierfrancesco Majorino 2
+Ilhan Kyuchyuk Zbigniew Kuźmiuk 1
+Ilhan Kyuchyuk Mounir Satouri 1
+Ilhan Kyuchyuk Sunčana Glavak 1
+Ilhan Kyuchyuk Bernhard Zimniok 1
+Ilhan Kyuchyuk Vlad-Marius Botoş 1
+Karima Delli Izaskun Bilbao Barandica 1
+Karima Delli Jessica Polfjärd 1
+Karima Delli Chris MacManus 1
+Karima Delli Marie Toussaint 1
+Karima Delli Othmar Karas 1
+Karima Delli Vlad Gheorghe 1
+Karima Delli Caroline Roose 1
+Karima Delli Francesca Donato 1
+Karima Delli Ismail Ertug 1
+Karima Delli Ville Niinistö 2
+Karima Delli Angel Dzhambazki 1
+Karima Delli György Hölvényi 1
+Karima Delli Marc Botenga 1
+Karima Delli Edina Tóth 2
+Karima Delli Sirpa Pietikäinen 1
+Karima Delli Eider Gardiazabal Rubial 1
+Karima Delli François-Xavier Bellamy 1
+Karima Delli Ernest Urtasun 1
+Karima Delli Isabel García Muñoz 1
+Karima Delli Pierre Larrouturou 1
+Karima Delli Leszek Miller 1
+Karima Delli Manuel Bompard 1
+Karima Delli Tamás Deutsch 1
+Karima Delli Yannick Jadot 1
+Karima Delli Maria Angela Danzì 1
+Karima Delli Erik Bergkvist 2
+Karima Delli Rosanna Conte 2
+Karima Delli Jorge Buxadé Villalba 1
+Karima Delli Karin Karlsbro 1
+Karima Delli Enikő Győri 1
+Karima Delli Marina Mesure 1
+Karima Delli Michaela Šojdrová 1
+Karima Delli Josianne Cutajar 2
+Karima Delli Miapetra Kumpula-Natri 1
+Karima Delli Alex Agius Saliba 1
+Karima Delli Christel Schaldemose 2
+Karima Delli Tiemo Wölken 1
+Karima Delli Udo Bullmann 1
+Karima Delli Alfred Sant 1
+Karima Delli Sara Cerdas 1
+Karima Delli David Cormand 1
+Karima Delli Robert Hajšel 2
+Karima Delli Bogdan Rzońca 1
+Karima Delli Elsi Katainen 1
+Karima Delli Elena Lizzi 1
+Karima Delli Ellie Chowns 1
+Karima Delli Alice Kuhnke 1
+Karima Delli Rovana Plumb 2
+Karima Delli Vlad-Marius Botoş 1
+Christophe Hansen Jessica Polfjärd 1
+Christophe Hansen Caterina Chinnici 1
+Christophe Hansen Stanislav Polčák 1
+Christophe Hansen Urmas Paet 1
+Christophe Hansen Ioan-Rareş Bogdan 1
+Christophe Hansen Nicola Beer 1
+Christophe Hansen Ville Niinistö 1
+Christophe Hansen Robert Hajšel 1
+Christophe Hansen Billy Kelleher 1
+Christophe Hansen Patrizia Toia 1
+Christophe Hansen Guy Verhofstadt 1
+Christophe Hansen Kostas Papadakis 1
+Christophe Hansen Paulo Rangel 1
+Christophe Hansen Erik Bergkvist 1
+Hermann Tertsch Łukasz Kohut 1
+Hermann Tertsch Loránt Vincze 2
+Hermann Tertsch Kim Van Sparrentak 1
+Hermann Tertsch Valérie Hayer 1
+Hermann Tertsch Fabio Massimo Castaldo 1
+Hermann Tertsch Iratxe García Pérez 1
+Hermann Tertsch Paolo Borchia 1
+Hermann Tertsch Jérôme Rivière 1
+Hermann Tertsch Cristina Maestre Martín De Almagro 1
+Hermann Tertsch Helmut Scholz 1
+Hermann Tertsch Claudia Gamon 2
+Hermann Tertsch Maria Grapini 1
+Hermann Tertsch Mara Bizzotto 1
+Hermann Tertsch Tanja Fajon 1
+Hermann Tertsch Manon Aubry 1
+Hermann Tertsch Joachim Stanisław Brudziński 1
+Hermann Tertsch Vladimír Bilčík 1
+Hermann Tertsch Silvia Sardone 1
+Hermann Tertsch Christian Ehler 1
+Hermann Tertsch Bernhard Zimniok 1
+Hermann Tertsch Ska Keller 1
+Hermann Tertsch Tamás Deutsch 1
+Hermann Tertsch Nicolas Bay 1
+Hermann Tertsch Jorge Buxadé Villalba 2
+Ismail Ertug Izaskun Bilbao Barandica 1
+Ismail Ertug Jessica Polfjärd 1
+Ismail Ertug Marina Mesure 1
+Ismail Ertug Cláudia Monteiro de Aguiar 1
+Ismail Ertug Enikő Győri 1
+Ismail Ertug Paolo Borchia 1
+Ismail Ertug Ville Niinistö 1
+Ismail Ertug David Cormand 2
+Ismail Ertug Robert Hajšel 1
+Ismail Ertug Sirpa Pietikäinen 2
+Ismail Ertug Mario Furore 1
+Ismail Ertug Andrzej Halicki 1
+Ismail Ertug Erik Bergkvist 1
+Ismail Ertug Rosanna Conte 1
+Ismail Ertug Rovana Plumb 2
+Edina Tóth Chris MacManus 1
+Edina Tóth Marie Toussaint 1
+Edina Tóth Othmar Karas 1
+Edina Tóth Vlad Gheorghe 1
+Edina Tóth Caroline Roose 1
+Edina Tóth Ville Niinistö 1
+Edina Tóth François-Xavier Bellamy 1
+Edina Tóth Eider Gardiazabal Rubial 1
+Edina Tóth Ernest Urtasun 1
+Edina Tóth Isabel García Muñoz 1
+Edina Tóth Pierre Larrouturou 1
+Edina Tóth Manuel Bompard 1
+Edina Tóth Yannick Jadot 1
+Edina Tóth Maria Angela Danzì 1
+Edina Tóth Erik Bergkvist 1
+Edina Tóth Rosanna Conte 1
+Edina Tóth Karin Karlsbro 1
+Edina Tóth Marina Mesure 1
+Edina Tóth Michaela Šojdrová 1
+Edina Tóth Josianne Cutajar 2
+Edina Tóth Alex Agius Saliba 1
+Edina Tóth Christel Schaldemose 1
+Edina Tóth Tiemo Wölken 1
+Edina Tóth Sara Cerdas 1
+Edina Tóth Alfred Sant 1
+Edina Tóth Elsi Katainen 1
+Edina Tóth Ellie Chowns 1
+Edina Tóth Alice Kuhnke 1
+Edina Tóth Rovana Plumb 1
+François-Xavier Bellamy Juan Fernando López Aguilar 2
+François-Xavier Bellamy Andor Deli 1
+François-Xavier Bellamy Maxette Pirbakas 1
+François-Xavier Bellamy Chris MacManus 1
+François-Xavier Bellamy Marie Toussaint 1
+François-Xavier Bellamy Othmar Karas 1
+François-Xavier Bellamy Vlad Gheorghe 1
+François-Xavier Bellamy Caroline Roose 1
+François-Xavier Bellamy Maite Pagazaurtundúa 1
+François-Xavier Bellamy Ville Niinistö 1
+François-Xavier Bellamy György Hölvényi 2
+François-Xavier Bellamy Joachim Stanisław Brudziński 2
+François-Xavier Bellamy Eider Gardiazabal Rubial 1
+François-Xavier Bellamy Ernest Urtasun 2
+François-Xavier Bellamy Guy Verhofstadt 1
+François-Xavier Bellamy Isabel García Muñoz 1
+François-Xavier Bellamy Pierre Larrouturou 1
+François-Xavier Bellamy Beata Szydło 1
+François-Xavier Bellamy Manuel Bompard 2
+François-Xavier Bellamy Yannick Jadot 1
+François-Xavier Bellamy Maria Angela Danzì 1
+François-Xavier Bellamy Erik Bergkvist 1
+François-Xavier Bellamy Rosanna Conte 1
+François-Xavier Bellamy Mazaly Aguilar 1
+François-Xavier Bellamy Sven Mikser 1
+François-Xavier Bellamy Karin Karlsbro 1
+François-Xavier Bellamy María Soraya Rodríguez Ramos 1
+François-Xavier Bellamy Marina Mesure 1
+François-Xavier Bellamy Michaela Šojdrová 3
+François-Xavier Bellamy Josianne Cutajar 1
+François-Xavier Bellamy Urmas Paet 1
+François-Xavier Bellamy Alex Agius Saliba 1
+François-Xavier Bellamy Christel Schaldemose 1
+François-Xavier Bellamy Tiemo Wölken 1
+François-Xavier Bellamy Sara Cerdas 1
+François-Xavier Bellamy Alfred Sant 1
+François-Xavier Bellamy Rasa Juknevičienė 1
+François-Xavier Bellamy Karlo Ressler 1
+François-Xavier Bellamy Dominique Bilde 1
+François-Xavier Bellamy Elsi Katainen 2
+François-Xavier Bellamy Diana Riba i Giner 1
+François-Xavier Bellamy Ellie Chowns 1
+François-Xavier Bellamy Ljudmila Novak 1
+François-Xavier Bellamy Alice Kuhnke 1
+François-Xavier Bellamy Rovana Plumb 1
+François-Xavier Bellamy Vlad-Marius Botoş 1
+Luisa Regimenti Tanja Fajon 1
+Luisa Regimenti Łukasz Kohut 1
+Luisa Regimenti Udo Bullmann 1
+Luisa Regimenti Corina Crețu 1
+Sylvia Limmer Janina Ochojska 1
+Sylvia Limmer Mazaly Aguilar 1
+Sylvia Limmer Sylwia Spurek 1
+Sylvia Limmer Carmen Avram 1
+Sylvia Limmer Marie Toussaint 1
+Sylvia Limmer Ljudmila Novak 1
+Sylvia Limmer Vlad Gheorghe 1
+Sylvia Limmer Kostas Papadakis 1
+Sylvia Limmer Caroline Roose 2
+Sylvia Limmer Erik Bergkvist 1
+Sylvia Limmer Vlad-Marius Botoş 1
+Christian Ehler Loránt Vincze 1
+Christian Ehler Marina Mesure 1
+Christian Ehler Kim Van Sparrentak 1
+Christian Ehler Łukasz Kohut 1
+Christian Ehler Fabio Massimo Castaldo 1
+Christian Ehler Iratxe García Pérez 1
+Christian Ehler Paolo Borchia 1
+Christian Ehler Tiemo Wölken 1
+Christian Ehler Tsvetelina Penkova 1
+Christian Ehler Jérôme Rivière 1
+Christian Ehler Helmut Scholz 1
+Christian Ehler Claudia Gamon 1
+Christian Ehler Maria Grapini 1
+Christian Ehler Tanja Fajon 1
+Christian Ehler Vladimír Bilčík 1
+Christian Ehler Patrizia Toia 1
+Christian Ehler Ska Keller 1
+Christian Ehler Beata Szydło 1
+Christian Ehler Yannick Jadot 1
+Christian Ehler Nicolas Bay 1
+Christian Ehler Jorge Buxadé Villalba 1
+Jens Gieseke Elissavet Vozemberg-Vrionidi 1
+Christel Schaldemose Chris MacManus 1
+Christel Schaldemose Marie Toussaint 1
+Christel Schaldemose Othmar Karas 1
+Christel Schaldemose Vlad Gheorghe 1
+Christel Schaldemose Caroline Roose 1
+Christel Schaldemose Francesca Donato 1
+Christel Schaldemose Ville Niinistö 1
+Christel Schaldemose Angel Dzhambazki 1
+Christel Schaldemose György Hölvényi 1
+Christel Schaldemose Marc Botenga 1
+Christel Schaldemose Eider Gardiazabal Rubial 1
+Christel Schaldemose Ernest Urtasun 1
+Christel Schaldemose Isabel García Muñoz 1
+Christel Schaldemose Pierre Larrouturou 1
+Christel Schaldemose Leszek Miller 1
+Christel Schaldemose Manuel Bompard 1
+Christel Schaldemose Tamás Deutsch 1
+Christel Schaldemose Yannick Jadot 1
+Christel Schaldemose Maria Angela Danzì 1
+Christel Schaldemose Erik Bergkvist 1
+Christel Schaldemose Rosanna Conte 1
+Christel Schaldemose Jorge Buxadé Villalba 1
+Christel Schaldemose Karin Karlsbro 1
+Christel Schaldemose Enikő Győri 1
+Christel Schaldemose Marina Mesure 1
+Christel Schaldemose Michaela Šojdrová 1
+Christel Schaldemose Josianne Cutajar 1
+Christel Schaldemose Miapetra Kumpula-Natri 1
+Christel Schaldemose Alex Agius Saliba 1
+Christel Schaldemose Tiemo Wölken 1
+Christel Schaldemose Udo Bullmann 1
+Christel Schaldemose Alfred Sant 1
+Christel Schaldemose Sara Cerdas 1
+Christel Schaldemose Robert Hajšel 1
+Christel Schaldemose Bogdan Rzońca 1
+Christel Schaldemose Elsi Katainen 1
+Christel Schaldemose Elena Lizzi 1
+Christel Schaldemose Ellie Chowns 1
+Christel Schaldemose Alice Kuhnke 1
+Christel Schaldemose Rovana Plumb 1
+Christel Schaldemose Vlad-Marius Botoş 1
+Paulo Rangel Marina Mesure 1
+Paulo Rangel Urmas Paet 1
+Paulo Rangel Tsvetelina Penkova 1
+Paulo Rangel Johan Danielsson 1
+Paulo Rangel Ioan-Rareş Bogdan 1
+Paulo Rangel Mohammed Chahim 1
+Paulo Rangel Nicola Beer 1
+Paulo Rangel Esteban González Pons 1
+Paulo Rangel Guy Verhofstadt 1
+Paulo Rangel Tiziana Beghin 1
+Paulo Rangel Kostas Papadakis 1
+Paulo Rangel Terry Reintke 1
+Paulo Rangel Erik Bergkvist 1
+Paulo Rangel Nathalie Loiseau 1
+Paulo Rangel Karin Karlsbro 1
+Marian-Jean Marinescu Chris MacManus 1
+Marian-Jean Marinescu Michaela Šojdrová 1
+Vlad-Marius Botoş Alexandra Geese 1
+Vlad-Marius Botoş Loránt Vincze 1
+Vlad-Marius Botoş Pernando Barrena Arza 1
+Vlad-Marius Botoş Maxette Pirbakas 1
+Vlad-Marius Botoş Gilles Lebreton 1
+Vlad-Marius Botoş Carmen Avram 1
+Vlad-Marius Botoş Francesca Donato 2
+Vlad-Marius Botoş Angel Dzhambazki 2
+Vlad-Marius Botoş Joachim Stanisław Brudziński 1
+Vlad-Marius Botoş Vladimír Bilčík 3
+Vlad-Marius Botoş Marc Botenga 1
+Vlad-Marius Botoş György Hölvényi 1
+Vlad-Marius Botoş Anna Fotyga 1
+Vlad-Marius Botoş Susanna Ceccardi 1
+Vlad-Marius Botoş Leszek Miller 3
+Vlad-Marius Botoş Mazaly Aguilar 1
+Vlad-Marius Botoş Jorge Buxadé Villalba 1
+Vlad-Marius Botoş Karin Karlsbro 2
+Vlad-Marius Botoş María Soraya Rodríguez Ramos 1
+Vlad-Marius Botoş José Ramón Bauzá Díaz 1
+Vlad-Marius Botoş Michaela Šojdrová 1
+Vlad-Marius Botoş Valérie Hayer 1
+Vlad-Marius Botoş Miapetra Kumpula-Natri 1
+Vlad-Marius Botoş Dragoș Pîslaru 1
+Vlad-Marius Botoş Cyrus Engerer 1
+Vlad-Marius Botoş Udo Bullmann 1
+Vlad-Marius Botoş Karen Melchior 1
+Vlad-Marius Botoş Costas Mavrides 1
+Vlad-Marius Botoş Robert Hajšel 1
+Vlad-Marius Botoş Angelo Ciocca 1
+Vlad-Marius Botoş Bogdan Rzońca 1
+Vlad-Marius Botoş Balázs Hidvéghi 1
+Vlad-Marius Botoş Gabriele Bischoff 1
+Vlad-Marius Botoş Elena Lizzi 2
+Vlad-Marius Botoş Terry Reintke 1
+Vlad-Marius Botoş Rovana Plumb 1
+Vlad-Marius Botoş Sylwia Spurek 1
+Vlad-Marius Botoş Katalin Cseh 1
+Vlad-Marius Botoş Ivan Vilibor Sinčić 1
+Vlad-Marius Botoş Beata Szydło 1
+Vlad-Marius Botoş Laura Ferrara 1
+Vlad-Marius Botoş Manuel Bompard 1
+Vlad-Marius Botoş Tamás Deutsch 1
+Vlad-Marius Botoş Charlie Weimers 1
+Vlad-Marius Botoş Tom Vandendriessche 1
+Vlad-Marius Botoş Enikő Győri 1
+Vlad-Marius Botoş Rasa Juknevičienė 1
+Vlad-Marius Botoş Helmut Scholz 1
+Vlad-Marius Botoş Karlo Ressler 3
+Vlad-Marius Botoş Mara Bizzotto 1
+Vlad-Marius Botoş Pierfrancesco Majorino 1
+Vlad-Marius Botoş Zbigniew Kuźmiuk 1
+Vlad-Marius Botoş Silvia Sardone 1
+Vlad-Marius Botoş Nacho Sánchez Amor 1
+Vlad-Marius Botoş Elsi Katainen 1
+Vlad-Marius Botoş Diana Riba i Giner 2
+Vlad-Marius Botoş Sunčana Glavak 1
+Vlad-Marius Botoş Bernhard Zimniok 1
+Vlad-Marius Botoş Ljudmila Novak 2
+Vlad-Marius Botoş Kostas Papadakis 1
+Alexandra Geese Loránt Vincze 1
+Alexandra Geese Pernando Barrena Arza 1
+Alexandra Geese Martin Sonneborn 1
+Alexandra Geese Katalin Cseh 1
+Alexandra Geese Daniel Freund 1
+Alexandra Geese Reinhard Bütikofer 1
+Alexandra Geese Ivan Vilibor Sinčić 1
+Alexandra Geese Jaak Madison 1
+Alexandra Geese Lefteris Nikolaou-Alavanos 1
+Alexandra Geese Vladimír Bilčík 1
+Alexandra Geese Sara Skyttedal 1
+Alexandra Geese Laura Ferrara 2
+Alexandra Geese Leszek Miller 1
+Alexandra Geese Beata Szydło 1
+Alexandra Geese Tom Vandendriessche 1
+Alexandra Geese Karin Karlsbro 1
+Alexandra Geese Enikő Győri 1
+Alexandra Geese José Ramón Bauzá Díaz 1
+Alexandra Geese Michaela Šojdrová 1
+Alexandra Geese Josianne Cutajar 1
+Alexandra Geese Georg Mayer 1
+Alexandra Geese Cyrus Engerer 1
+Alexandra Geese Rasa Juknevičienė 1
+Alexandra Geese Ana Miranda 1
+Alexandra Geese Cristian Terheş 1
+Alexandra Geese Helmut Scholz 1
+Alexandra Geese Mara Bizzotto 1
+Alexandra Geese Pierfrancesco Majorino 1
+Alexandra Geese Mounir Satouri 1
+Alexandra Geese Balázs Hidvéghi 1
+Alexandra Geese Gabriele Bischoff 1
+Alexandra Geese Sunčana Glavak 1
+Alexandra Geese Bernhard Zimniok 1
+Alexandra Geese Sergey Lagodinsky 1
+Alexandra Geese Terry Reintke 1
+Stanislav Polčák Gilles Lebreton 1
+Stanislav Polčák Chris MacManus 1
+Stanislav Polčák Vlad Gheorghe 1
+Stanislav Polčák Francesca Donato 1
+Stanislav Polčák Angel Dzhambazki 2
+Stanislav Polčák Maria Arena 1
+Stanislav Polčák György Hölvényi 1
+Stanislav Polčák Vladimír Bilčík 1
+Stanislav Polčák Marc Botenga 2
+Stanislav Polčák Billy Kelleher 2
+Stanislav Polčák Anna Fotyga 3
+Stanislav Polčák Susanna Ceccardi 1
+Stanislav Polčák Ska Keller 1
+Stanislav Polčák Leszek Miller 1
+Stanislav Polčák Isabel Santos 1
+Stanislav Polčák Karin Karlsbro 2
+Stanislav Polčák María Soraya Rodríguez Ramos 2
+Stanislav Polčák Robert Biedroń 1
+Stanislav Polčák José Ramón Bauzá Díaz 1
+Stanislav Polčák Michaela Šojdrová 1
+Stanislav Polčák Georgios Kyrtsos 1
+Stanislav Polčák Dragoș Pîslaru 1
+Stanislav Polčák Cyrus Engerer 1
+Stanislav Polčák Ana Miranda 1
+Stanislav Polčák Tomáš Zdechovský 1
+Stanislav Polčák Tineke Strik 2
+Stanislav Polčák Costas Mavrides 1
+Stanislav Polčák Robert Hajšel 1
+Stanislav Polčák Alviina Alametsä 1
+Stanislav Polčák Gabriele Bischoff 1
+Stanislav Polčák Kathleen Van Brempt 2
+Stanislav Polčák Jadwiga Wiśniewska 1
+Stanislav Polčák Rovana Plumb 1
+Stanislav Polčák Izaskun Bilbao Barandica 1
+Stanislav Polčák Juan Fernando López Aguilar 3
+Stanislav Polčák Sylwia Spurek 1
+Stanislav Polčák Reinhard Bütikofer 1
+Stanislav Polčák Iratxe García Pérez 1
+Stanislav Polčák Ivan Vilibor Sinčić 1
+Stanislav Polčák Clara Ponsatí Obiols 1
+Stanislav Polčák Idoia Villanueva Ruiz 1
+Stanislav Polčák Maite Pagazaurtundúa 1
+Stanislav Polčák Pedro Marques 1
+Stanislav Polčák Guy Verhofstadt 1
+Stanislav Polčák Hannah Neumann 1
+Stanislav Polčák Beata Szydło 2
+Stanislav Polčák Tamás Deutsch 1
+Stanislav Polčák Charlie Weimers 2
+Stanislav Polčák Jan-Christoph Oetjen 1
+Stanislav Polčák Damien Carême 1
+Stanislav Polčák Caterina Chinnici 1
+Stanislav Polčák Elissavet Vozemberg-Vrionidi 1
+Stanislav Polčák Georg Mayer 1
+Stanislav Polčák Urmas Paet 1
+Stanislav Polčák Evin Incir 1
+Stanislav Polčák Sara Cerdas 1
+Stanislav Polčák Cristian Terheş 1
+Stanislav Polčák Karlo Ressler 1
+Stanislav Polčák Mara Bizzotto 1
+Stanislav Polčák Dominique Bilde 2
+Stanislav Polčák Pierfrancesco Majorino 2
+Stanislav Polčák Tanja Fajon 1
+Stanislav Polčák Zbigniew Kuźmiuk 1
+Stanislav Polčák Nacho Sánchez Amor 1
+Stanislav Polčák Andżelika Anna Możdżanowska 1
+Stanislav Polčák Diana Riba i Giner 1
+Stanislav Polčák Sunčana Glavak 1
+Stanislav Polčák Bernhard Zimniok 2
+Stanislav Polčák Jens Geier 1
+Krzysztof Hetman Elżbieta Rafalska 1
+Krzysztof Hetman Loucas Fourlas 1
+Krzysztof Hetman Caterina Chinnici 1
+Krzysztof Hetman Sylwia Spurek 1
+Krzysztof Hetman Sara Cerdas 1
+Krzysztof Hetman Rosanna Conte 1
+Lara Wolters Elżbieta Rafalska 1
+Lara Wolters Martin Sonneborn 1
+Lara Wolters Josianne Cutajar 1
+Lara Wolters Miriam Lexmann 1
+Lara Wolters Urmas Paet 1
+Lara Wolters Cyrus Engerer 1
+Lara Wolters Jaak Madison 1
+Lara Wolters Cristian Terheş 2
+Lara Wolters Tomáš Zdechovský 1
+Lara Wolters Eleonora Evi 1
+Lara Wolters Eugen Tomac 1
+Lara Wolters Vladimír Bilčík 1
+Lara Wolters Billy Kelleher 1
+Lara Wolters Guy Verhofstadt 1
+Lara Wolters Anna-Michelle Asimakopoulou 1
+Lara Wolters Rovana Plumb 1
+Francesca Donato Loránt Vincze 1
+Francesca Donato Gilles Lebreton 2
+Francesca Donato Angel Dzhambazki 3
+Francesca Donato György Hölvényi 1
+Francesca Donato Vladimír Bilčík 2
+Francesca Donato Marc Botenga 2
+Francesca Donato Joachim Stanisław Brudziński 1
+Francesca Donato Billy Kelleher 1
+Francesca Donato Anna Fotyga 2
+Francesca Donato Ska Keller 1
+Francesca Donato Leszek Miller 4
+Francesca Donato Jorge Buxadé Villalba 1
+Francesca Donato Karin Karlsbro 4
+Francesca Donato Robert Biedroń 1
+Francesca Donato Georgios Kyrtsos 2
+Francesca Donato Miapetra Kumpula-Natri 1
+Francesca Donato Dragoș Pîslaru 1
+Francesca Donato Cyrus Engerer 2
+Francesca Donato Udo Bullmann 1
+Francesca Donato Klemen Grošelj 1
+Francesca Donato Karen Melchior 2
+Francesca Donato Tomáš Zdechovský 1
+Francesca Donato Costas Mavrides 1
+Francesca Donato Maria Grapini 1
+Francesca Donato Robert Hajšel 2
+Francesca Donato Bogdan Rzońca 2
+Francesca Donato Gabriele Bischoff 1
+Francesca Donato Kathleen Van Brempt 1
+Francesca Donato Mario Furore 1
+Francesca Donato Elena Lizzi 1
+Francesca Donato Rovana Plumb 1
+Francesca Donato Izaskun Bilbao Barandica 1
+Francesca Donato Juan Fernando López Aguilar 2
+Francesca Donato Iratxe García Pérez 1
+Francesca Donato Clara Ponsatí Obiols 1
+Francesca Donato Lefteris Nikolaou-Alavanos 1
+Francesca Donato Maite Pagazaurtundúa 1
+Francesca Donato Lídia Pereira 1
+Francesca Donato Guy Verhofstadt 1
+Francesca Donato Beata Szydło 2
+Francesca Donato Laura Ferrara 1
+Francesca Donato Tamás Deutsch 2
+Francesca Donato Charlie Weimers 1
+Francesca Donato Enikő Győri 1
+Francesca Donato Urmas Paet 1
+Francesca Donato Alex Agius Saliba 1
+Francesca Donato Sara Cerdas 1
+Francesca Donato Cristian Terheş 1
+Francesca Donato Dominique Bilde 1
+Francesca Donato Pierfrancesco Majorino 2
+Francesca Donato Tanja Fajon 1
+Francesca Donato Zbigniew Kuźmiuk 2
+Francesca Donato Giorgos Georgiou 1
+Francesca Donato Andżelika Anna Możdżanowska 1
+Francesca Donato Bernhard Zimniok 1
+Francesca Donato Kostas Papadakis 1
+Francesca Donato Eugenia Rodríguez Palop 1
+Francesca Donato Jens Geier 1
+Marc Botenga Gilles Lebreton 1
+Marc Botenga Chris MacManus 1
+Marc Botenga Angel Dzhambazki 2
+Marc Botenga Maria Arena 1
+Marc Botenga György Hölvényi 1
+Marc Botenga Vladimír Bilčík 1
+Marc Botenga Billy Kelleher 1
+Marc Botenga Ska Keller 1
+Marc Botenga Leszek Miller 2
+Marc Botenga Isabel Santos 1
+Marc Botenga Jorge Buxadé Villalba 1
+Marc Botenga Karin Karlsbro 2
+Marc Botenga María Soraya Rodríguez Ramos 1
+Marc Botenga Robert Biedroń 1
+Marc Botenga José Ramón Bauzá Díaz 1
+Marc Botenga Michaela Šojdrová 1
+Marc Botenga Georgios Kyrtsos 1
+Marc Botenga Miapetra Kumpula-Natri 1
+Marc Botenga Dragoș Pîslaru 1
+Marc Botenga Cyrus Engerer 1
+Marc Botenga Udo Bullmann 1
+Marc Botenga Ana Miranda 1
+Marc Botenga Tomáš Zdechovský 1
+Marc Botenga Tineke Strik 1
+Marc Botenga Costas Mavrides 1
+Marc Botenga Robert Hajšel 2
+Marc Botenga Alviina Alametsä 1
+Marc Botenga Bogdan Rzońca 1
+Marc Botenga Gabriele Bischoff 1
+Marc Botenga Kathleen Van Brempt 2
+Marc Botenga Elena Lizzi 1
+Marc Botenga Jadwiga Wiśniewska 1
+Marc Botenga Rovana Plumb 1
+Marc Botenga Izaskun Bilbao Barandica 1
+Marc Botenga Juan Fernando López Aguilar 2
+Marc Botenga Sylwia Spurek 1
+Marc Botenga Reinhard Bütikofer 1
+Marc Botenga Iratxe García Pérez 1
+Marc Botenga Ivan Vilibor Sinčić 1
+Marc Botenga Clara Ponsatí Obiols 1
+Marc Botenga Idoia Villanueva Ruiz 1
+Marc Botenga Maite Pagazaurtundúa 1
+Marc Botenga Guy Verhofstadt 1
+Marc Botenga Hannah Neumann 1
+Marc Botenga Beata Szydło 1
+Marc Botenga Tamás Deutsch 2
+Marc Botenga Jan-Christoph Oetjen 1
+Marc Botenga Enikő Győri 1
+Marc Botenga Caterina Chinnici 1
+Marc Botenga Damien Carême 1
+Marc Botenga Urmas Paet 1
+Marc Botenga Sara Cerdas 1
+Marc Botenga Cristian Terheş 1
+Marc Botenga Mara Bizzotto 1
+Marc Botenga Dominique Bilde 1
+Marc Botenga Pierfrancesco Majorino 2
+Marc Botenga Tanja Fajon 1
+Marc Botenga Zbigniew Kuźmiuk 1
+Marc Botenga Andżelika Anna Możdżanowska 1
+Marc Botenga Brando Benifei 1
+Marc Botenga Jens Geier 1
+Ska Keller Juan Fernando López Aguilar 1
+Ska Keller Loránt Vincze 1
+Ska Keller Gilles Lebreton 1
+Ska Keller Iratxe García Pérez 2
+Ska Keller Clara Ponsatí Obiols 1
+Ska Keller Maite Pagazaurtundúa 1
+Ska Keller Claudia Gamon 1
+Ska Keller Angel Dzhambazki 1
+Ska Keller Vladimír Bilčík 2
+Ska Keller Billy Kelleher 1
+Ska Keller Guy Verhofstadt 1
+Ska Keller Beata Szydło 1
+Ska Keller Leszek Miller 1
+Ska Keller Tamás Deutsch 1
+Ska Keller Nicolas Bay 1
+Ska Keller Karin Karlsbro 1
+Ska Keller Jorge Buxadé Villalba 1
+Ska Keller Kim Van Sparrentak 1
+Ska Keller Łukasz Kohut 1
+Ska Keller Robert Biedroń 1
+Ska Keller Georgios Kyrtsos 1
+Ska Keller Fabio Massimo Castaldo 1
+Ska Keller Urmas Paet 1
+Ska Keller Paolo Borchia 1
+Ska Keller Dragoș Pîslaru 1
+Ska Keller Cyrus Engerer 1
+Ska Keller Sara Cerdas 1
+Ska Keller Tomáš Zdechovský 1
+Ska Keller Helmut Scholz 1
+Ska Keller Costas Mavrides 1
+Ska Keller Dominique Bilde 1
+Ska Keller Pierfrancesco Majorino 1
+Ska Keller Tanja Fajon 2
+Ska Keller Zbigniew Kuźmiuk 1
+Ska Keller Jérôme Rivière 1
+Ska Keller Robert Hajšel 1
+Ska Keller Maria Grapini 1
+Ska Keller Andżelika Anna Możdżanowska 1
+Ska Keller Gabriele Bischoff 1
+Ska Keller Kathleen Van Brempt 1
+Ska Keller Jens Geier 1
+Ska Keller Rovana Plumb 1
+Pierre Larrouturou Chris MacManus 1
+Pierre Larrouturou Marie Toussaint 1
+Pierre Larrouturou Othmar Karas 1
+Pierre Larrouturou Vlad Gheorghe 1
+Pierre Larrouturou Caroline Roose 1
+Pierre Larrouturou Ville Niinistö 1
+Pierre Larrouturou Eider Gardiazabal Rubial 1
+Pierre Larrouturou Ernest Urtasun 1
+Pierre Larrouturou Isabel García Muñoz 1
+Pierre Larrouturou Manuel Bompard 1
+Pierre Larrouturou Yannick Jadot 1
+Pierre Larrouturou Maria Angela Danzì 1
+Pierre Larrouturou Erik Bergkvist 1
+Pierre Larrouturou Rosanna Conte 1
+Pierre Larrouturou Karin Karlsbro 1
+Pierre Larrouturou Marina Mesure 1
+Pierre Larrouturou Michaela Šojdrová 1
+Pierre Larrouturou Josianne Cutajar 1
+Pierre Larrouturou Alex Agius Saliba 1
+Pierre Larrouturou Tiemo Wölken 1
+Pierre Larrouturou Sara Cerdas 1
+Pierre Larrouturou Alfred Sant 1
+Pierre Larrouturou Elsi Katainen 1
+Pierre Larrouturou Ellie Chowns 1
+Pierre Larrouturou Alice Kuhnke 1
+Pierre Larrouturou Rovana Plumb 1
+Maria Angela Danzì Chris MacManus 1
+Maria Angela Danzì Marie Toussaint 1
+Maria Angela Danzì Othmar Karas 1
+Maria Angela Danzì Vlad Gheorghe 1
+Maria Angela Danzì Caroline Roose 1
+Maria Angela Danzì Ville Niinistö 1
+Maria Angela Danzì Eider Gardiazabal Rubial 1
+Maria Angela Danzì Ernest Urtasun 1
+Maria Angela Danzì Isabel García Muñoz 2
+Maria Angela Danzì Manuel Bompard 1
+Maria Angela Danzì Yannick Jadot 1
+Maria Angela Danzì Erik Bergkvist 1
+Maria Angela Danzì Rosanna Conte 1
+Maria Angela Danzì Karin Karlsbro 1
+Maria Angela Danzì Marina Mesure 1
+Maria Angela Danzì Michaela Šojdrová 1
+Maria Angela Danzì Josianne Cutajar 1
+Maria Angela Danzì Alex Agius Saliba 1
+Maria Angela Danzì Tiemo Wölken 1
+Maria Angela Danzì Sara Cerdas 1
+Maria Angela Danzì Alfred Sant 1
+Maria Angela Danzì Elsi Katainen 1
+Maria Angela Danzì Ellie Chowns 1
+Maria Angela Danzì Alice Kuhnke 1
+Maria Angela Danzì Rovana Plumb 1
+Rosanna Conte Izaskun Bilbao Barandica 1
+Rosanna Conte Jessica Polfjärd 1
+Rosanna Conte Loucas Fourlas 1
+Rosanna Conte Sylwia Spurek 1
+Rosanna Conte Chris MacManus 1
+Rosanna Conte Marie Toussaint 1
+Rosanna Conte Othmar Karas 1
+Rosanna Conte Vlad Gheorghe 1
+Rosanna Conte Caroline Roose 1
+Rosanna Conte Ville Niinistö 2
+Rosanna Conte Joachim Stanisław Brudziński 1
+Rosanna Conte Sirpa Pietikäinen 1
+Rosanna Conte Eider Gardiazabal Rubial 1
+Rosanna Conte Ernest Urtasun 1
+Rosanna Conte Isabel García Muñoz 1
+Rosanna Conte Manuel Bompard 1
+Rosanna Conte Yannick Jadot 1
+Rosanna Conte Erik Bergkvist 2
+Rosanna Conte Karin Karlsbro 1
+Rosanna Conte Elżbieta Rafalska 1
+Rosanna Conte Marina Mesure 1
+Rosanna Conte Caterina Chinnici 1
+Rosanna Conte Michaela Šojdrová 1
+Rosanna Conte Josianne Cutajar 1
+Rosanna Conte Alex Agius Saliba 1
+Rosanna Conte Tiemo Wölken 1
+Rosanna Conte Sara Cerdas 2
+Rosanna Conte Alfred Sant 1
+Rosanna Conte David Cormand 1
+Rosanna Conte Robert Hajšel 1
+Rosanna Conte Elsi Katainen 1
+Rosanna Conte Ellie Chowns 1
+Rosanna Conte Alice Kuhnke 1
+Rosanna Conte Rovana Plumb 2
+María Soraya Rodríguez Ramos Izaskun Bilbao Barandica 1
+María Soraya Rodríguez Ramos Juan Fernando López Aguilar 1
+María Soraya Rodríguez Ramos Sylwia Spurek 1
+María Soraya Rodríguez Ramos Reinhard Bütikofer 1
+María Soraya Rodríguez Ramos Chris MacManus 1
+María Soraya Rodríguez Ramos Ivan Vilibor Sinčić 1
+María Soraya Rodríguez Ramos Idoia Villanueva Ruiz 1
+María Soraya Rodríguez Ramos Maria Arena 1
+María Soraya Rodríguez Ramos Vladimír Bilčík 1
+María Soraya Rodríguez Ramos Susanna Ceccardi 1
+María Soraya Rodríguez Ramos Hannah Neumann 1
+María Soraya Rodríguez Ramos Isabel Santos 1
+María Soraya Rodríguez Ramos Jan-Christoph Oetjen 1
+María Soraya Rodríguez Ramos Sven Mikser 1
+María Soraya Rodríguez Ramos Karin Karlsbro 1
+María Soraya Rodríguez Ramos Caterina Chinnici 2
+María Soraya Rodríguez Ramos Robert Biedroń 1
+María Soraya Rodríguez Ramos Elissavet Vozemberg-Vrionidi 1
+María Soraya Rodríguez Ramos Damien Carême 1
+María Soraya Rodríguez Ramos José Ramón Bauzá Díaz 1
+María Soraya Rodríguez Ramos Michaela Šojdrová 1
+María Soraya Rodríguez Ramos Cristian Terheş 1
+María Soraya Rodríguez Ramos Ana Miranda 1
+María Soraya Rodríguez Ramos Tineke Strik 2
+María Soraya Rodríguez Ramos Karlo Ressler 1
+María Soraya Rodríguez Ramos Mara Bizzotto 1
+María Soraya Rodríguez Ramos Pierfrancesco Majorino 1
+María Soraya Rodríguez Ramos Alviina Alametsä 2
+María Soraya Rodríguez Ramos Kathleen Van Brempt 1
+María Soraya Rodríguez Ramos Sunčana Glavak 1
+María Soraya Rodríguez Ramos Irène Tolleret 1
+María Soraya Rodríguez Ramos Jadwiga Wiśniewska 1
+María Soraya Rodríguez Ramos Heléne Fritzon 1
+Kim Van Sparrentak Łukasz Kohut 1
+Kim Van Sparrentak Loránt Vincze 1
+Kim Van Sparrentak Sylwia Spurek 1
+Kim Van Sparrentak Eugenia Rodríguez Palop 1
+Kim Van Sparrentak Fabio Massimo Castaldo 1
+Kim Van Sparrentak Iratxe García Pérez 1
+Kim Van Sparrentak Seán Kelly 1
+Kim Van Sparrentak Paolo Borchia 1
+Kim Van Sparrentak Marie Toussaint 1
+Kim Van Sparrentak Jérôme Rivière 1
+Kim Van Sparrentak Helmut Scholz 1
+Kim Van Sparrentak Claudia Gamon 1
+Kim Van Sparrentak Maria Grapini 1
+Kim Van Sparrentak Tanja Fajon 1
+Kim Van Sparrentak Marie-Pierre Vedrenne 1
+Kim Van Sparrentak Vladimír Bilčík 1
+Kim Van Sparrentak Yannick Jadot 1
+Kim Van Sparrentak Nicolas Bay 1
+Kim Van Sparrentak Jorge Buxadé Villalba 1
+Cláudia Monteiro de Aguiar Enikő Győri 1
+Cláudia Monteiro de Aguiar David Cormand 1
+Cláudia Monteiro de Aguiar Marina Mesure 1
+Cláudia Monteiro de Aguiar Sirpa Pietikäinen 1
+Cláudia Monteiro de Aguiar Rovana Plumb 1
+Cláudia Monteiro de Aguiar Urmas Paet 1
+Cláudia Monteiro de Aguiar Mario Furore 1
+Cláudia Monteiro de Aguiar Alfred Sant 1
+Cláudia Monteiro de Aguiar Leszek Miller 1
+Cláudia Monteiro de Aguiar Andrzej Halicki 1
+Cláudia Monteiro de Aguiar Jorge Buxadé Villalba 1
+Miriam Lexmann Angel Dzhambazki 1
+Miriam Lexmann Cristian Terheş 1
+Miriam Lexmann Eleonora Evi 1
+Miriam Lexmann Martin Sonneborn 1
+Miriam Lexmann Caterina Chinnici 1
+Miriam Lexmann Ádám Kósa 1
+Miriam Lexmann Mónica Silvana González 2
+Miriam Lexmann Jaak Madison 1
+Miriam Lexmann Tomáš Zdechovský 1
+Karen Melchior Georgios Kyrtsos 1
+Karen Melchior Gilles Lebreton 1
+Karen Melchior Angel Dzhambazki 1
+Karen Melchior Pierfrancesco Majorino 1
+Karen Melchior Zbigniew Kuźmiuk 1
+Karen Melchior Joachim Stanisław Brudziński 1
+Karen Melchior Anna Fotyga 2
+Karen Melchior Beata Szydło 1
+Karen Melchior Leszek Miller 1
+Karen Melchior Charlie Weimers 1
+Karen Melchior Karin Karlsbro 2
+Tomáš Zdechovský Juan Fernando López Aguilar 1
+Tomáš Zdechovský Martin Sonneborn 1
+Tomáš Zdechovský Gilles Lebreton 1
+Tomáš Zdechovský Iratxe García Pérez 1
+Tomáš Zdechovský Clara Ponsatí Obiols 1
+Tomáš Zdechovský Jaak Madison 1
+Tomáš Zdechovský Jan Olbrycht 1
+Tomáš Zdechovský Maite Pagazaurtundúa 1
+Tomáš Zdechovský Angel Dzhambazki 1
+Tomáš Zdechovský Veronika Vrecionová 1
+Tomáš Zdechovský Maria Arena 1
+Tomáš Zdechovský Vladimír Bilčík 1
+Tomáš Zdechovský Billy Kelleher 1
+Tomáš Zdechovský Guy Verhofstadt 1
+Tomáš Zdechovský Beata Szydło 1
+Tomáš Zdechovský Leszek Miller 1
+Tomáš Zdechovský Manuel Bompard 1
+Tomáš Zdechovský Tamás Deutsch 1
+Tomáš Zdechovský Karin Karlsbro 1
+Tomáš Zdechovský Robert Biedroń 1
+Tomáš Zdechovský Georgios Kyrtsos 1
+Tomáš Zdechovský Urmas Paet 1
+Tomáš Zdechovský Dragoș Pîslaru 1
+Tomáš Zdechovský Cyrus Engerer 1
+Tomáš Zdechovský Sara Cerdas 1
+Tomáš Zdechovský Cristian Terheş 1
+Tomáš Zdechovský Costas Mavrides 1
+Tomáš Zdechovský Dominique Bilde 1
+Tomáš Zdechovský Pierfrancesco Majorino 1
+Tomáš Zdechovský Tanja Fajon 1
+Tomáš Zdechovský Eleonora Evi 1
+Tomáš Zdechovský Zbigniew Kuźmiuk 1
+Tomáš Zdechovský Robert Hajšel 1
+Tomáš Zdechovský Andżelika Anna Możdżanowska 1
+Tomáš Zdechovský Gabriele Bischoff 1
+Tomáš Zdechovský Kathleen Van Brempt 1
+Tomáš Zdechovský Jens Geier 1
+Tomáš Zdechovský Rovana Plumb 1
+Robert Hajšel Jessica Polfjärd 2
+Robert Hajšel Gilles Lebreton 1
+Robert Hajšel Marcos Ros Sempere 1
+Robert Hajšel Angel Dzhambazki 3
+Robert Hajšel György Hölvényi 1
+Robert Hajšel Vladimír Bilčík 1
+Robert Hajšel Billy Kelleher 1
+Robert Hajšel Leszek Miller 3
+Robert Hajšel Jorge Buxadé Villalba 1
+Robert Hajšel Karin Karlsbro 1
+Robert Hajšel Robert Biedroń 1
+Robert Hajšel Georgios Kyrtsos 1
+Robert Hajšel Miapetra Kumpula-Natri 1
+Robert Hajšel Dragoș Pîslaru 1
+Robert Hajšel Cyrus Engerer 1
+Robert Hajšel Udo Bullmann 1
+Robert Hajšel Costas Mavrides 1
+Robert Hajšel David Cormand 1
+Robert Hajšel Bogdan Rzońca 1
+Robert Hajšel Gabriele Bischoff 1
+Robert Hajšel Kathleen Van Brempt 1
+Robert Hajšel Elena Lizzi 2
+Robert Hajšel Rovana Plumb 2
+Robert Hajšel Izaskun Bilbao Barandica 1
+Robert Hajšel Juan Fernando López Aguilar 1
+Robert Hajšel Iratxe García Pérez 1
+Robert Hajšel Clara Ponsatí Obiols 1
+Robert Hajšel Lefteris Nikolaou-Alavanos 1
+Robert Hajšel Ville Niinistö 2
+Robert Hajšel Maite Pagazaurtundúa 1
+Robert Hajšel Sirpa Pietikäinen 1
+Robert Hajšel Guy Verhofstadt 1
+Robert Hajšel Beata Szydło 1
+Robert Hajšel Tamás Deutsch 2
+Robert Hajšel Erik Bergkvist 1
+Robert Hajšel Enikő Győri 1
+Robert Hajšel Urmas Paet 1
+Robert Hajšel Sara Cerdas 1
+Robert Hajšel Dominique Bilde 1
+Robert Hajšel Pierfrancesco Majorino 1
+Robert Hajšel Tanja Fajon 2
+Robert Hajšel Zbigniew Kuźmiuk 1
+Robert Hajšel Andżelika Anna Możdżanowska 1
+Robert Hajšel Jens Geier 1
+Angelo Ciocca Gilles Lebreton 1
+Angelo Ciocca Silvia Sardone 1
+Gabriele Bischoff Loránt Vincze 1
+Gabriele Bischoff Pernando Barrena Arza 1
+Gabriele Bischoff Gilles Lebreton 1
+Gabriele Bischoff Angel Dzhambazki 1
+Gabriele Bischoff Vladimír Bilčík 2
+Gabriele Bischoff Billy Kelleher 1
+Gabriele Bischoff Emmanuel Maurel 1
+Gabriele Bischoff Leszek Miller 2
+Gabriele Bischoff Karin Karlsbro 2
+Gabriele Bischoff José Ramón Bauzá Díaz 1
+Gabriele Bischoff Michaela Šojdrová 1
+Gabriele Bischoff Robert Biedroń 1
+Gabriele Bischoff Georgios Kyrtsos 1
+Gabriele Bischoff Dragoș Pîslaru 1
+Gabriele Bischoff Cyrus Engerer 2
+Gabriele Bischoff Costas Mavrides 1
+Gabriele Bischoff Balázs Hidvéghi 1
+Gabriele Bischoff Kathleen Van Brempt 1
+Gabriele Bischoff Terry Reintke 1
+Gabriele Bischoff Rovana Plumb 1
+Gabriele Bischoff Juan Fernando López Aguilar 1
+Gabriele Bischoff Katalin Cseh 1
+Gabriele Bischoff Ivan Vilibor Sinčić 1
+Gabriele Bischoff Iratxe García Pérez 1
+Gabriele Bischoff Clara Ponsatí Obiols 1
+Gabriele Bischoff Maite Pagazaurtundúa 1
+Gabriele Bischoff Guy Verhofstadt 1
+Gabriele Bischoff Laura Ferrara 1
+Gabriele Bischoff Beata Szydło 1
+Gabriele Bischoff Tamás Deutsch 1
+Gabriele Bischoff Tom Vandendriessche 1
+Gabriele Bischoff Urmas Paet 1
+Gabriele Bischoff Sara Cerdas 1
+Gabriele Bischoff Rasa Juknevičienė 1
+Gabriele Bischoff Helmut Scholz 1
+Gabriele Bischoff Mara Bizzotto 1
+Gabriele Bischoff Dominique Bilde 1
+Gabriele Bischoff Pierfrancesco Majorino 2
+Gabriele Bischoff Tanja Fajon 1
+Gabriele Bischoff Zbigniew Kuźmiuk 1
+Gabriele Bischoff Andżelika Anna Możdżanowska 1
+Gabriele Bischoff Sunčana Glavak 1
+Gabriele Bischoff Bernhard Zimniok 1
+Gabriele Bischoff Jens Geier 1
+Zdzisław Krasnodębski Georg Mayer 1
+Zdzisław Krasnodębski Anna Fotyga 1
+Zdzisław Krasnodębski Karin Karlsbro 1
+Terry Reintke Pernando Barrena Arza 2
+Terry Reintke Loránt Vincze 1
+Terry Reintke Katalin Cseh 1
+Terry Reintke Ivan Vilibor Sinčić 1
+Terry Reintke Vladimír Bilčík 1
+Terry Reintke Laura Ferrara 1
+Terry Reintke Leszek Miller 1
+Terry Reintke Tom Vandendriessche 1
+Terry Reintke Karin Karlsbro 1
+Terry Reintke José Ramón Bauzá Díaz 1
+Terry Reintke Michaela Šojdrová 1
+Terry Reintke Cyrus Engerer 1
+Terry Reintke Johan Danielsson 1
+Terry Reintke Rasa Juknevičienė 1
+Terry Reintke Helmut Scholz 1
+Terry Reintke Mara Bizzotto 1
+Terry Reintke Pierfrancesco Majorino 1
+Terry Reintke Balázs Hidvéghi 1
+Terry Reintke Sunčana Glavak 1
+Terry Reintke Bernhard Zimniok 1
+Roman Haider Rosa D'Amato 1
+Roman Haider Claudia Gamon 1
+Corina Crețu Tanja Fajon 1
+Corina Crețu Łukasz Kohut 1
+Corina Crețu Carmen Avram 1
+Corina Crețu Udo Bullmann 1
+Frances Fitzgerald Ivan Vilibor Sinčić 1
+Frances Fitzgerald Sara Cerdas 1
+Andor Deli Dominique Bilde 1
+Andor Deli Juan Fernando López Aguilar 1
+Andor Deli Michaela Šojdrová 1
+Andor Deli György Hölvényi 1
+Andor Deli Joachim Stanisław Brudziński 1
+Andor Deli Diana Riba i Giner 1
+Andor Deli Guy Verhofstadt 1
+Andor Deli Bernhard Zimniok 1
+Andor Deli Maite Pagazaurtundúa 1
+Marie Toussaint Janina Ochojska 1
+Marie Toussaint Sylwia Spurek 1
+Marie Toussaint Chris MacManus 1
+Marie Toussaint Vlad Gheorghe 2
+Marie Toussaint Othmar Karas 1
+Marie Toussaint Caroline Roose 2
+Marie Toussaint Ville Niinistö 1
+Marie Toussaint Eider Gardiazabal Rubial 1
+Marie Toussaint Ernest Urtasun 1
+Marie Toussaint Isabel García Muñoz 1
+Marie Toussaint Manuel Bompard 1
+Marie Toussaint Yannick Jadot 2
+Marie Toussaint Mazaly Aguilar 1
+Marie Toussaint Erik Bergkvist 2
+Marie Toussaint Karin Karlsbro 1
+Marie Toussaint Marina Mesure 1
+Marie Toussaint Michaela Šojdrová 1
+Marie Toussaint Josianne Cutajar 1
+Marie Toussaint Seán Kelly 1
+Marie Toussaint Alex Agius Saliba 1
+Marie Toussaint Tiemo Wölken 1
+Marie Toussaint Sara Cerdas 1
+Marie Toussaint Alfred Sant 1
+Marie Toussaint Elsi Katainen 1
+Marie Toussaint Ellie Chowns 1
+Marie Toussaint Alice Kuhnke 1
+Marie Toussaint Rovana Plumb 1
+Clara Ponsatí Obiols Juan Fernando López Aguilar 1
+Clara Ponsatí Obiols Gilles Lebreton 1
+Clara Ponsatí Obiols Iratxe García Pérez 1
+Clara Ponsatí Obiols Maite Pagazaurtundúa 1
+Clara Ponsatí Obiols Angel Dzhambazki 1
+Clara Ponsatí Obiols Vladimír Bilčík 1
+Clara Ponsatí Obiols Billy Kelleher 1
+Clara Ponsatí Obiols Guy Verhofstadt 1
+Clara Ponsatí Obiols Beata Szydło 1
+Clara Ponsatí Obiols Leszek Miller 1
+Clara Ponsatí Obiols Tamás Deutsch 1
+Clara Ponsatí Obiols Karin Karlsbro 1
+Clara Ponsatí Obiols Robert Biedroń 1
+Clara Ponsatí Obiols Georgios Kyrtsos 1
+Clara Ponsatí Obiols Urmas Paet 1
+Clara Ponsatí Obiols Dragoș Pîslaru 1
+Clara Ponsatí Obiols Cyrus Engerer 1
+Clara Ponsatí Obiols Sara Cerdas 1
+Clara Ponsatí Obiols Costas Mavrides 1
+Clara Ponsatí Obiols Dominique Bilde 1
+Clara Ponsatí Obiols Pierfrancesco Majorino 1
+Clara Ponsatí Obiols Tanja Fajon 1
+Clara Ponsatí Obiols Zbigniew Kuźmiuk 1
+Clara Ponsatí Obiols Andżelika Anna Możdżanowska 1
+Clara Ponsatí Obiols Kathleen Van Brempt 1
+Clara Ponsatí Obiols Jens Geier 1
+Clara Ponsatí Obiols Rovana Plumb 1
+Hannah Neumann Izaskun Bilbao Barandica 1
+Hannah Neumann Juan Fernando López Aguilar 1
+Hannah Neumann Damien Carême 1
+Hannah Neumann Caterina Chinnici 1
+Hannah Neumann Sylwia Spurek 1
+Hannah Neumann José Ramón Bauzá Díaz 2
+Hannah Neumann Reinhard Bütikofer 1
+Hannah Neumann Michaela Šojdrová 1
+Hannah Neumann Jadwiga Wiśniewska 1
+Hannah Neumann Chris MacManus 1
+Hannah Neumann Ivan Vilibor Sinčić 1
+Hannah Neumann Cristian Terheş 1
+Hannah Neumann Idoia Villanueva Ruiz 1
+Hannah Neumann Ana Miranda 1
+Hannah Neumann Tineke Strik 1
+Hannah Neumann Mara Bizzotto 1
+Hannah Neumann Pierfrancesco Majorino 1
+Hannah Neumann Maria Arena 1
+Hannah Neumann Alviina Alametsä 1
+Hannah Neumann Kathleen Van Brempt 1
+Hannah Neumann Isabel Santos 1
+Hannah Neumann Jan-Christoph Oetjen 1
+Hannah Neumann Karin Karlsbro 1
+Tilly Metz Miriam Dalli 1
+Tilly Metz Michèle Rivasi 1
+Svenja Hahn Herbert Dorfmann 1
+Elissavet Vozemberg-Vrionidi Sunčana Glavak 1
+Elissavet Vozemberg-Vrionidi Sara Cerdas 2
+Elissavet Vozemberg-Vrionidi Javier Moreno Sánchez 1
+Josianne Cutajar Chris MacManus 1
+Josianne Cutajar Othmar Karas 1
+Josianne Cutajar Vlad Gheorghe 1
+Josianne Cutajar Caroline Roose 1
+Josianne Cutajar Lefteris Nikolaou-Alavanos 1
+Josianne Cutajar Ville Niinistö 1
+Josianne Cutajar Eugen Tomac 1
+Josianne Cutajar Eider Gardiazabal Rubial 1
+Josianne Cutajar Sara Skyttedal 1
+Josianne Cutajar Billy Kelleher 1
+Josianne Cutajar Lídia Pereira 1
+Josianne Cutajar Ernest Urtasun 1
+Josianne Cutajar Isabel García Muñoz 1
+Josianne Cutajar Manuel Bompard 1
+Josianne Cutajar Yannick Jadot 1
+Josianne Cutajar Erik Bergkvist 1
+Josianne Cutajar Karin Karlsbro 1
+Josianne Cutajar Marina Mesure 1
+Josianne Cutajar Enikő Győri 2
+Josianne Cutajar Elżbieta Rafalska 1
+Josianne Cutajar Michaela Šojdrová 1
+Josianne Cutajar Urmas Paet 1
+Josianne Cutajar Alex Agius Saliba 1
+Josianne Cutajar Tiemo Wölken 1
+Josianne Cutajar Sara Cerdas 1
+Josianne Cutajar Alfred Sant 1
+Josianne Cutajar Elsi Katainen 1
+Josianne Cutajar Elena Lizzi 1
+Josianne Cutajar Ellie Chowns 1
+Josianne Cutajar Alice Kuhnke 1
+Josianne Cutajar Rovana Plumb 1
+Michèle Rivasi Miriam Dalli 1
+Klaus Buchner Manuel Bompard 1
+Helmut Scholz Loránt Vincze 2
+Helmut Scholz Pernando Barrena Arza 1
+Helmut Scholz Katalin Cseh 1
+Helmut Scholz Ivan Vilibor Sinčić 1
+Helmut Scholz Iratxe García Pérez 1
+Helmut Scholz Claudia Gamon 1
+Helmut Scholz Vladimír Bilčík 2
+Helmut Scholz Laura Ferrara 1
+Helmut Scholz Leszek Miller 1
+Helmut Scholz Tom Vandendriessche 1
+Helmut Scholz Nicolas Bay 1
+Helmut Scholz Karin Karlsbro 1
+Helmut Scholz Jorge Buxadé Villalba 1
+Helmut Scholz Łukasz Kohut 1
+Helmut Scholz José Ramón Bauzá Díaz 1
+Helmut Scholz Michaela Šojdrová 1
+Helmut Scholz Fabio Massimo Castaldo 1
+Helmut Scholz Paolo Borchia 1
+Helmut Scholz Cyrus Engerer 1
+Helmut Scholz Rasa Juknevičienė 1
+Helmut Scholz Jérôme Rivière 1
+Helmut Scholz Mara Bizzotto 1
+Helmut Scholz Maria Grapini 1
+Helmut Scholz Pierfrancesco Majorino 1
+Helmut Scholz Tanja Fajon 1
+Helmut Scholz Balázs Hidvéghi 1
+Helmut Scholz Sunčana Glavak 1
+Helmut Scholz Bernhard Zimniok 1
+Elsi Katainen Maxette Pirbakas 1
+Elsi Katainen Chris MacManus 1
+Elsi Katainen Othmar Karas 1
+Elsi Katainen Vlad Gheorghe 1
+Elsi Katainen Caroline Roose 1
+Elsi Katainen Ville Niinistö 1
+Elsi Katainen Eider Gardiazabal Rubial 1
+Elsi Katainen Ernest Urtasun 1
+Elsi Katainen Isabel García Muñoz 1
+Elsi Katainen Manuel Bompard 2
+Elsi Katainen Yannick Jadot 1
+Elsi Katainen Erik Bergkvist 1
+Elsi Katainen Mazaly Aguilar 1
+Elsi Katainen Karin Karlsbro 1
+Elsi Katainen Marina Mesure 1
+Elsi Katainen Michaela Šojdrová 1
+Elsi Katainen Alex Agius Saliba 1
+Elsi Katainen Tiemo Wölken 1
+Elsi Katainen Sara Cerdas 1
+Elsi Katainen Alfred Sant 1
+Elsi Katainen Ellie Chowns 1
+Elsi Katainen Ljudmila Novak 1
+Elsi Katainen Alice Kuhnke 1
+Elsi Katainen Rovana Plumb 1
+Diana Riba i Giner Juan Fernando López Aguilar 1
+Diana Riba i Giner Michaela Šojdrová 1
+Diana Riba i Giner Georg Mayer 1
+Diana Riba i Giner Dragoș Pîslaru 1
+Diana Riba i Giner Vlad Gheorghe 1
+Diana Riba i Giner Maite Pagazaurtundúa 1
+Diana Riba i Giner Karlo Ressler 2
+Diana Riba i Giner Dominique Bilde 1
+Diana Riba i Giner Nacho Sánchez Amor 2
+Diana Riba i Giner György Hölvényi 2
+Diana Riba i Giner Vladimír Bilčík 1
+Diana Riba i Giner Joachim Stanisław Brudziński 2
+Diana Riba i Giner Ádám Kósa 1
+Diana Riba i Giner Anna Fotyga 1
+Diana Riba i Giner Guy Verhofstadt 1
+Diana Riba i Giner Elena Lizzi 1
+Daniel Freund Janina Ochojska 1
+Daniel Freund Martin Sonneborn 1
+Daniel Freund Georg Mayer 1
+Daniel Freund Reinhard Bütikofer 1
+Daniel Freund Mounir Satouri 1
+Daniel Freund Jaak Madison 1
+Daniel Freund Beata Szydło 1
+Daniel Freund Laura Ferrara 1
+Daniel Freund Cristian Terheş 1
+Daniel Freund Ana Miranda 1
+Vladimír Bilčík Loránt Vincze 3
+Vladimír Bilčík Pernando Barrena Arza 1
+Vladimír Bilčík Gilles Lebreton 1
+Vladimír Bilčík Chris MacManus 1
+Vladimír Bilčík Angel Dzhambazki 2
+Vladimír Bilčík Billy Kelleher 1
+Vladimír Bilčík Susanna Ceccardi 1
+Vladimír Bilčík Leszek Miller 3
+Vladimír Bilčík Jorge Buxadé Villalba 1
+Vladimír Bilčík Karin Karlsbro 2
+Vladimír Bilčík Łukasz Kohut 1
+Vladimír Bilčík José Ramón Bauzá Díaz 1
+Vladimír Bilčík Michaela Šojdrová 1
+Vladimír Bilčík Robert Biedroń 1
+Vladimír Bilčík Georgios Kyrtsos 1
+Vladimír Bilčík Fabio Massimo Castaldo 1
+Vladimír Bilčík Dragoș Pîslaru 1
+Vladimír Bilčík Cyrus Engerer 3
+Vladimír Bilčík Costas Mavrides 1
+Vladimír Bilčík Maria Grapini 2
+Vladimír Bilčík Balázs Hidvéghi 2
+Vladimír Bilčík Kathleen Van Brempt 1
+Vladimír Bilčík Mario Furore 1
+Vladimír Bilčík Rovana Plumb 1
+Vladimír Bilčík Izaskun Bilbao Barandica 1
+Vladimír Bilčík Juan Fernando López Aguilar 1
+Vladimír Bilčík Katalin Cseh 1
+Vladimír Bilčík Ivan Vilibor Sinčić 1
+Vladimír Bilčík Iratxe García Pérez 2
+Vladimír Bilčík Maite Pagazaurtundúa 1
+Vladimír Bilčík Claudia Gamon 1
+Vladimír Bilčík Guy Verhofstadt 2
+Vladimír Bilčík Beata Szydło 1
+Vladimír Bilčík Laura Ferrara 2
+Vladimír Bilčík Tamás Deutsch 1
+Vladimír Bilčík Tom Vandendriessche 1
+Vladimír Bilčík Nicolas Bay 1
+Vladimír Bilčík Urmas Paet 1
+Vladimír Bilčík Paolo Borchia 1
+Vladimír Bilčík Sara Cerdas 1
+Vladimír Bilčík Rasa Juknevičienė 1
+Vladimír Bilčík Cristian Terheş 2
+Vladimír Bilčík Jérôme Rivière 1
+Vladimír Bilčík Karlo Ressler 2
+Vladimír Bilčík Mara Bizzotto 1
+Vladimír Bilčík Dominique Bilde 1
+Vladimír Bilčík Pierfrancesco Majorino 2
+Vladimír Bilčík Tanja Fajon 3
+Vladimír Bilčík Zbigniew Kuźmiuk 1
+Vladimír Bilčík Nacho Sánchez Amor 1
+Vladimír Bilčík Andżelika Anna Możdżanowska 1
+Vladimír Bilčík Sunčana Glavak 2
+Vladimír Bilčík Bernhard Zimniok 2
+Vladimír Bilčík Eugenia Rodríguez Palop 1
+Vladimír Bilčík Jens Geier 1
+Leszek Miller Loránt Vincze 2
+Leszek Miller Pernando Barrena Arza 1
+Leszek Miller Gilles Lebreton 2
+Leszek Miller Angel Dzhambazki 3
+Leszek Miller György Hölvényi 1
+Leszek Miller Billy Kelleher 1
+Leszek Miller Anna Fotyga 1
+Leszek Miller Jorge Buxadé Villalba 1
+Leszek Miller Karin Karlsbro 3
+Leszek Miller José Ramón Bauzá Díaz 1
+Leszek Miller Michaela Šojdrová 1
+Leszek Miller Robert Biedroń 1
+Leszek Miller Georgios Kyrtsos 1
+Leszek Miller Miapetra Kumpula-Natri 2
+Leszek Miller Dragoș Pîslaru 1
+Leszek Miller Cyrus Engerer 2
+Leszek Miller Udo Bullmann 1
+Leszek Miller Alfred Sant 1
+Leszek Miller Costas Mavrides 1
+Leszek Miller Maria Grapini 1
+Leszek Miller Paul Tang 1
+Leszek Miller Bogdan Rzońca 1
+Leszek Miller Balázs Hidvéghi 1
+Leszek Miller Kathleen Van Brempt 1
+Leszek Miller Mario Furore 1
+Leszek Miller Elena Lizzi 1
+Leszek Miller Rovana Plumb 1
+Leszek Miller Izaskun Bilbao Barandica 1
+Leszek Miller Juan Fernando López Aguilar 1
+Leszek Miller Katalin Cseh 2
+Leszek Miller Ivan Vilibor Sinčić 1
+Leszek Miller Iratxe García Pérez 1
+Leszek Miller Maite Pagazaurtundúa 1
+Leszek Miller Guy Verhofstadt 1
+Leszek Miller Beata Szydło 2
+Leszek Miller Laura Ferrara 2
+Leszek Miller Tamás Deutsch 2
+Leszek Miller Charlie Weimers 1
+Leszek Miller Tom Vandendriessche 1
+Leszek Miller Enikő Győri 1
+Leszek Miller Urmas Paet 2
+Leszek Miller Sara Cerdas 1
+Leszek Miller Rasa Juknevičienė 1
+Leszek Miller Cristian Terheş 1
+Leszek Miller Mara Bizzotto 1
+Leszek Miller Dominique Bilde 1
+Leszek Miller Pierfrancesco Majorino 2
+Leszek Miller Tanja Fajon 1
+Leszek Miller Zbigniew Kuźmiuk 2
+Leszek Miller Andżelika Anna Możdżanowska 1
+Leszek Miller Sunčana Glavak 1
+Leszek Miller Bernhard Zimniok 1
+Leszek Miller Eugenia Rodríguez Palop 1
+Leszek Miller Jens Geier 1
+Łukasz Kohut Loránt Vincze 1
+Łukasz Kohut Fabio Massimo Castaldo 1
+Łukasz Kohut Iratxe García Pérez 1
+Łukasz Kohut Paolo Borchia 1
+Łukasz Kohut Udo Bullmann 1
+Łukasz Kohut Jérôme Rivière 1
+Łukasz Kohut Claudia Gamon 1
+Łukasz Kohut Maria Grapini 1
+Łukasz Kohut Tanja Fajon 2
+Łukasz Kohut Nicolas Bay 1
+Łukasz Kohut Jorge Buxadé Villalba 1
+Fabio Massimo Castaldo Loránt Vincze 1
+Fabio Massimo Castaldo Maria Noichl 1
+Fabio Massimo Castaldo Iratxe García Pérez 1
+Fabio Massimo Castaldo Paolo Borchia 1
+Fabio Massimo Castaldo Jérôme Rivière 1
+Fabio Massimo Castaldo Claudia Gamon 1
+Fabio Massimo Castaldo Maria Grapini 1
+Fabio Massimo Castaldo Tanja Fajon 1
+Fabio Massimo Castaldo Nicolas Bay 1
+Fabio Massimo Castaldo Jorge Buxadé Villalba 1
+Cyrus Engerer Loránt Vincze 1
+Cyrus Engerer Pernando Barrena Arza 1
+Cyrus Engerer Gilles Lebreton 1
+Cyrus Engerer Angel Dzhambazki 1
+Cyrus Engerer Billy Kelleher 1
+Cyrus Engerer Karin Karlsbro 2
+Cyrus Engerer José Ramón Bauzá Díaz 2
+Cyrus Engerer Michaela Šojdrová 1
+Cyrus Engerer Robert Biedroń 1
+Cyrus Engerer Georgios Kyrtsos 1
+Cyrus Engerer Dragoș Pîslaru 1
+Cyrus Engerer Costas Mavrides 1
+Cyrus Engerer Balázs Hidvéghi 1
+Cyrus Engerer Kathleen Van Brempt 1
+Cyrus Engerer Rovana Plumb 1
+Cyrus Engerer Juan Fernando López Aguilar 3
+Cyrus Engerer Katalin Cseh 1
+Cyrus Engerer Ivan Vilibor Sinčić 1
+Cyrus Engerer Iratxe García Pérez 1
+Cyrus Engerer Maite Pagazaurtundúa 1
+Cyrus Engerer Guy Verhofstadt 2
+Cyrus Engerer Laura Ferrara 1
+Cyrus Engerer Beata Szydło 1
+Cyrus Engerer Tamás Deutsch 1
+Cyrus Engerer Tom Vandendriessche 1
+Cyrus Engerer Urmas Paet 1
+Cyrus Engerer Sara Cerdas 1
+Cyrus Engerer Rasa Juknevičienė 1
+Cyrus Engerer Cristian Terheş 1
+Cyrus Engerer Karlo Ressler 1
+Cyrus Engerer Mara Bizzotto 1
+Cyrus Engerer Dominique Bilde 1
+Cyrus Engerer Pierfrancesco Majorino 2
+Cyrus Engerer Tanja Fajon 1
+Cyrus Engerer Zbigniew Kuźmiuk 1
+Cyrus Engerer Andżelika Anna Możdżanowska 1
+Cyrus Engerer Sunčana Glavak 1
+Cyrus Engerer Bernhard Zimniok 2
+Cyrus Engerer Jens Geier 1
+Ana Miranda Izaskun Bilbao Barandica 1
+Ana Miranda Juan Fernando López Aguilar 1
+Ana Miranda Martin Sonneborn 1
+Ana Miranda Sylwia Spurek 1
+Ana Miranda Reinhard Bütikofer 2
+Ana Miranda Chris MacManus 1
+Ana Miranda Ivan Vilibor Sinčić 1
+Ana Miranda Jaak Madison 1
+Ana Miranda Idoia Villanueva Ruiz 1
+Ana Miranda Maria Arena 1
+Ana Miranda Beata Szydło 1
+Ana Miranda Laura Ferrara 1
+Ana Miranda Isabel Santos 1
+Ana Miranda Jan-Christoph Oetjen 1
+Ana Miranda Karin Karlsbro 1
+Ana Miranda Damien Carême 1
+Ana Miranda Caterina Chinnici 1
+Ana Miranda José Ramón Bauzá Díaz 1
+Ana Miranda Michaela Šojdrová 1
+Ana Miranda Georg Mayer 1
+Ana Miranda Cristian Terheş 2
+Ana Miranda Tineke Strik 1
+Ana Miranda Mara Bizzotto 1
+Ana Miranda Pierfrancesco Majorino 1
+Ana Miranda Alviina Alametsä 1
+Ana Miranda Mounir Satouri 1
+Ana Miranda Kathleen Van Brempt 1
+Ana Miranda Jadwiga Wiśniewska 1
+Alviina Alametsä Izaskun Bilbao Barandica 1
+Alviina Alametsä Juan Fernando López Aguilar 1
+Alviina Alametsä Sylwia Spurek 1
+Alviina Alametsä Reinhard Bütikofer 2
+Alviina Alametsä Chris MacManus 1
+Alviina Alametsä Ivan Vilibor Sinčić 1
+Alviina Alametsä Idoia Villanueva Ruiz 1
+Alviina Alametsä Maria Arena 1
+Alviina Alametsä Isabel Santos 1
+Alviina Alametsä Jan-Christoph Oetjen 1
+Alviina Alametsä Karin Karlsbro 1
+Alviina Alametsä Damien Carême 2
+Alviina Alametsä Caterina Chinnici 1
+Alviina Alametsä José Ramón Bauzá Díaz 1
+Alviina Alametsä Michaela Šojdrová 1
+Alviina Alametsä Cristian Terheş 1
+Alviina Alametsä Tineke Strik 2
+Alviina Alametsä Mara Bizzotto 1
+Alviina Alametsä Pierfrancesco Majorino 1
+Alviina Alametsä Kathleen Van Brempt 1
+Alviina Alametsä Jadwiga Wiśniewska 1
+Jadwiga Wiśniewska Izaskun Bilbao Barandica 1
+Jadwiga Wiśniewska Juan Fernando López Aguilar 1
+Jadwiga Wiśniewska Damien Carême 1
+Jadwiga Wiśniewska Caterina Chinnici 1
+Jadwiga Wiśniewska Sylwia Spurek 1
+Jadwiga Wiśniewska José Ramón Bauzá Díaz 1
+Jadwiga Wiśniewska Reinhard Bütikofer 1
+Jadwiga Wiśniewska Michaela Šojdrová 1
+Jadwiga Wiśniewska Chris MacManus 1
+Jadwiga Wiśniewska Ivan Vilibor Sinčić 1
+Jadwiga Wiśniewska Cristian Terheş 1
+Jadwiga Wiśniewska Idoia Villanueva Ruiz 1
+Jadwiga Wiśniewska Tineke Strik 1
+Jadwiga Wiśniewska Mara Bizzotto 1
+Jadwiga Wiśniewska Pierfrancesco Majorino 1
+Jadwiga Wiśniewska Maria Arena 1
+Jadwiga Wiśniewska Kathleen Van Brempt 1
+Jadwiga Wiśniewska Isabel Santos 1
+Jadwiga Wiśniewska Jan-Christoph Oetjen 1
+Jadwiga Wiśniewska Karin Karlsbro 1
+Juan Fernando López Aguilar Gilles Lebreton 1
+Juan Fernando López Aguilar Chris MacManus 1
+Juan Fernando López Aguilar Angel Dzhambazki 1
+Juan Fernando López Aguilar Maria Arena 1
+Juan Fernando López Aguilar György Hölvényi 2
+Juan Fernando López Aguilar Joachim Stanisław Brudziński 2
+Juan Fernando López Aguilar Billy Kelleher 1
+Juan Fernando López Aguilar Anna Fotyga 1
+Juan Fernando López Aguilar Susanna Ceccardi 1
+Juan Fernando López Aguilar Isabel Santos 1
+Juan Fernando López Aguilar Karin Karlsbro 2
+Juan Fernando López Aguilar José Ramón Bauzá Díaz 2
+Juan Fernando López Aguilar Michaela Šojdrová 3
+Juan Fernando López Aguilar Robert Biedroń 1
+Juan Fernando López Aguilar Georgios Kyrtsos 1
+Juan Fernando López Aguilar Dragoș Pîslaru 1
+Juan Fernando López Aguilar Tineke Strik 1
+Juan Fernando López Aguilar Costas Mavrides 1
+Juan Fernando López Aguilar Kathleen Van Brempt 2
+Juan Fernando López Aguilar Rovana Plumb 1
+Juan Fernando López Aguilar Izaskun Bilbao Barandica 1
+Juan Fernando López Aguilar Sylwia Spurek 1
+Juan Fernando López Aguilar Reinhard Bütikofer 1
+Juan Fernando López Aguilar Ivan Vilibor Sinčić 1
+Juan Fernando López Aguilar Iratxe García Pérez 1
+Juan Fernando López Aguilar Idoia Villanueva Ruiz 1
+Juan Fernando López Aguilar Maite Pagazaurtundúa 2
+Juan Fernando López Aguilar Guy Verhofstadt 2
+Juan Fernando López Aguilar Beata Szydło 2
+Juan Fernando López Aguilar Tamás Deutsch 1
+Juan Fernando López Aguilar Charlie Weimers 1
+Juan Fernando López Aguilar Jan-Christoph Oetjen 1
+Juan Fernando López Aguilar Damien Carême 1
+Juan Fernando López Aguilar Caterina Chinnici 1
+Juan Fernando López Aguilar Urmas Paet 2
+Juan Fernando López Aguilar Evin Incir 1
+Juan Fernando López Aguilar Sara Cerdas 1
+Juan Fernando López Aguilar Rasa Juknevičienė 1
+Juan Fernando López Aguilar Cristian Terheş 1
+Juan Fernando López Aguilar Karlo Ressler 2
+Juan Fernando López Aguilar Mara Bizzotto 1
+Juan Fernando López Aguilar Dominique Bilde 2
+Juan Fernando López Aguilar Pierfrancesco Majorino 2
+Juan Fernando López Aguilar Tanja Fajon 2
+Juan Fernando López Aguilar Zbigniew Kuźmiuk 1
+Juan Fernando López Aguilar Andżelika Anna Możdżanowska 1
+Juan Fernando López Aguilar Mounir Satouri 1
+Juan Fernando López Aguilar Bernhard Zimniok 2
+Juan Fernando López Aguilar Jens Geier 1
+Lefteris Nikolaou-Alavanos Enikő Győri 1
+Lefteris Nikolaou-Alavanos Giorgos Georgiou 1
+Lefteris Nikolaou-Alavanos Sara Skyttedal 1
+Lefteris Nikolaou-Alavanos Alex Agius Saliba 1
+Lefteris Nikolaou-Alavanos Kostas Papadakis 1
+Sara Skyttedal Enikő Győri 1
+Guy Verhofstadt Gilles Lebreton 1
+Guy Verhofstadt Iratxe García Pérez 1
+Guy Verhofstadt Maite Pagazaurtundúa 2
+Guy Verhofstadt Angel Dzhambazki 1
+Guy Verhofstadt György Hölvényi 1
+Guy Verhofstadt Joachim Stanisław Brudziński 1
+Guy Verhofstadt Billy Kelleher 1
+Guy Verhofstadt Beata Szydło 1
+Guy Verhofstadt Tamás Deutsch 1
+Guy Verhofstadt Erik Bergkvist 1
+Guy Verhofstadt Karin Karlsbro 1
+Guy Verhofstadt Robert Biedroń 1
+Guy Verhofstadt Michaela Šojdrová 1
+Guy Verhofstadt Georgios Kyrtsos 1
+Guy Verhofstadt Urmas Paet 2
+Guy Verhofstadt Dragoș Pîslaru 1
+Guy Verhofstadt Sara Cerdas 1
+Guy Verhofstadt Ioan-Rareş Bogdan 1
+Guy Verhofstadt Cristian Terheş 2
+Guy Verhofstadt Nicola Beer 1
+Guy Verhofstadt Costas Mavrides 1
+Guy Verhofstadt Dominique Bilde 2
+Guy Verhofstadt Pierfrancesco Majorino 1
+Guy Verhofstadt Tanja Fajon 1
+Guy Verhofstadt Zbigniew Kuźmiuk 1
+Guy Verhofstadt Andżelika Anna Możdżanowska 1
+Guy Verhofstadt Kathleen Van Brempt 1
+Guy Verhofstadt Jens Geier 1
+Guy Verhofstadt Rovana Plumb 1
+Sven Mikser Pernando Barrena Arza 1
+Elżbieta Rafalska Loucas Fourlas 1
+Elżbieta Rafalska Caterina Chinnici 1
+Elżbieta Rafalska Eugen Tomac 1
+Elżbieta Rafalska Sylwia Spurek 1
+Elżbieta Rafalska Billy Kelleher 1
+Elżbieta Rafalska Urmas Paet 1
+Elżbieta Rafalska Sara Cerdas 1
+Damien Carême Izaskun Bilbao Barandica 1
+Damien Carême Sylwia Spurek 1
+Damien Carême Reinhard Bütikofer 1
+Damien Carême Chris MacManus 1
+Damien Carême Ivan Vilibor Sinčić 1
+Damien Carême Idoia Villanueva Ruiz 1
+Damien Carême Maria Arena 1
+Damien Carême Laura Ferrara 1
+Damien Carême Tamás Deutsch 2
+Damien Carême Tom Vandendriessche 1
+Damien Carême Isabel Santos 1
+Damien Carême Jan-Christoph Oetjen 1
+Damien Carême Karin Karlsbro 1
+Damien Carême Jorge Buxadé Villalba 1
+Damien Carême Caterina Chinnici 1
+Damien Carême José Ramón Bauzá Díaz 1
+Damien Carême Michaela Šojdrová 1
+Damien Carême Vincenzo Sofo 1
+Damien Carême Cristian Terheş 1
+Damien Carême Tineke Strik 1
+Damien Carême Mara Bizzotto 1
+Damien Carême Pierfrancesco Majorino 1
+Damien Carême Silvia Sardone 2
+Damien Carême Kathleen Van Brempt 1
+France Jamet Jens Geier 1
+Seán Kelly Derk Jan Eppink 1
+Seán Kelly Sylwia Spurek 1
+Seán Kelly Lídia Pereira 1
+Seán Kelly Yannick Jadot 1
+Ioan-Rareş Bogdan Urmas Paet 1
+Ioan-Rareş Bogdan Charlie Weimers 1
+Ioan-Rareş Bogdan Erik Bergkvist 1
+Ioan-Rareş Bogdan Nicola Beer 1
+Tanja Fajon Loránt Vincze 1
+Tanja Fajon Gilles Lebreton 1
+Tanja Fajon Angel Dzhambazki 2
+Tanja Fajon Billy Kelleher 1
+Tanja Fajon Karin Karlsbro 1
+Tanja Fajon Jorge Buxadé Villalba 1
+Tanja Fajon Robert Biedroń 1
+Tanja Fajon Georgios Kyrtsos 1
+Tanja Fajon Dragoș Pîslaru 1
+Tanja Fajon Udo Bullmann 1
+Tanja Fajon Costas Mavrides 1
+Tanja Fajon Maria Grapini 1
+Tanja Fajon Kathleen Van Brempt 1
+Tanja Fajon Elena Lizzi 1
+Tanja Fajon Rovana Plumb 1
+Tanja Fajon Iratxe García Pérez 2
+Tanja Fajon Maite Pagazaurtundúa 1
+Tanja Fajon Claudia Gamon 1
+Tanja Fajon Beata Szydło 1
+Tanja Fajon Tamás Deutsch 1
+Tanja Fajon Nicolas Bay 1
+Tanja Fajon Urmas Paet 1
+Tanja Fajon Paolo Borchia 1
+Tanja Fajon Sara Cerdas 1
+Tanja Fajon Jérôme Rivière 1
+Tanja Fajon Dominique Bilde 1
+Tanja Fajon Pierfrancesco Majorino 1
+Tanja Fajon Zbigniew Kuźmiuk 1
+Tanja Fajon Andżelika Anna Możdżanowska 1
+Tanja Fajon Mounir Satouri 1
+Tanja Fajon Jens Geier 1
+Mounir Satouri Martin Sonneborn 1
+Mounir Satouri Reinhard Bütikofer 1
+Mounir Satouri Georg Mayer 1
+Mounir Satouri Dragoș Pîslaru 1
+Mounir Satouri Jaak Madison 1
+Mounir Satouri Cristian Terheş 1
+Mounir Satouri Angel Dzhambazki 1
+Mounir Satouri Zbigniew Kuźmiuk 1
+Mounir Satouri Beata Szydło 1
+Mounir Satouri Laura Ferrara 1
+Mounir Satouri Isabel Santos 1
+Mounir Satouri Karin Karlsbro 1
+Kostas Papadakis Caterina Chinnici 1
+Kostas Papadakis Sylwia Spurek 1
+Kostas Papadakis Alex Agius Saliba 1
+Kostas Papadakis Carmen Avram 1
+Kostas Papadakis Giorgos Georgiou 1
+Kostas Papadakis Ljudmila Novak 1
+Kostas Papadakis Nathalie Loiseau 1
+Caroline Roose Janina Ochojska 1
+Caroline Roose Chris MacManus 1
+Caroline Roose Othmar Karas 1
+Caroline Roose Vlad Gheorghe 2
+Caroline Roose Ville Niinistö 1
+Caroline Roose Eider Gardiazabal Rubial 1
+Caroline Roose Ernest Urtasun 1
+Caroline Roose Isabel García Muñoz 1
+Caroline Roose Manuel Bompard 1
+Caroline Roose Yannick Jadot 1
+Caroline Roose Erik Bergkvist 2
+Caroline Roose Mazaly Aguilar 1
+Caroline Roose Karin Karlsbro 1
+Caroline Roose Marina Mesure 1
+Caroline Roose Michaela Šojdrová 1
+Caroline Roose Alex Agius Saliba 1
+Caroline Roose Tiemo Wölken 1
+Caroline Roose Sara Cerdas 1
+Caroline Roose Alfred Sant 1
+Caroline Roose Ellie Chowns 1
+Caroline Roose Alice Kuhnke 1
+Caroline Roose Rovana Plumb 1
+Eugen Tomac Denis Nesci 1
+Eugen Tomac Billy Kelleher 2
+Eugen Tomac Urmas Paet 1
+Eugen Tomac Emmanuel Maurel 1
+Eugen Tomac Andrzej Halicki 1
+Anna Fotyga Gilles Lebreton 1
+Anna Fotyga Angel Dzhambazki 2
+Anna Fotyga Joachim Stanisław Brudziński 1
+Anna Fotyga Susanna Ceccardi 1
+Anna Fotyga Pedro Marques 1
+Anna Fotyga Beata Szydło 2
+Anna Fotyga Charlie Weimers 2
+Anna Fotyga Karin Karlsbro 3
+Anna Fotyga Georg Mayer 1
+Anna Fotyga Georgios Kyrtsos 1
+Anna Fotyga Evin Incir 1
+Anna Fotyga Tineke Strik 1
+Anna Fotyga Dominique Bilde 1
+Anna Fotyga Pierfrancesco Majorino 1
+Anna Fotyga Zbigniew Kuźmiuk 2
+Anna Fotyga Ádám Kósa 1
+Anna Fotyga Bernhard Zimniok 2
+Isabel Santos Izaskun Bilbao Barandica 1
+Isabel Santos Sylwia Spurek 1
+Isabel Santos Reinhard Bütikofer 1
+Isabel Santos Chris MacManus 1
+Isabel Santos Iratxe García Pérez 1
+Isabel Santos Ivan Vilibor Sinčić 1
+Isabel Santos Idoia Villanueva Ruiz 1
+Isabel Santos Angel Dzhambazki 1
+Isabel Santos Maria Arena 1
+Isabel Santos Christine Anderson 1
+Isabel Santos Jan-Christoph Oetjen 1
+Isabel Santos Karin Karlsbro 2
+Isabel Santos Caterina Chinnici 1
+Isabel Santos José Ramón Bauzá Díaz 1
+Isabel Santos Michaela Šojdrová 2
+Isabel Santos Urmas Paet 1
+Isabel Santos Cristian Terheş 1
+Isabel Santos Tineke Strik 1
+Isabel Santos Mara Bizzotto 2
+Isabel Santos Pierfrancesco Majorino 1
+Isabel Santos Zbigniew Kuźmiuk 1
+Isabel Santos Kathleen Van Brempt 1
+Miapetra Kumpula-Natri Enikő Győri 1
+Miapetra Kumpula-Natri Udo Bullmann 1
+Miapetra Kumpula-Natri Karlo Ressler 1
+Miapetra Kumpula-Natri Angel Dzhambazki 1
+Miapetra Kumpula-Natri György Hölvényi 1
+Miapetra Kumpula-Natri Bogdan Rzońca 2
+Miapetra Kumpula-Natri Elena Lizzi 1
+Miapetra Kumpula-Natri Tamás Deutsch 2
+Miapetra Kumpula-Natri Jorge Buxadé Villalba 1
+Tiemo Wölken Martin Sonneborn 1
+Tiemo Wölken Chris MacManus 1
+Tiemo Wölken Tsvetelina Penkova 1
+Tiemo Wölken Othmar Karas 1
+Tiemo Wölken Vlad Gheorghe 1
+Tiemo Wölken Marc Tarabella 1
+Tiemo Wölken Ville Niinistö 1
+Tiemo Wölken Angel Dzhambazki 1
+Tiemo Wölken Eider Gardiazabal Rubial 1
+Tiemo Wölken Ernest Urtasun 1
+Tiemo Wölken Patrizia Toia 1
+Tiemo Wölken Isabel García Muñoz 1
+Tiemo Wölken Beata Szydło 1
+Tiemo Wölken Manuel Bompard 1
+Tiemo Wölken Yannick Jadot 2
+Tiemo Wölken Erik Bergkvist 1
+Tiemo Wölken Anna-Michelle Asimakopoulou 1
+Tiemo Wölken Karin Karlsbro 1
+Tiemo Wölken Marina Mesure 2
+Tiemo Wölken Michaela Šojdrová 1
+Tiemo Wölken Alex Agius Saliba 1
+Tiemo Wölken Sara Cerdas 1
+Tiemo Wölken Alfred Sant 1
+Tiemo Wölken Ádám Kósa 1
+Tiemo Wölken Ellie Chowns 1
+Tiemo Wölken Alice Kuhnke 1
+Tiemo Wölken Rovana Plumb 1
+Udo Bullmann Enikő Győri 1
+Udo Bullmann Karlo Ressler 1
+Udo Bullmann Angel Dzhambazki 1
+Udo Bullmann György Hölvényi 2
+Udo Bullmann Bogdan Rzońca 1
+Udo Bullmann Ádám Kósa 1
+Udo Bullmann Elena Lizzi 1
+Udo Bullmann Tamás Deutsch 1
+Udo Bullmann Rovana Plumb 1
+Udo Bullmann Jorge Buxadé Villalba 1
+Bas Eickhout Michaela Šojdrová 1
+Bas Eickhout Maria Arena 1
+Nicola Beer Urmas Paet 1
+Nicola Beer Erik Bergkvist 1
+Maria Grapini Izaskun Bilbao Barandica 1
+Maria Grapini Loránt Vincze 2
+Maria Grapini Iratxe García Pérez 1
+Maria Grapini Othmar Karas 1
+Maria Grapini Claudia Gamon 1
+Maria Grapini Laura Ferrara 1
+Maria Grapini Nicolas Bay 2
+Maria Grapini Jorge Buxadé Villalba 1
+Maria Grapini Paolo Borchia 1
+Maria Grapini Alessandro Panza 1
+Maria Grapini Cristian Terheş 1
+Maria Grapini Jérôme Rivière 1
+Maria Grapini Mario Furore 1
+Maria Grapini Eugenia Rodríguez Palop 1
+Manon Aubry Dominique Bilde 1
+Manon Aubry Loucas Fourlas 1
+Manon Aubry Jean-Paul Garraud 1
+Manon Aubry Paolo Borchia 1
+Manon Aubry Claudia Gamon 1
+Denis Nesci Emmanuel Maurel 1
+Iratxe García Pérez Loránt Vincze 1
+Iratxe García Pérez Gilles Lebreton 1
+Iratxe García Pérez Maite Pagazaurtundúa 1
+Iratxe García Pérez Claudia Gamon 1
+Iratxe García Pérez Angel Dzhambazki 1
+Iratxe García Pérez Veronika Vrecionová 1
+Iratxe García Pérez Billy Kelleher 1
+Iratxe García Pérez Beata Szydło 1
+Iratxe García Pérez Tamás Deutsch 1
+Iratxe García Pérez Nicolas Bay 1
+Iratxe García Pérez Karin Karlsbro 1
+Iratxe García Pérez Jorge Buxadé Villalba 1
+Iratxe García Pérez Robert Biedroń 1
+Iratxe García Pérez Georgios Kyrtsos 1
+Iratxe García Pérez Urmas Paet 1
+Iratxe García Pérez Paolo Borchia 1
+Iratxe García Pérez Dragoș Pîslaru 1
+Iratxe García Pérez Sara Cerdas 1
+Iratxe García Pérez Costas Mavrides 1
+Iratxe García Pérez Dominique Bilde 1
+Iratxe García Pérez Pierfrancesco Majorino 1
+Iratxe García Pérez Zbigniew Kuźmiuk 1
+Iratxe García Pérez Jérôme Rivière 1
+Iratxe García Pérez Andżelika Anna Możdżanowska 1
+Iratxe García Pérez Kathleen Van Brempt 1
+Iratxe García Pérez Jens Geier 1
+Iratxe García Pérez Rovana Plumb 1
+Sandra Pereira Dragoș Pîslaru 1
+Lídia Pereira Bogdan Rzońca 1
+Pedro Marques Angel Dzhambazki 1
+Pedro Marques Beata Szydło 1
+Beata Szydło Martin Sonneborn 1
+Beata Szydło Gilles Lebreton 2
+Beata Szydło Angel Dzhambazki 3
+Beata Szydło György Hölvényi 1
+Beata Szydło Joachim Stanisław Brudziński 1
+Beata Szydło Billy Kelleher 1
+Beata Szydło Karin Karlsbro 2
+Beata Szydło Marina Mesure 1
+Beata Szydło Robert Biedroń 1
+Beata Szydło Michaela Šojdrová 1
+Beata Szydło Georgios Kyrtsos 1
+Beata Szydło Dragoș Pîslaru 1
+Beata Szydło Costas Mavrides 1
+Beata Szydło Kathleen Van Brempt 1
+Beata Szydło Rovana Plumb 1
+Beata Szydło Reinhard Bütikofer 1
+Beata Szydło Tsvetelina Penkova 1
+Beata Szydło Jaak Madison 1
+Beata Szydło Maite Pagazaurtundúa 1
+Beata Szydło Patrizia Toia 1
+Beata Szydło Laura Ferrara 1
+Beata Szydło Tamás Deutsch 1
+Beata Szydło Yannick Jadot 1
+Beata Szydło Charlie Weimers 1
+Beata Szydło Georg Mayer 1
+Beata Szydło Urmas Paet 2
+Beata Szydło Sara Cerdas 1
+Beata Szydło Rasa Juknevičienė 1
+Beata Szydło Cristian Terheş 1
+Beata Szydło Karlo Ressler 1
+Beata Szydło Dominique Bilde 1
+Beata Szydło Pierfrancesco Majorino 1
+Beata Szydło Zbigniew Kuźmiuk 2
+Beata Szydło Andżelika Anna Możdżanowska 1
+Beata Szydło Jens Geier 1
+Manuel Bompard Maxette Pirbakas 1
+Manuel Bompard Chris MacManus 1
+Manuel Bompard Othmar Karas 1
+Manuel Bompard Vlad Gheorghe 1
+Manuel Bompard Jan Olbrycht 1
+Manuel Bompard Ville Niinistö 1
+Manuel Bompard Veronika Vrecionová 1
+Manuel Bompard Maria Arena 1
+Manuel Bompard Eider Gardiazabal Rubial 1
+Manuel Bompard Ernest Urtasun 1
+Manuel Bompard Isabel García Muñoz 1
+Manuel Bompard Yannick Jadot 1
+Manuel Bompard Mazaly Aguilar 1
+Manuel Bompard Erik Bergkvist 1
+Manuel Bompard Karin Karlsbro 1
+Manuel Bompard Marina Mesure 1
+Manuel Bompard Michaela Šojdrová 1
+Manuel Bompard Alex Agius Saliba 1
+Manuel Bompard Sara Cerdas 1
+Manuel Bompard Alfred Sant 1
+Manuel Bompard Ljudmila Novak 1
+Manuel Bompard Ellie Chowns 1
+Manuel Bompard Alice Kuhnke 1
+Manuel Bompard Rovana Plumb 1
+Erik Bergkvist Izaskun Bilbao Barandica 1
+Erik Bergkvist Jessica Polfjärd 1
+Erik Bergkvist Janina Ochojska 1
+Erik Bergkvist Chris MacManus 1
+Erik Bergkvist Othmar Karas 1
+Erik Bergkvist Vlad Gheorghe 2
+Erik Bergkvist Ville Niinistö 2
+Erik Bergkvist Sirpa Pietikäinen 1
+Erik Bergkvist Eider Gardiazabal Rubial 1
+Erik Bergkvist Ernest Urtasun 1
+Erik Bergkvist Isabel García Muñoz 1
+Erik Bergkvist Yannick Jadot 1
+Erik Bergkvist Mazaly Aguilar 1
+Erik Bergkvist Karin Karlsbro 1
+Erik Bergkvist Marina Mesure 1
+Erik Bergkvist Michaela Šojdrová 1
+Erik Bergkvist Urmas Paet 1
+Erik Bergkvist Alex Agius Saliba 1
+Erik Bergkvist Sara Cerdas 1
+Erik Bergkvist Alfred Sant 1
+Erik Bergkvist David Cormand 1
+Erik Bergkvist Ellie Chowns 1
+Erik Bergkvist Alice Kuhnke 1
+Erik Bergkvist Rovana Plumb 2
+Caterina Chinnici Izaskun Bilbao Barandica 1
+Caterina Chinnici Loucas Fourlas 1
+Caterina Chinnici Sylwia Spurek 2
+Caterina Chinnici Reinhard Bütikofer 1
+Caterina Chinnici Chris MacManus 1
+Caterina Chinnici Ivan Vilibor Sinčić 1
+Caterina Chinnici Idoia Villanueva Ruiz 1
+Caterina Chinnici Angel Dzhambazki 1
+Caterina Chinnici Maria Arena 1
+Caterina Chinnici Tiziana Beghin 1
+Caterina Chinnici Jan-Christoph Oetjen 1
+Caterina Chinnici Karin Karlsbro 1
+Caterina Chinnici Robert Biedroń 1
+Caterina Chinnici José Ramón Bauzá Díaz 1
+Caterina Chinnici Michaela Šojdrová 1
+Caterina Chinnici Sara Cerdas 1
+Caterina Chinnici Cristian Terheş 1
+Caterina Chinnici Tineke Strik 2
+Caterina Chinnici Mara Bizzotto 1
+Caterina Chinnici Pierfrancesco Majorino 1
+Caterina Chinnici Kathleen Van Brempt 1
+Caterina Chinnici Irène Tolleret 1
+Caterina Chinnici Heléne Fritzon 1
+Urmas Paet Gilles Lebreton 1
+Urmas Paet Angel Dzhambazki 1
+Urmas Paet György Hölvényi 1
+Urmas Paet Joachim Stanisław Brudziński 1
+Urmas Paet Billy Kelleher 2
+Urmas Paet Christine Anderson 1
+Urmas Paet Karin Karlsbro 1
+Urmas Paet Robert Biedroń 1
+Urmas Paet Michaela Šojdrová 3
+Urmas Paet Georgios Kyrtsos 1
+Urmas Paet Dragoș Pîslaru 1
+Urmas Paet Alfred Sant 1
+Urmas Paet Costas Mavrides 1
+Urmas Paet Kathleen Van Brempt 1
+Urmas Paet Rovana Plumb 1
+Urmas Paet Maite Pagazaurtundúa 1
+Urmas Paet Tamás Deutsch 1
+Urmas Paet Sara Cerdas 1
+Urmas Paet Rasa Juknevičienė 2
+Urmas Paet Karlo Ressler 1
+Urmas Paet Mara Bizzotto 1
+Urmas Paet Dominique Bilde 1
+Urmas Paet Pierfrancesco Majorino 1
+Urmas Paet Zbigniew Kuźmiuk 1
+Urmas Paet Andżelika Anna Możdżanowska 1
+Urmas Paet Jens Geier 1
+Evin Incir Cornelia Ernst 1
+Evin Incir Susanna Ceccardi 1
+Evin Incir Emmanuel Maurel 1
+Evin Incir Bernhard Zimniok 1
+Evin Incir Charlie Weimers 1
+Sara Cerdas Loucas Fourlas 1
+Sara Cerdas Gilles Lebreton 1
+Sara Cerdas Chris MacManus 1
+Sara Cerdas Vlad Gheorghe 1
+Sara Cerdas Othmar Karas 1
+Sara Cerdas Angel Dzhambazki 1
+Sara Cerdas Eider Gardiazabal Rubial 1
+Sara Cerdas Billy Kelleher 1
+Sara Cerdas Isabel García Muñoz 1
+Sara Cerdas Karin Karlsbro 2
+Sara Cerdas Marina Mesure 1
+Sara Cerdas Robert Biedroń 1
+Sara Cerdas Michaela Šojdrová 1
+Sara Cerdas Georgios Kyrtsos 1
+Sara Cerdas Dragoș Pîslaru 1
+Sara Cerdas Alfred Sant 1
+Sara Cerdas Costas Mavrides 1
+Sara Cerdas Kathleen Van Brempt 1
+Sara Cerdas Rovana Plumb 2
+Sara Cerdas Sylwia Spurek 1
+Sara Cerdas Ivan Vilibor Sinčić 1
+Sara Cerdas Maite Pagazaurtundúa 1
+Sara Cerdas Ville Niinistö 1
+Sara Cerdas Ernest Urtasun 1
+Sara Cerdas Javier Moreno Sánchez 1
+Sara Cerdas Tamás Deutsch 1
+Sara Cerdas Yannick Jadot 1
+Sara Cerdas Alex Agius Saliba 1
+Sara Cerdas Dominique Bilde 1
+Sara Cerdas Pierfrancesco Majorino 1
+Sara Cerdas Zbigniew Kuźmiuk 1
+Sara Cerdas Andżelika Anna Możdżanowska 1
+Sara Cerdas Ellie Chowns 1
+Sara Cerdas Jens Geier 1
+Sara Cerdas Alice Kuhnke 1
+Rasa Juknevičienė Loránt Vincze 1
+Rasa Juknevičienė Pernando Barrena Arza 1
+Rasa Juknevičienė Katalin Cseh 1
+Rasa Juknevičienė Ivan Vilibor Sinčić 1
+Rasa Juknevičienė György Hölvényi 1
+Rasa Juknevičienė Joachim Stanisław Brudziński 1
+Rasa Juknevičienė Laura Ferrara 1
+Rasa Juknevičienė Tom Vandendriessche 1
+Rasa Juknevičienė Karin Karlsbro 1
+Rasa Juknevičienė José Ramón Bauzá Díaz 1
+Rasa Juknevičienė Michaela Šojdrová 3
+Rasa Juknevičienė Karlo Ressler 1
+Rasa Juknevičienė Mara Bizzotto 1
+Rasa Juknevičienė Pierfrancesco Majorino 1
+Rasa Juknevičienė Balázs Hidvéghi 1
+Rasa Juknevičienė Sunčana Glavak 1
+Rasa Juknevičienė Bernhard Zimniok 1
+Dominique Bilde Loucas Fourlas 1
+Dominique Bilde Gilles Lebreton 1
+Dominique Bilde Maite Pagazaurtundúa 2
+Dominique Bilde Angel Dzhambazki 2
+Dominique Bilde György Hölvényi 1
+Dominique Bilde Joachim Stanisław Brudziński 1
+Dominique Bilde Billy Kelleher 1
+Dominique Bilde Tamás Deutsch 1
+Dominique Bilde Karin Karlsbro 1
+Dominique Bilde Tineke Strik 1
+Dominique Bilde Robert Biedroń 1
+Dominique Bilde Michaela Šojdrová 1
+Dominique Bilde Georgios Kyrtsos 1
+Dominique Bilde Paolo Borchia 1
+Dominique Bilde Dragoș Pîslaru 1
+Dominique Bilde Costas Mavrides 1
+Dominique Bilde Pierfrancesco Majorino 1
+Dominique Bilde Zbigniew Kuźmiuk 1
+Dominique Bilde Silvia Sardone 1
+Dominique Bilde Andżelika Anna Możdżanowska 1
+Dominique Bilde Kathleen Van Brempt 1
+Dominique Bilde Bernhard Zimniok 1
+Dominique Bilde Jens Geier 1
+Dominique Bilde Rovana Plumb 1
+Giorgos Georgiou Delara Burkhardt 1
+Giorgos Georgiou Alex Agius Saliba 1
+Andżelika Anna Możdżanowska Gilles Lebreton 1
+Andżelika Anna Możdżanowska Maite Pagazaurtundúa 1
+Andżelika Anna Możdżanowska Angel Dzhambazki 1
+Andżelika Anna Możdżanowska Billy Kelleher 1
+Andżelika Anna Możdżanowska Tamás Deutsch 1
+Andżelika Anna Możdżanowska Karin Karlsbro 1
+Andżelika Anna Możdżanowska Robert Biedroń 1
+Andżelika Anna Możdżanowska Georgios Kyrtsos 1
+Andżelika Anna Możdżanowska Dragoș Pîslaru 1
+Andżelika Anna Możdżanowska Costas Mavrides 1
+Andżelika Anna Możdżanowska Pierfrancesco Majorino 1
+Andżelika Anna Możdżanowska Zbigniew Kuźmiuk 1
+Andżelika Anna Możdżanowska Kathleen Van Brempt 1
+Andżelika Anna Możdżanowska Jens Geier 1
+Andżelika Anna Możdżanowska Rovana Plumb 1
+Delara Burkhardt Ernest Urtasun 1
+Delara Burkhardt Laura Ferrara 1
+Delara Burkhardt Alice Kuhnke 1
+Ellie Chowns Chris MacManus 1
+Ellie Chowns Othmar Karas 1
+Ellie Chowns Vlad Gheorghe 1
+Ellie Chowns Ville Niinistö 1
+Ellie Chowns Eider Gardiazabal Rubial 1
+Ellie Chowns Ernest Urtasun 1
+Ellie Chowns Isabel García Muñoz 1
+Ellie Chowns Yannick Jadot 1
+Ellie Chowns Karin Karlsbro 1
+Ellie Chowns Marina Mesure 1
+Ellie Chowns Michaela Šojdrová 1
+Ellie Chowns Alex Agius Saliba 1
+Ellie Chowns Alfred Sant 1
+Ellie Chowns Alice Kuhnke 1
+Ellie Chowns Rovana Plumb 1
+Ljudmila Novak Angel Dzhambazki 1
+Ljudmila Novak Sylwia Spurek 1
+Ljudmila Novak Maxette Pirbakas 1
+Ljudmila Novak Carmen Avram 1
+Ljudmila Novak Mazaly Aguilar 1
+Eugenia Rodríguez Palop Izaskun Bilbao Barandica 1
+Eugenia Rodríguez Palop Loránt Vincze 1
+Eugenia Rodríguez Palop Sylwia Spurek 1
+Eugenia Rodríguez Palop Alex Agius Saliba 1
+Eugenia Rodríguez Palop Cristian Terheş 1
+Eugenia Rodríguez Palop Marie-Pierre Vedrenne 1
+Eugenia Rodríguez Palop Mario Furore 1
+Eugenia Rodríguez Palop Laura Ferrara 1
+Jessica Polfjärd Izaskun Bilbao Barandica 2
+Jessica Polfjärd David Cormand 1
+Jessica Polfjärd Ville Niinistö 1
+Jessica Polfjärd Sirpa Pietikäinen 2
+Jessica Polfjärd Rovana Plumb 1
+Pernando Barrena Arza Loránt Vincze 1
+Pernando Barrena Arza Katalin Cseh 1
+Pernando Barrena Arza Ivan Vilibor Sinčić 1
+Pernando Barrena Arza Chris MacManus 1
+Pernando Barrena Arza Laura Ferrara 1
+Pernando Barrena Arza Tom Vandendriessche 1
+Pernando Barrena Arza Karin Karlsbro 1
+Pernando Barrena Arza José Ramón Bauzá Díaz 1
+Pernando Barrena Arza Michaela Šojdrová 1
+Pernando Barrena Arza Mara Bizzotto 1
+Pernando Barrena Arza Pierfrancesco Majorino 1
+Pernando Barrena Arza Balázs Hidvéghi 1
+Pernando Barrena Arza Sunčana Glavak 1
+Pernando Barrena Arza Bernhard Zimniok 1
+Mónica Silvana González Ádám Kósa 1
+Carmen Avram Sylwia Spurek 1
+Othmar Karas Chris MacManus 1
+Othmar Karas Vlad Gheorghe 1
+Othmar Karas Ville Niinistö 1
+Othmar Karas Eider Gardiazabal Rubial 1
+Othmar Karas Ernest Urtasun 1
+Othmar Karas Isabel García Muñoz 1
+Othmar Karas Yannick Jadot 1
+Othmar Karas Nicolas Bay 1
+Othmar Karas Karin Karlsbro 1
+Othmar Karas Marina Mesure 1
+Othmar Karas Michaela Šojdrová 1
+Othmar Karas Alex Agius Saliba 1
+Othmar Karas Alfred Sant 1
+Othmar Karas Alice Kuhnke 1
+Othmar Karas Rovana Plumb 1
+Marc Tarabella Anna-Michelle Asimakopoulou 1
+Joachim Stanisław Brudziński Maite Pagazaurtundúa 1
+Joachim Stanisław Brudziński György Hölvényi 2
+Joachim Stanisław Brudziński Ernest Urtasun 1
+Joachim Stanisław Brudziński Jorge Buxadé Villalba 1
+Joachim Stanisław Brudziński Karin Karlsbro 1
+Joachim Stanisław Brudziński Michaela Šojdrová 2
+Joachim Stanisław Brudziński Georg Mayer 1
+Joachim Stanisław Brudziński Georgios Kyrtsos 1
+Joachim Stanisław Brudziński Dragoș Pîslaru 1
+Joachim Stanisław Brudziński Karlo Ressler 1
+Joachim Stanisław Brudziński Pierfrancesco Majorino 1
+Joachim Stanisław Brudziński Silvia Sardone 1
+Joachim Stanisław Brudziński Elena Lizzi 1
+Eider Gardiazabal Rubial Chris MacManus 1
+Eider Gardiazabal Rubial Vlad Gheorghe 1
+Eider Gardiazabal Rubial Ville Niinistö 1
+Eider Gardiazabal Rubial Ernest Urtasun 1
+Eider Gardiazabal Rubial Isabel García Muñoz 1
+Eider Gardiazabal Rubial Yannick Jadot 1
+Eider Gardiazabal Rubial Karin Karlsbro 1
+Eider Gardiazabal Rubial Marina Mesure 1
+Eider Gardiazabal Rubial Michaela Šojdrová 1
+Eider Gardiazabal Rubial Alex Agius Saliba 1
+Eider Gardiazabal Rubial Alfred Sant 1
+Eider Gardiazabal Rubial Alice Kuhnke 1
+Eider Gardiazabal Rubial Rovana Plumb 1
+Tiziana Beghin Marina Mesure 1
+Tiziana Beghin Tsvetelina Penkova 1
+Tiziana Beghin Mohammed Chahim 1
+Tiziana Beghin Tineke Strik 1
+Tiziana Beghin Karin Karlsbro 1
+Margarita de la Pisa Carrión Silvia Sardone 1
+Margarita de la Pisa Carrión Rosa D'Amato 1
+Alfred Sant Chris MacManus 1
+Alfred Sant Vlad Gheorghe 1
+Alfred Sant Ville Niinistö 1
+Alfred Sant Ernest Urtasun 2
+Alfred Sant Isabel García Muñoz 1
+Alfred Sant Yannick Jadot 1
+Alfred Sant Karin Karlsbro 1
+Alfred Sant Marina Mesure 1
+Alfred Sant Michaela Šojdrová 1
+Alfred Sant Alex Agius Saliba 1
+Alfred Sant Alice Kuhnke 1
+Alfred Sant Rovana Plumb 1
+Alessandro Panza Claudia Gamon 1
+Alessandro Panza Maxette Pirbakas 1
+Klemen Grošelj Konstantinos Arvanitis 1
+Klemen Grošelj Karin Karlsbro 1
+Marie-Pierre Vedrenne Adriana Maldonado López 1
+Eleonora Evi Cristian Terheş 1
+Eleonora Evi Martin Sonneborn 1
+Eleonora Evi Mario Furore 1
+Eleonora Evi Jaak Madison 1
+Paul Tang Katalin Cseh 1
+Balázs Hidvéghi Loránt Vincze 1
+Balázs Hidvéghi José Ramón Bauzá Díaz 1
+Balázs Hidvéghi Michaela Šojdrová 1
+Balázs Hidvéghi Katalin Cseh 1
+Balázs Hidvéghi Ivan Vilibor Sinčić 1
+Balázs Hidvéghi Mara Bizzotto 1
+Balázs Hidvéghi Pierfrancesco Majorino 1
+Balázs Hidvéghi Ádám Kósa 1
+Balázs Hidvéghi Sunčana Glavak 2
+Balázs Hidvéghi Bernhard Zimniok 2
+Balázs Hidvéghi Laura Ferrara 1
+Balázs Hidvéghi Tom Vandendriessche 1
+Balázs Hidvéghi Karin Karlsbro 1
+Elena Lizzi Enikő Győri 2
+Elena Lizzi Dragoș Pîslaru 1
+Elena Lizzi Angel Dzhambazki 1
+Elena Lizzi György Hölvényi 1
+Elena Lizzi Bogdan Rzońca 1
+Elena Lizzi Tamás Deutsch 1
+Elena Lizzi Jorge Buxadé Villalba 1
+Heléne Fritzon Irène Tolleret 1
+Heléne Fritzon Robert Biedroń 1
+Sylwia Spurek Izaskun Bilbao Barandica 1
+Sylwia Spurek Loucas Fourlas 1
+Sylwia Spurek Reinhard Bütikofer 1
+Sylwia Spurek Chris MacManus 1
+Sylwia Spurek Ivan Vilibor Sinčić 1
+Sylwia Spurek Idoia Villanueva Ruiz 1
+Sylwia Spurek Maria Arena 1
+Sylwia Spurek Joëlle Mélin 1
+Sylwia Spurek Yannick Jadot 1
+Sylwia Spurek Jan-Christoph Oetjen 1
+Sylwia Spurek Karin Karlsbro 1
+Sylwia Spurek José Ramón Bauzá Díaz 1
+Sylwia Spurek Michaela Šojdrová 1
+Sylwia Spurek Alex Agius Saliba 1
+Sylwia Spurek Cristian Terheş 1
+Sylwia Spurek Tineke Strik 1
+Sylwia Spurek Mara Bizzotto 1
+Sylwia Spurek Pierfrancesco Majorino 1
+Sylwia Spurek Kathleen Van Brempt 1
+Tsvetelina Penkova Marina Mesure 2
+Tsvetelina Penkova Patrizia Toia 1
+Tsvetelina Penkova Mohammed Chahim 1
+Tsvetelina Penkova Yannick Jadot 1
+Tsvetelina Penkova Karin Karlsbro 1
+Idoia Villanueva Ruiz Izaskun Bilbao Barandica 1
+Idoia Villanueva Ruiz José Ramón Bauzá Díaz 1
+Idoia Villanueva Ruiz Reinhard Bütikofer 1
+Idoia Villanueva Ruiz Michaela Šojdrová 1
+Idoia Villanueva Ruiz Chris MacManus 1
+Idoia Villanueva Ruiz Ivan Vilibor Sinčić 1
+Idoia Villanueva Ruiz Cristian Terheş 1
+Idoia Villanueva Ruiz Tineke Strik 1
+Idoia Villanueva Ruiz Mara Bizzotto 1
+Idoia Villanueva Ruiz Pierfrancesco Majorino 1
+Idoia Villanueva Ruiz Maria Arena 2
+Idoia Villanueva Ruiz Kathleen Van Brempt 1
+Idoia Villanueva Ruiz Jan-Christoph Oetjen 1
+Idoia Villanueva Ruiz Karin Karlsbro 1
+Claudia Gamon Loránt Vincze 1
+Claudia Gamon Maxette Pirbakas 1
+Claudia Gamon Paolo Borchia 1
+Claudia Gamon Jérôme Rivière 1
+Claudia Gamon Jens Geier 1
+Claudia Gamon Nicolas Bay 1
+Claudia Gamon Jorge Buxadé Villalba 1
+Ville Niinistö Izaskun Bilbao Barandica 1
+Ville Niinistö Chris MacManus 1
+Ville Niinistö Marcos Ros Sempere 1
+Ville Niinistö Vlad Gheorghe 1
+Ville Niinistö Angel Dzhambazki 1
+Ville Niinistö Sirpa Pietikäinen 1
+Ville Niinistö Ernest Urtasun 1
+Ville Niinistö Patrizia Toia 1
+Ville Niinistö Isabel García Muñoz 1
+Ville Niinistö Yannick Jadot 1
+Ville Niinistö Karin Karlsbro 1
+Ville Niinistö Marina Mesure 1
+Ville Niinistö Michaela Šojdrová 1
+Ville Niinistö Alex Agius Saliba 1
+Ville Niinistö David Cormand 1
+Ville Niinistö Alice Kuhnke 1
+Ville Niinistö Rovana Plumb 2
+Tamás Deutsch Gilles Lebreton 1
+Tamás Deutsch Maite Pagazaurtundúa 1
+Tamás Deutsch Angel Dzhambazki 2
+Tamás Deutsch György Hölvényi 1
+Tamás Deutsch Billy Kelleher 1
+Tamás Deutsch Laura Ferrara 1
+Tamás Deutsch Tom Vandendriessche 1
+Tamás Deutsch Jorge Buxadé Villalba 2
+Tamás Deutsch Karin Karlsbro 1
+Tamás Deutsch Enikő Győri 1
+Tamás Deutsch Robert Biedroń 1
+Tamás Deutsch Georgios Kyrtsos 1
+Tamás Deutsch Vincenzo Sofo 1
+Tamás Deutsch Dragoș Pîslaru 1
+Tamás Deutsch Karlo Ressler 1
+Tamás Deutsch Costas Mavrides 1
+Tamás Deutsch Pierfrancesco Majorino 1
+Tamás Deutsch Silvia Sardone 2
+Tamás Deutsch Zbigniew Kuźmiuk 1
+Tamás Deutsch Bogdan Rzońca 2
+Tamás Deutsch Kathleen Van Brempt 1
+Tamás Deutsch Jens Geier 1
+Tamás Deutsch Rovana Plumb 1
+Nicolas Bay Loránt Vincze 1
+Nicolas Bay Paolo Borchia 1
+Nicolas Bay Jérôme Rivière 1
+Nicolas Bay Jorge Buxadé Villalba 1
+Jan-Christoph Oetjen Izaskun Bilbao Barandica 1
+Jan-Christoph Oetjen José Ramón Bauzá Díaz 1
+Jan-Christoph Oetjen Reinhard Bütikofer 1
+Jan-Christoph Oetjen Michaela Šojdrová 1
+Jan-Christoph Oetjen Chris MacManus 1
+Jan-Christoph Oetjen Ivan Vilibor Sinčić 1
+Jan-Christoph Oetjen Cristian Terheş 1
+Jan-Christoph Oetjen Tineke Strik 1
+Jan-Christoph Oetjen Mara Bizzotto 1
+Jan-Christoph Oetjen Pierfrancesco Majorino 1
+Jan-Christoph Oetjen Maria Arena 1
+Jan-Christoph Oetjen Kathleen Van Brempt 1
+Jan-Christoph Oetjen Karin Karlsbro 1
+Paolo Borchia Loucas Fourlas 1
+Paolo Borchia Loránt Vincze 1
+Paolo Borchia Jérôme Rivière 1
+Paolo Borchia Jorge Buxadé Villalba 1
+Cristian Terheş Izaskun Bilbao Barandica 2
+Cristian Terheş Loránt Vincze 1
+Cristian Terheş Martin Sonneborn 2
+Cristian Terheş Reinhard Bütikofer 2
+Cristian Terheş Chris MacManus 1
+Cristian Terheş Ivan Vilibor Sinčić 1
+Cristian Terheş Jaak Madison 2
+Cristian Terheş Maria Arena 1
+Cristian Terheş Laura Ferrara 2
+Cristian Terheş Karin Karlsbro 1
+Cristian Terheş José Ramón Bauzá Díaz 1
+Cristian Terheş Michaela Šojdrová 1
+Cristian Terheş Georg Mayer 1
+Cristian Terheş Tineke Strik 1
+Cristian Terheş Mara Bizzotto 1
+Cristian Terheş Pierfrancesco Majorino 1
+Cristian Terheş Kathleen Van Brempt 1
+Cristian Terheş Mario Furore 1
+Silvia Sardone Jorge Buxadé Villalba 2
+Silvia Sardone Vincenzo Sofo 1
+Silvia Sardone Laura Ferrara 1
+Silvia Sardone Rosa D'Amato 1
+Silvia Sardone Tom Vandendriessche 1
+Ádám Kósa Loránt Vincze 1
+Ádám Kósa Martin Sonneborn 1
+Ádám Kósa Karlo Ressler 1
+Ádám Kósa Angel Dzhambazki 1
+Ádám Kósa György Hölvényi 1
+Ádám Kósa Rovana Plumb 1
+Sunčana Glavak Loránt Vincze 1
+Sunčana Glavak Katalin Cseh 1
+Sunčana Glavak Ivan Vilibor Sinčić 1
+Sunčana Glavak Laura Ferrara 1
+Sunčana Glavak Tom Vandendriessche 1
+Sunčana Glavak Karin Karlsbro 1
+Sunčana Glavak José Ramón Bauzá Díaz 1
+Sunčana Glavak Michaela Šojdrová 1
+Sunčana Glavak Mara Bizzotto 1
+Sunčana Glavak Pierfrancesco Majorino 1
+Sunčana Glavak Bernhard Zimniok 2
+Andrzej Halicki Enikő Győri 1
+Andrzej Halicki David Cormand 1
+Andrzej Halicki Marina Mesure 1
+Andrzej Halicki Sirpa Pietikäinen 1
+Andrzej Halicki Rovana Plumb 1
+Andrzej Halicki Mario Furore 1
+Jens Geier Gilles Lebreton 1
+Jens Geier Maite Pagazaurtundúa 1
+Jens Geier Angel Dzhambazki 1
+Jens Geier Billy Kelleher 1
+Jens Geier Karin Karlsbro 1
+Jens Geier Robert Biedroń 1
+Jens Geier Georgios Kyrtsos 1
+Jens Geier Dragoș Pîslaru 1
+Jens Geier Costas Mavrides 1
+Jens Geier Pierfrancesco Majorino 1
+Jens Geier Zbigniew Kuźmiuk 1
+Jens Geier Kathleen Van Brempt 1
+Jens Geier Rovana Plumb 1
+Martin Sonneborn Reinhard Bütikofer 1
+Martin Sonneborn Georg Mayer 1
+Martin Sonneborn Jaak Madison 2
+Martin Sonneborn Angel Dzhambazki 1
+Martin Sonneborn Laura Ferrara 1
+Gilles Lebreton Maite Pagazaurtundúa 1
+Gilles Lebreton Angel Dzhambazki 2
+Gilles Lebreton Billy Kelleher 1
+Gilles Lebreton Charlie Weimers 1
+Gilles Lebreton Karin Karlsbro 2
+Gilles Lebreton Robert Biedroń 1
+Gilles Lebreton Georgios Kyrtsos 1
+Gilles Lebreton Dragoș Pîslaru 1
+Gilles Lebreton Costas Mavrides 1
+Gilles Lebreton Pierfrancesco Majorino 1
+Gilles Lebreton Zbigniew Kuźmiuk 2
+Gilles Lebreton Kathleen Van Brempt 1
+Gilles Lebreton Rovana Plumb 1
+Vlad Gheorghe Janina Ochojska 1
+Vlad Gheorghe Chris MacManus 1
+Vlad Gheorghe György Hölvényi 1
+Vlad Gheorghe Ernest Urtasun 1
+Vlad Gheorghe Isabel García Muñoz 1
+Vlad Gheorghe Yannick Jadot 1
+Vlad Gheorghe Mazaly Aguilar 1
+Vlad Gheorghe Karin Karlsbro 1
+Vlad Gheorghe Marina Mesure 1
+Vlad Gheorghe Michaela Šojdrová 1
+Vlad Gheorghe Georg Mayer 1
+Vlad Gheorghe Alex Agius Saliba 1
+Vlad Gheorghe Karlo Ressler 1
+Vlad Gheorghe Nacho Sánchez Amor 1
+Vlad Gheorghe Alice Kuhnke 1
+Vlad Gheorghe Rovana Plumb 1
+Angel Dzhambazki Marcos Ros Sempere 1
+Angel Dzhambazki György Hölvényi 1
+Angel Dzhambazki Billy Kelleher 1
+Angel Dzhambazki Jorge Buxadé Villalba 1
+Angel Dzhambazki Karin Karlsbro 3
+Angel Dzhambazki Robert Biedroń 1
+Angel Dzhambazki Georgios Kyrtsos 1
+Angel Dzhambazki Dragoș Pîslaru 1
+Angel Dzhambazki Costas Mavrides 1
+Angel Dzhambazki Bogdan Rzońca 1
+Angel Dzhambazki Kathleen Van Brempt 1
+Angel Dzhambazki Rovana Plumb 1
+Angel Dzhambazki Maite Pagazaurtundúa 1
+Angel Dzhambazki Charlie Weimers 2
+Angel Dzhambazki Enikő Győri 1
+Angel Dzhambazki Pierfrancesco Majorino 1
+Angel Dzhambazki Zbigniew Kuźmiuk 3
+Billy Kelleher Maite Pagazaurtundúa 1
+Billy Kelleher Karin Karlsbro 1
+Billy Kelleher Robert Biedroń 1
+Billy Kelleher Georgios Kyrtsos 1
+Billy Kelleher Dragoș Pîslaru 1
+Billy Kelleher Costas Mavrides 1
+Billy Kelleher Pierfrancesco Majorino 1
+Billy Kelleher Zbigniew Kuźmiuk 1
+Billy Kelleher Kathleen Van Brempt 1
+Billy Kelleher Rovana Plumb 1
+Susanna Ceccardi Bernhard Zimniok 1
+Susanna Ceccardi Charlie Weimers 1
+Susanna Ceccardi Karlo Ressler 1
+Emmanuel Maurel Cornelia Ernst 1
+Emmanuel Maurel Tom Vandendriessche 1
+Christine Anderson Michaela Šojdrová 1
+Christine Anderson Mara Bizzotto 1
+Joëlle Mélin Rosa D'Amato 1
+Anna-Michelle Asimakopoulou Rovana Plumb 1
+Jorge Buxadé Villalba Loránt Vincze 1
+Jorge Buxadé Villalba György Hölvényi 1
+Jorge Buxadé Villalba Laura Ferrara 1
+Jorge Buxadé Villalba Tom Vandendriessche 1
+Jorge Buxadé Villalba Enikő Győri 1
+Jorge Buxadé Villalba Vincenzo Sofo 1
+Jorge Buxadé Villalba Jérôme Rivière 1
+Jorge Buxadé Villalba Bogdan Rzońca 1
+Tineke Strik Izaskun Bilbao Barandica 1
+Tineke Strik Reinhard Bütikofer 1
+Tineke Strik Chris MacManus 1
+Tineke Strik Ivan Vilibor Sinčić 1
+Tineke Strik Maria Arena 1
+Tineke Strik Karin Karlsbro 1
+Tineke Strik José Ramón Bauzá Díaz 1
+Tineke Strik Michaela Šojdrová 1
+Tineke Strik Mara Bizzotto 1
+Tineke Strik Pierfrancesco Majorino 1
+Tineke Strik Kathleen Van Brempt 1
+Tineke Strik Bernhard Zimniok 1
+Tineke Strik Alice Kuhnke 1
+Costas Mavrides Maite Pagazaurtundúa 1
+Costas Mavrides Karin Karlsbro 1
+Costas Mavrides Robert Biedroń 1
+Costas Mavrides Georgios Kyrtsos 1
+Costas Mavrides Dragoș Pîslaru 1
+Costas Mavrides Pierfrancesco Majorino 1
+Costas Mavrides Zbigniew Kuźmiuk 1
+Costas Mavrides Kathleen Van Brempt 1
+Costas Mavrides Rovana Plumb 1
+Bogdan Rzońca Enikő Győri 1
+Bogdan Rzońca Karlo Ressler 1
+Bogdan Rzońca György Hölvényi 1
+Mario Furore Izaskun Bilbao Barandica 1
+Mario Furore Loránt Vincze 1
+Mario Furore Enikő Győri 1
+Mario Furore Marina Mesure 1
+Mario Furore David Cormand 1
+Mario Furore Sirpa Pietikäinen 1
+Mario Furore Laura Ferrara 1
+Mario Furore Rovana Plumb 1
+Rovana Plumb Chris MacManus 1
+Rovana Plumb György Hölvényi 1
+Rovana Plumb Isabel García Muñoz 1
+Rovana Plumb Karin Karlsbro 2
+Rovana Plumb Marina Mesure 2
+Rovana Plumb Robert Biedroń 1
+Rovana Plumb Michaela Šojdrová 1
+Rovana Plumb Georgios Kyrtsos 1
+Rovana Plumb Dragoș Pîslaru 1
+Rovana Plumb David Cormand 2
+Rovana Plumb Kathleen Van Brempt 1
+Rovana Plumb Izaskun Bilbao Barandica 1
+Rovana Plumb Maite Pagazaurtundúa 1
+Rovana Plumb Sirpa Pietikäinen 2
+Rovana Plumb Ernest Urtasun 1
+Rovana Plumb Yannick Jadot 1
+Rovana Plumb Enikő Győri 1
+Rovana Plumb Alex Agius Saliba 1
+Rovana Plumb Karlo Ressler 1
+Rovana Plumb Pierfrancesco Majorino 1
+Rovana Plumb Zbigniew Kuźmiuk 1
+Rovana Plumb Alice Kuhnke 1
+Izaskun Bilbao Barandica Loránt Vincze 1
+Izaskun Bilbao Barandica Reinhard Bütikofer 1
+Izaskun Bilbao Barandica Chris MacManus 1
+Izaskun Bilbao Barandica Ivan Vilibor Sinčić 1
+Izaskun Bilbao Barandica Maria Arena 1
+Izaskun Bilbao Barandica Sirpa Pietikäinen 2
+Izaskun Bilbao Barandica Laura Ferrara 1
+Izaskun Bilbao Barandica Karin Karlsbro 1
+Izaskun Bilbao Barandica José Ramón Bauzá Díaz 1
+Izaskun Bilbao Barandica Michaela Šojdrová 1
+Izaskun Bilbao Barandica Mara Bizzotto 1
+Izaskun Bilbao Barandica Pierfrancesco Majorino 1
+Izaskun Bilbao Barandica David Cormand 2
+Izaskun Bilbao Barandica Kathleen Van Brempt 1
+Janina Ochojska Mazaly Aguilar 1
+Ivan Vilibor Sinčić Loránt Vincze 1
+Ivan Vilibor Sinčić Katalin Cseh 1
+Ivan Vilibor Sinčić Reinhard Bütikofer 1
+Ivan Vilibor Sinčić Chris MacManus 1
+Ivan Vilibor Sinčić Maria Arena 1
+Ivan Vilibor Sinčić Laura Ferrara 1
+Ivan Vilibor Sinčić Tom Vandendriessche 1
+Ivan Vilibor Sinčić Karin Karlsbro 2
+Ivan Vilibor Sinčić José Ramón Bauzá Díaz 2
+Ivan Vilibor Sinčić Michaela Šojdrová 2
+Ivan Vilibor Sinčić Mara Bizzotto 2
+Ivan Vilibor Sinčić Pierfrancesco Majorino 2
+Ivan Vilibor Sinčić Kathleen Van Brempt 1
+Ivan Vilibor Sinčić Bernhard Zimniok 1
+Maite Pagazaurtundúa György Hölvényi 1
+Maite Pagazaurtundúa Karin Karlsbro 1
+Maite Pagazaurtundúa Robert Biedroń 1
+Maite Pagazaurtundúa Michaela Šojdrová 1
+Maite Pagazaurtundúa Georgios Kyrtsos 1
+Maite Pagazaurtundúa Dragoș Pîslaru 1
+Maite Pagazaurtundúa Pierfrancesco Majorino 1
+Maite Pagazaurtundúa Zbigniew Kuźmiuk 1
+Maite Pagazaurtundúa Kathleen Van Brempt 1
+Ernest Urtasun Chris MacManus 1
+Ernest Urtasun Isabel García Muñoz 1
+Ernest Urtasun Laura Ferrara 1
+Ernest Urtasun Yannick Jadot 1
+Ernest Urtasun Karin Karlsbro 1
+Ernest Urtasun Marina Mesure 1
+Ernest Urtasun Michaela Šojdrová 1
+Ernest Urtasun Georg Mayer 1
+Ernest Urtasun Alex Agius Saliba 1
+Ernest Urtasun Alice Kuhnke 2
+Charlie Weimers Zbigniew Kuźmiuk 1
+Charlie Weimers Bernhard Zimniok 1
+Charlie Weimers Karin Karlsbro 1
+Enikő Győri György Hölvényi 1
+Enikő Győri Sirpa Pietikäinen 1
+Enikő Győri Marina Mesure 1
+Enikő Győri David Cormand 1
+Vincenzo Sofo Laura Ferrara 1
+Vincenzo Sofo Tom Vandendriessche 1
+Jérôme Rivière Loránt Vincze 1
+Pierfrancesco Majorino Loránt Vincze 1
+Pierfrancesco Majorino Chris MacManus 1
+Pierfrancesco Majorino Maria Arena 1
+Pierfrancesco Majorino Karin Karlsbro 4
+Pierfrancesco Majorino José Ramón Bauzá Díaz 2
+Pierfrancesco Majorino Michaela Šojdrová 2
+Pierfrancesco Majorino Robert Biedroń 1
+Pierfrancesco Majorino Georgios Kyrtsos 2
+Pierfrancesco Majorino Dragoș Pîslaru 1
+Pierfrancesco Majorino Kathleen Van Brempt 2
+Pierfrancesco Majorino Katalin Cseh 1
+Pierfrancesco Majorino Reinhard Bütikofer 1
+Pierfrancesco Majorino Laura Ferrara 1
+Pierfrancesco Majorino Tom Vandendriessche 1
+Pierfrancesco Majorino Mara Bizzotto 2
+Pierfrancesco Majorino Zbigniew Kuźmiuk 1
+Pierfrancesco Majorino Bernhard Zimniok 1
+Zbigniew Kuźmiuk Karin Karlsbro 3
+Zbigniew Kuźmiuk Robert Biedroń 1
+Zbigniew Kuźmiuk Georgios Kyrtsos 1
+Zbigniew Kuźmiuk Dragoș Pîslaru 1
+Zbigniew Kuźmiuk Kathleen Van Brempt 1
+Bernhard Zimniok Loránt Vincze 2
+Bernhard Zimniok Katalin Cseh 1
+Bernhard Zimniok Laura Ferrara 1
+Bernhard Zimniok Tom Vandendriessche 1
+Bernhard Zimniok Karin Karlsbro 1
+Bernhard Zimniok José Ramón Bauzá Díaz 1
+Bernhard Zimniok Michaela Šojdrová 1
+Bernhard Zimniok Mara Bizzotto 1
+Rosa D'Amato Georgios Kyrtsos 1
+Loránt Vincze Katalin Cseh 1
+Loránt Vincze Laura Ferrara 2
+Loránt Vincze Tom Vandendriessche 1
+Loránt Vincze Karin Karlsbro 1
+Loránt Vincze José Ramón Bauzá Díaz 1
+Loránt Vincze Michaela Šojdrová 1
+Loránt Vincze Mara Bizzotto 1
+Maxette Pirbakas Mazaly Aguilar 1
+Chris MacManus Maria Arena 1
+Chris MacManus Isabel García Muñoz 1
+Chris MacManus Karin Karlsbro 2
+Chris MacManus Marina Mesure 1
+Chris MacManus José Ramón Bauzá Díaz 1
+Chris MacManus Michaela Šojdrová 2
+Chris MacManus Kathleen Van Brempt 1
+Chris MacManus Reinhard Bütikofer 1
+Chris MacManus Yannick Jadot 1
+Chris MacManus Alex Agius Saliba 1
+Chris MacManus Mara Bizzotto 1
+Chris MacManus Alice Kuhnke 1
+Mohammed Chahim Marina Mesure 1
+Mohammed Chahim Karin Karlsbro 1
+Veronika Vrecionová Maria Arena 1
+Veronika Vrecionová Jan Olbrycht 1
+Maria Arena Reinhard Bütikofer 1
+Maria Arena Jan Olbrycht 1
+Maria Arena Karin Karlsbro 1
+Maria Arena José Ramón Bauzá Díaz 1
+Maria Arena Michaela Šojdrová 2
+Maria Arena Mara Bizzotto 1
+Maria Arena Kathleen Van Brempt 1
+György Hölvényi Michaela Šojdrová 2
+György Hölvényi Georg Mayer 1
+György Hölvényi Karlo Ressler 3
+György Hölvényi Nacho Sánchez Amor 1
+Isabel García Muñoz Yannick Jadot 1
+Isabel García Muñoz Karin Karlsbro 1
+Isabel García Muñoz Marina Mesure 1
+Isabel García Muñoz Michaela Šojdrová 1
+Isabel García Muñoz Alex Agius Saliba 1
+Isabel García Muñoz Alice Kuhnke 1
+Karin Karlsbro Marina Mesure 2
+Karin Karlsbro José Ramón Bauzá Díaz 2
+Karin Karlsbro Michaela Šojdrová 3
+Karin Karlsbro Robert Biedroń 1
+Karin Karlsbro Georgios Kyrtsos 2
+Karin Karlsbro Dragoș Pîslaru 1
+Karin Karlsbro Kathleen Van Brempt 2
+Karin Karlsbro Katalin Cseh 1
+Karin Karlsbro Reinhard Bütikofer 1
+Karin Karlsbro Laura Ferrara 1
+Karin Karlsbro Yannick Jadot 1
+Karin Karlsbro Tom Vandendriessche 1
+Karin Karlsbro Georg Mayer 1
+Karin Karlsbro Alex Agius Saliba 1
+Karin Karlsbro Mara Bizzotto 2
+Karin Karlsbro Alice Kuhnke 1
+Marina Mesure Sirpa Pietikäinen 1
+Marina Mesure Patrizia Toia 1
+Marina Mesure Yannick Jadot 2
+Marina Mesure Michaela Šojdrová 1
+Marina Mesure Alex Agius Saliba 1
+Marina Mesure David Cormand 1
+Marina Mesure Alice Kuhnke 1
+Robert Biedroń Georgios Kyrtsos 1
+Robert Biedroń Dragoș Pîslaru 1
+Robert Biedroń Kathleen Van Brempt 1
+Robert Biedroń Irène Tolleret 1
+Michaela Šojdrová José Ramón Bauzá Díaz 2
+Michaela Šojdrová Kathleen Van Brempt 1
+Michaela Šojdrová Katalin Cseh 1
+Michaela Šojdrová Reinhard Bütikofer 1
+Michaela Šojdrová Laura Ferrara 1
+Michaela Šojdrová Yannick Jadot 1
+Michaela Šojdrová Tom Vandendriessche 1
+Michaela Šojdrová Alex Agius Saliba 1
+Michaela Šojdrová Karlo Ressler 1
+Michaela Šojdrová Mara Bizzotto 3
+Michaela Šojdrová Alice Kuhnke 1
+José Ramón Bauzá Díaz Katalin Cseh 1
+José Ramón Bauzá Díaz Reinhard Bütikofer 1
+José Ramón Bauzá Díaz Laura Ferrara 1
+José Ramón Bauzá Díaz Tom Vandendriessche 1
+José Ramón Bauzá Díaz Karlo Ressler 1
+José Ramón Bauzá Díaz Mara Bizzotto 2
+José Ramón Bauzá Díaz Kathleen Van Brempt 1
+Georgios Kyrtsos Dragoș Pîslaru 1
+Georgios Kyrtsos Kathleen Van Brempt 1
+Dragoș Pîslaru Kathleen Van Brempt 1
+David Cormand Sirpa Pietikäinen 2
+Kathleen Van Brempt Reinhard Bütikofer 1
+Kathleen Van Brempt Mara Bizzotto 1
+Reinhard Bütikofer Jaak Madison 1
+Reinhard Bütikofer Laura Ferrara 1
+Reinhard Bütikofer Georg Mayer 1
+Reinhard Bütikofer Mara Bizzotto 1
+Katalin Cseh Mara Bizzotto 1
+Katalin Cseh Laura Ferrara 1
+Katalin Cseh Tom Vandendriessche 1
+Jaak Madison Georg Mayer 1
+Jaak Madison Laura Ferrara 1
+Patrizia Toia Yannick Jadot 1
+Laura Ferrara Tom Vandendriessche 2
+Laura Ferrara Georg Mayer 1
+Laura Ferrara Mara Bizzotto 1
+Laura Ferrara Alice Kuhnke 1
+Yannick Jadot Alex Agius Saliba 1
+Yannick Jadot Alice Kuhnke 1
+Tom Vandendriessche Mara Bizzotto 1
+Georg Mayer Karlo Ressler 1
+Georg Mayer Nacho Sánchez Amor 1
+Alex Agius Saliba Alice Kuhnke 1
+Karlo Ressler Nacho Sánchez Amor 2

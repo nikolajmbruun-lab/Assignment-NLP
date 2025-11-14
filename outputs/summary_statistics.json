@@ -1,0 +1,25 @@
+{
+  "dataset": {
+    "total_speeches": 500,
+    "total_extractions": 500,
+    "total_triples": 3966,
+    "unique_speakers": 326,
+    "unique_parties": 8,
+    "unique_topics": 1168,
+    "unique_entities": 901
+  },
+  "network": {
+    "num_nodes": 263,
+    "num_edges": 3796,
+    "density": 0.11017908454996662,
+    "num_communities": 7,
+    "avg_degree": 28.866920152091254,
+    "avg_betweenness": 0.004900896140035518
+  },
+  "political_orientation": {
+    "left": 76,
+    "center": 191,
+    "right": 206,
+    "unknown": 27
+  }
+}
